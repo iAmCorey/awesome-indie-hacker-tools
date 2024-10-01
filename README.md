@@ -22,6 +22,7 @@
   - [UI组件库](#ui组件库)
 - [图标库](#图标库)
 - [字体库](#字体库)
+- [模板](#模板)
 - [前端开发框架](#前端开发框架)
   - [Web](#web)
   - [App](#app)
@@ -115,6 +116,14 @@
 - [Fontfabric](https://www.fontfabric.com/): 保加利亚字体工作室，提供高质量的免费和付费字体，专注于现代和实验性设计。
 - [FontSpace](https://www.fontspace.com/): 提供超过80,000种免费字体下载，包括个人使用和商业用途的字体。用户可上传自己的字体作品。
 
+
+## 模板
+- [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+- [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+
+
 ## 前端开发框架
 ### Web
 - [React](https://reactjs.org/): 基于JavaScript的框架，用于构建用户界面的灵活库
@@ -145,7 +154,6 @@
 ## 后端开发框架
 - [Nest.js](https://nestjs.com/): 一个基于Node.js的框架，用于构建服务器端应用
 - [FastAPI](https://fastapi.tiangolo.com/): 一个基于Python的框架，用于构建API
-
 
 
 ## 数据库
@@ -186,6 +194,7 @@
 - [Auth0](https://auth0.com/): 灵活的身份验证和授权平台，支持多种集成方式。
 - [Okta](https://www.okta.com/): 企业级身份和访问管理解决方案。
 - [Authgear](https://www.authgear.com/): 开源的身份即服务(IDaaS)平台，提供全面的身份验证功能。
+- [Clerk](https://clerk.com/): 一个现代的身份验证和用户管理平台，支持多种登录方式和第三方集成。
 
 
 ## 支付
