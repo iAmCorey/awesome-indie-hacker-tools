@@ -12,7 +12,6 @@
 
 网站地址 [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (开发中)
 
-## 目录
 
 ## 目录
 
