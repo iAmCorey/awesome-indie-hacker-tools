@@ -4,13 +4,13 @@
 
 💡 独立开发/出海开发相关技术栈及工具
 
-Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术栈及工具
+持续收录**独立开发/出海开发**相关技术栈及工具
 
 每日手动持续更新中
 
 欢迎提交pr和issue，提交你的工具或修正建议
 
-网站地址 [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools)
+网站地址 [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (开发中)
 
 ## 目录
 
@@ -20,6 +20,7 @@ Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术�
 - [UI](#ui)
   - [UI框架](#ui框架)
   - [UI组件库](#ui组件库)
+- [图标库](#图标库)
 - [前端开发框架](#前端开发框架)
   - [Web](#web)
   - [App](#app)
@@ -28,7 +29,16 @@ Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术�
 - [数据库](#数据库)
   - [云数据库](#云数据库)
   - [ORM](#orm)
-
+- [储存](#储存)
+- [登录](#登录)
+- [支付](#支付)
+- [国际化](#国际化)
+- [域名购买](#域名购买)
+- [域名邮件](#域名邮件)
+- [部署](#部署)
+- [产品发布推广](#产品发布推广)
+- [统计分析](#统计分析)
+- [SEO](#seo)
 
 
 
@@ -66,6 +76,23 @@ Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术�
 - [Framer Motion](https://www.framer.com/motion/): 强大的React动画库。免费开源。
 - [Storybook](https://storybook.js.org/): UI组件开发环境，支持多种前端框架。核心功能免费开源，有付费的云服务。
 - [Aceternity UI](https://ui.aceternity.com/): 新兴的Tailwind CSS组件库，提供现代化和动画丰富的UI组件。目前免费使用。
+
+
+
+## 图标库
+- [Iconify](https://iconify.design/): 一个图标集合，支持多种框架，提供SVG和Web组件。核心图标集免费开源，有付费的高级图标集和工具。
+- [Framer Icons](https://www.framer.com/icons/): 一个基于React的图标库，提供现代化的图标和动画效果。免费开源。
+- [Heroicons](https://heroicons.com/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
+- [Phosphor Icons](https://phosphoricons.com/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
+- [MUI Icons](https://mui.com/components/icons/): 一个基于React的图标库，提供现代化的图标和动画效果。核心图标集免费开源，高级图标集需付费。
+- [Ant Design Icons](https://ant.design/components/icon/): 一个基于React的图标库，提供现代化的图标和动画效果。核心图标集免费开源，高级图标集需付费。
+- [Simple Icons](https://simpleicons.org/): 一个图标集合，提供多种品牌的图标。免费开源。
+- [Feather Icons](https://feathericons.com/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
+- [hugeicons](https://hugeicons.com/): 一个图标集合，提供多种品牌的图标。免费开源。
+- [lucide](https://lucide.dev/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
+- [simpleicons](https://simpleicons.org/): 一个图标集合，提供多种品牌的图标。免费开源。
+- [fontawesome](https://fontawesome.com/icons): 一个图标集合，提供多种品牌的图标。有免费计划，付费计划起价$7/月。
+
 
 
 ## 前端开发框架
@@ -124,11 +151,11 @@ Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术�
 - [Kysely](https://kysely.dev/): 类型安全的SQL查询构建器，专注于查询性能和类型推断。
 
 
-# 储存
+## 储存
 - [Cloudflare R2](https://www.cloudflare.com/products/r2/): 一个基于对象的存储平台，提供高性能和低成本的存储解决方案。
 - [AWS S3](https://aws.amazon.com/s3/): 一个基于对象的存储平台，提供高性能和低成本的存储解决方案。
 
-# 登录
+## 登录
 - [NextAuth](https://next-auth.js.org/): 为Next.js应用提供完整的身份验证解决方案。
 - [Auth.js](https://authjs.dev/): 框架无关的身份验证库，支持多种认证提供商。
 - [Supabase Auth](https://supabase.com/docs/reference/javascript/supabase-auth-sign-in-with-oauth): 集成于Supabase平台的身份验证服务，支持多种登录方式。
@@ -139,13 +166,33 @@ Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术�
 - [Authgear](https://www.authgear.com/): 开源的身份即服务(IDaaS)平台，提供全面的身份验证功能。
 
 
-# 支付
+## 支付
 - [Stripe](https://stripe.com/): 全面的在线支付处理平台，支持多种支付方式和货币。
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
 
-# 域名邮件
+
+## 国际化
+- [i18next](https://www.i18next.com/): 一个功能丰富的国际化框架，支持多种语言和地区。适用于各种JavaScript环境，包括浏览器和Node.js。
+- [next-intl](https://next-intl-docs.vercel.app/): 专为Next.js应用设计的国际化解决方案，提供类型安全和优化的国际化功能。
+
+
+
+## 域名购买
+- [Namecheap](https://www.namecheap.com/): 知名域名注册商，提供具有竞争力的价格和优质客户服务。
+- [GoDaddy](https://www.godaddy.com/): 全球最大的域名注册商之一，提供广泛的域名选择和附加服务。
+- [Google Domains](https://domains.google/): 谷歌提供的域名注册服务，简洁易用，集成谷歌其他服务。
+- [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/): 以成本价提供域名注册，无隐藏费用。
+- [Porkbun](https://porkbun.com/): 新兴域名注册商，以低价和创新服务吸引用户。
+- [NameSilo](https://www.namesilo.com/): 以低价和批量注册功能著称的域名注册商。
+- [Gandi](https://www.gandi.net/): 注重隐私和安全的域名注册商，提供多种附加服务。
+- [Hover](https://www.hover.com/): 专注于简洁用户体验的域名注册商，提供清晰定价。
+- [Domain.com](https://www.domain.com/): 提供多种顶级域名和网站建设工具的综合平台。
+- [Dynadot](https://www.dynadot.com/): 提供灵活的域名管理选项和批量操作功能。
+
+
+## 域名邮件
 - [Cloudflare](https://www.cloudflare.com/): 提供DNS管理、CDN和邮件路由服务的网络基础设施平台。
 - [Zoho](https://www.zoho.com/): 提供企业级电子邮件托管和协作工具的综合套件。
 - [Resend](https://resend.com/): 为开发者设计的现代电子邮件API平台。
@@ -153,15 +200,53 @@ Awesome Indie Hacker Tools持续收录**独立开发/出海开发**相关技术�
 - [Postmark](https://postmarkapp.com/): 快速可靠的交易性电子邮件发送服务。
 - [Mailgun](https://www.mailgun.com/): 强大的电子邮件API服务，支持大规模邮件发送和追踪。
 
-# 国际化
-- [i18next](https://www.i18next.com/): 一个功能丰富的国际化框架，支持多种语言和地区。适用于各种JavaScript环境，包括浏览器和Node.js。
-- [next-intl](https://next-intl-docs.vercel.app/): 专为Next.js应用设计的国际化解决方案，提供类型安全和优化的国际化功能。
 
 
-# 部署
+## 部署
 - [Vercel](https://vercel.com/): 一个面向前端开发者的云平台，专注于静态站点和无服务器函数的部署。提供免费计划和高级功能的付费计划，起价$20/月。
 - [Netlify](https://www.netlify.com/): 一个自动化现代网络项目的平台，提供持续部署、无服务器函数等功能。有免费计划，付费计划起价$19/月。
 - [Cloudflare Pages](https://pages.cloudflare.com/): Cloudflare提供的JAMstack平台，用于部署静态站点和单页应用。提供免费计划和企业级解决方案。
 - [Zeabur](https://zeabur.com/): 一个现代化的应用部署和托管平台，支持多种编程语言和框架。提供免费计划，付费计划根据资源使用量定价。
 - [Render](https://render.com/): 一个统一的云平台，用于构建和运行所有应用和网站。提供免费和付费计划，静态站点托管免费，其他服务起价因类型而异。
 - [Fly.io](https://fly.io/): 一个全球分布式应用平台，允许开发者在靠近用户的地方运行应用。提供有限的免费资源，付费计划按使用量计费。
+- [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
+
+
+## 产品发布推广
+- [Product Hunt](https://producthunt.com/): 一个产品发布和社区驱动的平台，用户可以发布新产品，并获得反馈和推广。
+- [Indie Hackers](https://www.indiehackers.com/): 一个面向独立开发者的社区，提供资源和支持，帮助用户发布新产品。
+- [Hacker News](https://news.ycombinator.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [Reddit](https://www.reddit.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [Twitter](https://twitter.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [Facebook](https://www.facebook.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [Instagram](https://www.instagram.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [LinkedIn](https://www.linkedin.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [v2ex](https://www.v2ex.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [linux.do](https://linux.do/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+
+
+
+## 统计分析
+- [Posthog](https://posthog.com/): 一个开源的统计分析平台，提供用户行为分析和产品反馈收集功能。
+- [Mixpanel](https://mixpanel.com/): 一个全面的分析平台，提供用户行为分析、事件跟踪和数据驱动的决策支持。
+- [Google Analytics](https://analytics.google.com/): 一个广泛使用的统计分析工具，提供网站流量分析和用户行为跟踪。
+- [Matomo](https://matomo.org/): 一个开源的统计分析平台，提供用户行为分析和数据隐私保护功能。
+- [Fathom](https://fathom.video/): 一个专注于隐私的统计分析工具，提供用户行为分析和数据隐私保护功能。
+- [Hotjar](https://hotjar.com/): 一个全面的分析平台，提供用户行为分析、用户反馈收集和网站性能监控。
+- [Amplitude](https://amplitude.com/): 一个全面的分析平台，提供用户行为分析、事件跟踪和数据驱动的决策支持。
+- [Kissmetrics](https://www.kissmetrics.com/): 一个用户行为分析平台，提供用户行为分析和数据驱动的决策支持。
+- [Plausible](https://plausible.io/): 一个开源的统计分析平台，提供用户行为分析和数据隐私保护功能。
+- [Umami](https://umami.is/): 一个开源的统计分析平台，提供用户行为分析和数据隐私保护功能。
+
+
+## SEO
+- [Next SEO](https://nextjs.org/docs/pages/building-your-application/optimizing/head): 一个用于Next.js应用的SEO优化工具，提供自动生成和优化HTML头信息的功能。
+- [Semrush](https://www.semrush.com/): 一个全面的SEO工具，提供关键词研究、竞争对手分析、网站流量分析和内容优化建议。
+- [Ahrefs](https://ahrefs.com/): 一个全面的SEO工具，提供关键词研究、竞争对手分析、网站流量分析和内容优化建议。
+- [Moz](https://moz.com/): 一个全面的SEO工具，提供关键词研究、竞争对手分析、网站流量分析和内容优化建议。
+- [Google Search Console](https://search.google.com/search-console/about): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
+- [Google Analytics](https://analytics.google.com/analytics/web/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
+- [Google Tag Manager](https://tagmanager.google.com/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
+- [Google Optimize](https://optimize.google.com/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
+- [Google Ads](https://ads.google.com/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
+- [SimilarWeb](https://www.similarweb.com/): 一个全面的SEO工具，提供网站流量分析和内容优化建议。
