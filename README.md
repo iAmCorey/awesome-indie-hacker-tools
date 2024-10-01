@@ -20,6 +20,7 @@
   - [UI框架](#ui框架)
   - [UI组件库](#ui组件库)
 - [图标库](#图标库)
+- [字体库](#字体库)
 - [前端开发框架](#前端开发框架)
   - [Web](#web)
   - [App](#app)
@@ -52,14 +53,16 @@
 - [Framer](https://www.framer.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，专业版起价$15/月。
 - [Webflow](https://webflow.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，付费计划起价$14/月。
 
+
+
 ## UI
 ### UI框架
-- [Tailwind CSS](https://tailwindcss.com/): 一个基于CSS的UI框架，提供现代化的UI组件和样式。核心框架免费开源，有付费的组件库和工具。
-- [Bootstrap](https://getbootstrap.com/): 一个基于CSS的UI框架，提供现代化的UI组件和样式。完全免费开源。
-- [Ant Design](https://ant.design/): 一个基于React的UI框架，提供现代化的UI组件和样式。免费开源，有付费的企业版。
-- [Material UI](https://mui.com/): 一个基于React的UI框架，提供现代化的UI组件和样式。核心库免费开源，有付费的高级组件和工具。
-- [Chakra UI](https://chakra-ui.com/): 一个基于React的UI框架，提供现代化的UI组件和样式。免费开源，有付费的专业支持。
-- [Mantine](https://mantine.dev/): 一个基于React的UI框架，提供现代化的UI组件和样式。完全免费开源。
+- [Tailwind CSS](https://tailwindcss.com/): 一个实用优先的CSS框架,通过预定义的类名快速构建自定义设计。核心框架免费开源,提供付费的组件库Tailwind UI。
+- [Bootstrap](https://getbootstrap.com/): 最流行的CSS框架之一,提供响应式栅格系统和预设组件。完全免费开源,由Twitter团队开发维护。
+- [Ant Design](https://ant.design/): 企业级UI设计语言和React组件库,由蚂蚁金服开源。基础版免费,提供付费的高级功能和技术支持。
+- [Material UI](https://mui.com/): 实现Google Material Design的React组件库。核心组件免费开源,提供付费的高级组件和主题工具。
+- [Chakra UI](https://chakra-ui.com/): 模块化的React组件库,注重可访问性和开发体验。完全免费开源,有付费的专业培训和咨询。
+- [Mantine](https://mantine.dev/): 功能丰富的React组件库和hooks集合,支持服务端渲染和深色模式。完全免费开源。
 
 ### UI组件库
 - [Tailwind UI](https://tailwindui.com/): 基于Tailwind CSS的高质量UI组件库，提供丰富的预设组件和设计模式。付费产品，起价$149。
@@ -79,20 +82,29 @@
 
 
 ## 图标库
-- [Iconify](https://iconify.design/): 一个图标集合，支持多种框架，提供SVG和Web组件。核心图标集免费开源，有付费的高级图标集和工具。
-- [Framer Icons](https://www.framer.com/icons/): 一个基于React的图标库，提供现代化的图标和动画效果。免费开源。
-- [Heroicons](https://heroicons.com/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
-- [Phosphor Icons](https://phosphoricons.com/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
-- [MUI Icons](https://mui.com/components/icons/): 一个基于React的图标库，提供现代化的图标和动画效果。核心图标集免费开源，高级图标集需付费。
-- [Ant Design Icons](https://ant.design/components/icon/): 一个基于React的图标库，提供现代化的图标和动画效果。核心图标集免费开源，高级图标集需付费。
-- [Simple Icons](https://simpleicons.org/): 一个图标集合，提供多种品牌的图标。免费开源。
-- [Feather Icons](https://feathericons.com/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
-- [hugeicons](https://hugeicons.com/): 一个图标集合，提供多种品牌的图标。免费开源。
-- [lucide](https://lucide.dev/): 一个基于SVG的图标库，提供现代化的图标和动画效果。免费开源。
-- [simpleicons](https://simpleicons.org/): 一个图标集合，提供多种品牌的图标。免费开源。
-- [fontawesome](https://fontawesome.com/icons): 一个图标集合，提供多种品牌的图标。有免费计划，付费计划起价$7/月。
+- [Iconify](https://iconify.design/): 大型图标集合，支持多框架，提供SVG和Web组件。大部分图标免费，部分高级图标和工具需付费。
+- [Heroicons](https://heroicons.com/): 由Tailwind CSS团队制作的SVG图标库，提供手工制作的简洁图标。完全免费开源。
+- [Phosphor Icons](https://phosphoricons.com/): 灵活的图标集，提供多种风格和格式。基础版免费，高级功能需付费订阅。
+- [Material Icons](https://fonts.google.com/icons): Google的官方图标库，遵循Material Design指南。完全免费使用。
+- [Font Awesome](https://fontawesome.com/): 广泛使用的图标库，提供大量图标和样式。基础版免费，Pro版订阅起价$99/年。
+- [Feather Icons](https://feathericons.com/): 简约风格的开源图标集，提供常用的界面图标。完全免费使用。
+- [Lucide](https://lucide.dev/): Feather Icons的社区驱动分支，提供更多图标和定制选项。免费开源。
+- [Simple Icons](https://simpleicons.org/): 收集了数千个品牌和流行服务的SVG图标。完全免费使用。
+- [Tabler Icons](https://tabler-icons.io/): 超过4200个免费的MIT许可的SVG图标。基础版免费，高级版需付费。
+- [Remix Icon](https://remixicon.com/): 开源的中性风格图标系统，提供2000多个图标。完全免费使用。
+- [Boxicons](https://boxicons.com/): 高质量的网页友好图标库，提供常见UI元素图标。免费使用，有付费的扩展集。
+- [Ionicons](https://ionic.io/ionicons): Ionic Framework的开源图标集，适用于Web、iOS、Android和桌面应用。完全免费使用。
 
 
+## 字体库
+- [Google Fonts](https://fonts.google.com/): 谷歌提供的免费字体库，包含1000多种字体，支持超过135种语言。可通过API或下载使用。
+- [Adobe Fonts](https://fonts.adobe.com/): Adobe提供的订阅制字体服务，拥有20,000多种字体。需要Creative Cloud订阅或单独付费使用。
+- [Font Squirrel](https://www.fontsquirrel.com/): 提供高质量的免费商用字体，同时也有付费字体。包含字体生成器等工具。
+- [Fontshare](https://www.fontshare.com/): Indian Type Foundry (ITF) 推出的免费字体平台，提供精选的高质量字体，可用于个人和商业项目。
+- [Fontspring](https://www.fontspring.com/): 独立字体代理商，提供来自多个铸字厂的付费字体，价格透明，一次性购买永久授权。
+- [MyFonts](https://www.myfonts.com/): Monotype旗下的字体零售平台，提供超过130,000种字体，包括免费和付费选项。
+- [Fontfabric](https://www.fontfabric.com/): 保加利亚字体工作室，提供高质量的免费和付费字体，专注于现代和实验性设计。
+- [FontSpace](https://www.fontspace.com/): 提供超过80,000种免费字体下载，包括个人使用和商业用途的字体。用户可上传自己的字体作品。
 
 ## 前端开发框架
 ### Web
