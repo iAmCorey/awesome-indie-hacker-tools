@@ -15,6 +15,7 @@
 
 ## 目录
 
+- [灵感获取](#灵感获取)
 - [原型设计](#原型设计)
 - [UI](#ui)
   - [UI框架](#ui框架)
@@ -42,7 +43,15 @@
 
 
 
-
+## 灵感获取
+- [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
+- [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
+- [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
+- [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
+- [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
+- [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
+- [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
+- [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
