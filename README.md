@@ -213,40 +213,41 @@
 
 
 ## 产品发布推广
-- [Product Hunt](https://producthunt.com/): 一个产品发布和社区驱动的平台，用户可以发布新产品，并获得反馈和推广。
-- [Indie Hackers](https://www.indiehackers.com/): 一个面向独立开发者的社区，提供资源和支持，帮助用户发布新产品。
-- [Hacker News](https://news.ycombinator.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [Reddit](https://www.reddit.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [Twitter](https://twitter.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [Facebook](https://www.facebook.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [Instagram](https://www.instagram.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [LinkedIn](https://www.linkedin.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [v2ex](https://www.v2ex.com/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
-- [linux.do](https://linux.do/): 一个面向开发者的社区，用户可以发布新产品，并获得反馈和推广。
+- [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
+- [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
+- [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
+- [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
+- [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
+- [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
+- [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
+- [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
+- [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
 
 
 
 ## 统计分析
-- [Posthog](https://posthog.com/): 一个开源的统计分析平台，提供用户行为分析和产品反馈收集功能。
-- [Mixpanel](https://mixpanel.com/): 一个全面的分析平台，提供用户行为分析、事件跟踪和数据驱动的决策支持。
-- [Google Analytics](https://analytics.google.com/): 一个广泛使用的统计分析工具，提供网站流量分析和用户行为跟踪。
-- [Matomo](https://matomo.org/): 一个开源的统计分析平台，提供用户行为分析和数据隐私保护功能。
-- [Fathom](https://fathom.video/): 一个专注于隐私的统计分析工具，提供用户行为分析和数据隐私保护功能。
-- [Hotjar](https://hotjar.com/): 一个全面的分析平台，提供用户行为分析、用户反馈收集和网站性能监控。
-- [Amplitude](https://amplitude.com/): 一个全面的分析平台，提供用户行为分析、事件跟踪和数据驱动的决策支持。
-- [Kissmetrics](https://www.kissmetrics.com/): 一个用户行为分析平台，提供用户行为分析和数据驱动的决策支持。
-- [Plausible](https://plausible.io/): 一个开源的统计分析平台，提供用户行为分析和数据隐私保护功能。
-- [Umami](https://umami.is/): 一个开源的统计分析平台，提供用户行为分析和数据隐私保护功能。
+- [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
+- [Mixpanel](https://mixpanel.com/): 强大的用户行为分析工具，支持事件跟踪、留存分析和个性化营销。提供有限的免费版和多个付费层级。
+- [Google Analytics](https://analytics.google.com/): 谷歌提供的免费网站分析工具，提供全面的流量和用户行为数据。也有付费的GA360版本。
+- [Matomo](https://matomo.org/): 注重隐私的开源分析平台，可自托管或云托管。提供免费的自托管版本和付费的云服务。
+- [Fathom](https://usefathom.com/): 简单、轻量级的隐私友好分析工具。无免费版，付费计划起价$14/月。
+- [Hotjar](https://www.hotjar.com/): 结合热图、会话录制和调查功能的用户体验分析工具。有有限的免费版和多个付费计划。
+- [Amplitude](https://amplitude.com/): 产品智能平台，提供深入的用户行为分析和产品优化建议。有免费版和企业版。
+- [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
+- [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
+- [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
 
 
 ## SEO
-- [Next SEO](https://nextjs.org/docs/pages/building-your-application/optimizing/head): 一个用于Next.js应用的SEO优化工具，提供自动生成和优化HTML头信息的功能。
-- [Semrush](https://www.semrush.com/): 一个全面的SEO工具，提供关键词研究、竞争对手分析、网站流量分析和内容优化建议。
-- [Ahrefs](https://ahrefs.com/): 一个全面的SEO工具，提供关键词研究、竞争对手分析、网站流量分析和内容优化建议。
-- [Moz](https://moz.com/): 一个全面的SEO工具，提供关键词研究、竞争对手分析、网站流量分析和内容优化建议。
-- [Google Search Console](https://search.google.com/search-console/about): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
-- [Google Analytics](https://analytics.google.com/analytics/web/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
-- [Google Tag Manager](https://tagmanager.google.com/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
-- [Google Optimize](https://optimize.google.com/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
-- [Google Ads](https://ads.google.com/): 一个免费的SEO工具，提供网站流量分析和内容优化建议。
-- [SimilarWeb](https://www.similarweb.com/): 一个全面的SEO工具，提供网站流量分析和内容优化建议。
+- [Next SEO](https://github.com/garmeeh/next-seo): 一个用于Next.js应用的SEO优化插件，简化了元标签和JSON-LD结构化数据的管理。
+- [Semrush](https://www.semrush.com/): 综合性SEO工具套件，提供关键词研究、网站审计、竞争对手分析等功能。付费服务，起价$119.95/月。
+- [Ahrefs](https://ahrefs.com/): 强大的SEO工具平台，专注于反向链接分析、关键词研究和内容探索。付费服务，起价$99/月。
+- [SimilarWeb](https://www.similarweb.com/): 提供网站流量分析、竞争对手分析和市场研究的综合工具。有免费版和付费计划，起价$99/月。
+- [Moz Pro](https://moz.com/products/pro): 提供网站审计、排名跟踪和链接研究等SEO功能的综合工具。付费服务，起价$99/月。
+- [Google Search Console](https://search.google.com/search-console/about): 谷歌官方免费工具，帮助网站所有者监控和维护网站在谷歌搜索结果中的表现。
+- [Google Analytics](https://analytics.google.com/): 谷歌提供的免费网站分析工具，虽主要用于流量分析，但也提供有价值的SEO相关数据。
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): 强大的网站爬虫工具，用于SEO审计和分析。提供免费版（有限制）和付费版（£149/年）。
+- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/): 流行的WordPress SEO插件，提供内容优化建议和技术SEO设置。基础版免费，高级版€99/年。
+- [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
+- [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
