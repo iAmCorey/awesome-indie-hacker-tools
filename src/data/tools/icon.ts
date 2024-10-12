@@ -1,0 +1,145 @@
+export const iconLibraries = [
+  {
+    title: "Iconify",
+    category: "图标库",
+    tags: ["多框架支持", "SVG", "Web组件"],
+    slug: "iconify",
+    description: "大型图标集合，支持多框架，提供SVG和Web组件。大部分图标免费，部分高级图标和工具需付费。",
+    site: {
+      name: "Iconify",
+      url: "https://iconify.design/",
+    },
+  },
+  {
+    title: "Heroicons",
+    category: "图标库",
+    tags: ["SVG", "Tailwind CSS", "简洁"],
+    slug: "heroicons",
+    description: "由Tailwind CSS团队制作的SVG图标库，提供手工制作的简洁图标。完全免费开源。",
+    site: {
+      name: "Heroicons",
+      url: "https://heroicons.com/",
+    },
+  },
+  {
+    title: "Phosphor Icons",
+    category: "图标库",
+    tags: ["灵活", "多风格", "多格式"],
+    slug: "phosphor-icons",
+    description: "灵活的图标集，提供多种风格和格式。基础版免费，高级功能需付费订阅。",
+    site: {
+      name: "Phosphor Icons",
+      url: "https://phosphoricons.com/",
+    },
+  },
+  {
+    title: "Material Icons",
+    category: "图标库",
+    tags: ["Google", "Material Design", "免费"],
+    slug: "material-icons",
+    description: "Google的官方图标库，遵循Material Design指南。完全免费使用。",
+    site: {
+      name: "Material Icons",
+      url: "https://fonts.google.com/icons",
+    },
+  },
+  {
+    title: "Font Awesome",
+    category: "图标库",
+    tags: ["广泛使用", "多样式", "字体图标"],
+    slug: "font-awesome",
+    description: "广泛使用的图标库，提供大量图标和样式。基础版免费，Pro版订阅起价$99/年。",
+    site: {
+      name: "Font Awesome",
+      url: "https://fontawesome.com/",
+    },
+  },
+  {
+    title: "Feather Icons",
+    category: "图标库",
+    tags: ["简约", "开源", "界面图标"],
+    slug: "feather-icons",
+    description: "简约风格的开源图标集，提供常用的界面图标。完全免费使用。",
+    site: {
+      name: "Feather Icons",
+      url: "https://feathericons.com/",
+    },
+  },
+  {
+    title: "Lucide",
+    category: "图标库",
+    tags: ["Feather Icons", "社区驱动", "定制选项"],
+    slug: "lucide",
+    description: "Feather Icons的社区驱动分支，提供更多图标和定制选项。免费开源。",
+    site: {
+      name: "Lucide",
+      url: "https://lucide.dev/",
+    },
+  },
+  {
+    title: "Simple Icons",
+    category: "图标库",
+    tags: ["品牌图标", "SVG", "免费"],
+    slug: "simple-icons",
+    description: "收集了数千个品牌和流行服务的SVG图标。完全免费使用。",
+    site: {
+      name: "Simple Icons",
+      url: "https://simpleicons.org/",
+    },
+  },
+  {
+    title: "Tabler Icons",
+    category: "图标库",
+    tags: ["SVG", "MIT许可", "大量图标"],
+    slug: "tabler-icons",
+    description: "超过4200个免费的MIT许可的SVG图标。基础版免费，高级版需付费。",
+    site: {
+      name: "Tabler Icons",
+      url: "https://tabler-icons.io/",
+    },
+  },
+  {
+    title: "Remix Icon",
+    category: "图标库",
+    tags: ["开源", "中性风格", "大量图标"],
+    slug: "remix-icon",
+    description: "开源的中性风格图标系统，提供2000多个图标。完全免费使用。",
+    site: {
+      name: "Remix Icon",
+      url: "https://remixicon.com/",
+    },
+  },
+  {
+    title: "Boxicons",
+    category: "图标库",
+    tags: ["高质量", "网页友好", "UI元素"],
+    slug: "boxicons",
+    description: "高质量的网页友好图标库，提供常见UI元素图标。免费使用，有付费的扩展集。",
+    site: {
+      name: "Boxicons",
+      url: "https://boxicons.com/",
+    },
+  },
+  {
+    title: "Ionicons",
+    category: "图标库",
+    tags: ["Ionic Framework", "跨平台", "开源"],
+    slug: "ionicons",
+    description: "Ionic Framework的开源图标集，适用于Web、iOS、Android和桌面应用。完全免费使用。",
+    site: {
+      name: "Ionicons",
+      url: "https://ionic.io/ionicons",
+    },
+  },
+  {
+    title: "SVG Repo",
+    category: "图标库",
+    tags: ["SVG", "矢量图", "免费商用"],
+    slug: "svgrepo",
+    description: "使用广泛的矢量库搜索、探索和编辑最适合您项目的免费图标或矢量。下载免费的SVG矢量和图标用于商业用途。",
+    site: {
+      name: "SVG Repo",
+      url: "https://www.svgrepo.com/",
+    },
+  },
+];
