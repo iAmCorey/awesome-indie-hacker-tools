@@ -131,7 +131,7 @@
 - [Bolt.new](https://bolt.new/): 在线代码编辑器，支持实时协作和AI辅助编码。目前免费使用
 - [Tabnine](https://www.tabnine.com/): AI驱动的代码补全工具，可集成到多种编辑器中。提供免费版本，完整功能需付费订阅，起价$12/月。
 - [GitHub Copilot](https://github.com/features/copilot): GitHub和OpenAI合作开发的AI编程助手。提供代码建议和自动补全功能。个人使用需付费订阅，每月$4起。
-
+- [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 
 ## 前端开发框架
 ### Web
