@@ -105,8 +105,7 @@
 - [Remix Icon](https://remixicon.com/): 开源的中性风格图标系统，提供2000多个图标。完全免费使用。
 - [Boxicons](https://boxicons.com/): 高质量的网页友好图标库，提供常见UI元素图标。免费使用，有付费的扩展集。
 - [Ionicons](https://ionic.io/ionicons): Ionic Framework的开源图标集，适用于Web、iOS、Android和桌面应用。完全免费使用。
-- [svgrepo](https://www.svgrepo.com/): Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library. Download free SVG vectors and icons for commercial use.
-
+- [svgrepo](https://www.svgrepo.com/): 搜索、探索和编辑最适合您项目的免费图标或矢量图，使用广泛的矢量库。下载免费的SVG矢量图和图标，可用于商业用途。
 
 ## 字体库
 - [Google Fonts](https://fonts.google.com/): 谷歌提供的免费字体库，包含1000多种字体，支持超过135种语言。可通过API或下载使用。
