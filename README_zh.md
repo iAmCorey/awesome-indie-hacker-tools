@@ -23,6 +23,7 @@
 - [图标库](#图标库)
 - [字体库](#字体库)
 - [模板](#模板)
+- [开发工具](#开发工具)
 - [前端开发框架](#前端开发框架)
   - [Web](#web)
   - [App](#app)
@@ -104,8 +105,7 @@
 - [Remix Icon](https://remixicon.com/): 开源的中性风格图标系统，提供2000多个图标。完全免费使用。
 - [Boxicons](https://boxicons.com/): 高质量的网页友好图标库，提供常见UI元素图标。免费使用，有付费的扩展集。
 - [Ionicons](https://ionic.io/ionicons): Ionic Framework的开源图标集，适用于Web、iOS、Android和桌面应用。完全免费使用。
-- [svgrepo](https://www.svgrepo.com/): Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library. Download free SVG vectors and icons for commercial use.
-
+- [svgrepo](https://www.svgrepo.com/): 搜索、探索和编辑最适合您项目的免费图标或矢量图，使用广泛的矢量库。下载免费的SVG矢量图和图标，可用于商业用途。
 
 ## 字体库
 - [Google Fonts](https://fonts.google.com/): 谷歌提供的免费字体库，包含1000多种字体，支持超过135种语言。可通过API或下载使用。
@@ -124,6 +124,14 @@
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 
+## 开发工具
+- [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
+- [Cursor](https://cursor.sh/): 基于VS Code的AI增强型代码编辑器。提供代码自动补全、重构建议和解释功能。目前新用户免费使用，免费期结束后需要付费订阅。
+- [Bolt.new](https://bolt.new/): 在线代码编辑器，支持实时协作和AI辅助编码。目前免费使用
+- [Tabnine](https://www.tabnine.com/): AI驱动的代码补全工具，可集成到多种编辑器中。提供免费版本，完整功能需付费订阅，起价$12/月。
+- [GitHub Copilot](https://github.com/features/copilot): GitHub和OpenAI合作开发的AI编程助手。提供代码建议和自动补全功能。个人使用需付费订阅，每月$4起。
+- [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
+- [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 
 ## 前端开发框架
 ### Web
