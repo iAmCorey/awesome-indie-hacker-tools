@@ -204,7 +204,7 @@
 - [Okta](https://www.okta.com/): 企业级身份和访问管理解决方案。
 - [Authgear](https://www.authgear.com/): 开源的身份即服务(IDaaS)平台，提供全面的身份验证功能。
 - [Clerk](https://clerk.com/): 一个现代的身份验证和用户管理平台，支持多种登录方式和第三方集成。
-
+- [Scalekit](https://www.scalekit.com): 在现有身份验证系统（如 Auth0、Firebase 或 Cognito）之上添加企业级 SSO（SAML、OIDC）和 SCIM 自动配置，无需重写代码。
 
 ## 支付
 - [Stripe](https://stripe.com/): 全面的在线支付处理平台，支持多种支付方式和货币。
