@@ -63,6 +63,7 @@
 - [Sketch](https://www.sketch.com/): 一个基于Mac的UI设计工具，支持多种框架，提供实时预览和协作。个人版$9/月，团队版$20/月/编辑者。
 - [Framer](https://www.framer.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，专业版起价$15/月。
 - [Webflow](https://webflow.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，付费计划起价$14/月。
+- [Berrry](https://berrry.app): AI驱动的原型工具，将Twitter和Reddit内容转换为功能性Web应用原型
 
 
 
