@@ -264,6 +264,7 @@
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
+- [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/): 免费、无需注册的微工具合集（Side Hustle Quiz、Cold Email Generator、Proposal Generator等），用于独立开发者的发现与增长。
 
 
 
