@@ -264,6 +264,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
 - [v2ex](https://www.v2ex.com/): A Chinese tech community with a dedicated section for sharing personal projects.
 - [少数派](https://sspai.com/): A tech media platform for Chinese users where you can submit articles introducing new products.
+- [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/): A collection of free, no-signup micro-tools for indie founders (prompt generator, cold email generator, SaaS launch checklist, etc.).
 
 
 
