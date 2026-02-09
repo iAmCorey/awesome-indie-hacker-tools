@@ -268,6 +268,8 @@
 - [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/): 免费、无需注册的微工具合集（Side Hustle Quiz、Cold Email Generator、Proposal Generator等），用于独立开发者的发现与增长。
 - [Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/): 生成简短冷邮件（<90字）+ 主题行，一键复制。
 - [Freelance Rate Calculator](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/): 根据收入目标、开支和可计费工时计算时薪/项目报价。
+- [Cobalt Studio Project Closeout Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/project-closeout-email-generator/): 项目收尾邮件生成器（复制/粘贴即可发送给客户）。
+- [Cobalt Studio Client Offboarding Checklist Generator](https://techchenko.github.io/cobaltstudio-products/tools/client-offboarding-checklist-generator/): 客户下线/交付结束清单生成器（减少遗漏）。
 
 
 
