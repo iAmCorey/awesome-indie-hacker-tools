@@ -124,6 +124,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+- [Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/): 免费、无需注册的复制/粘贴模板库（提案、SOW、合同、发票跟进邮件、项目状态更新等）。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
@@ -265,6 +266,8 @@
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
 - [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/): 免费、无需注册的微工具合集（Side Hustle Quiz、Cold Email Generator、Proposal Generator等），用于独立开发者的发现与增长。
+- [Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/): 生成简短冷邮件（<90字）+ 主题行，一键复制。
+- [Freelance Rate Calculator](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/): 根据收入目标、开支和可计费工时计算时薪/项目报价。
 
 
 
