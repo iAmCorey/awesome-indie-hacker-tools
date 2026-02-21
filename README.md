@@ -292,6 +292,9 @@
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/): 流行的WordPress SEO插件，提供内容优化建议和技术SEO设置。基础版免费，高级版€99/年。
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
+- [Redirect Checker](https://redirect-checker.autocompany.workers.dev): 开源HTTP重定向链分析工具，检测重定向循环，支持多种User-Agent。完全免费。
+- [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
+- [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 
 
 
