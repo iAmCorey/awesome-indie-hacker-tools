@@ -124,6 +124,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Shipfast](https://shipfa.st/): Offers various responsive templates based on Tailwind CSS, suitable for different application scenarios.
 - [Supastarter](https://supastarter.com/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Makerkit](https://makerkit.dev/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
+- [Vibe Coding Starter Kit](https://vibecodingstarterkit.io/): AI-powered Next.js boilerplate for non-technical founders, featuring AI commands, pre-configured auth, payments, and rapid development tools.
 
 ## Development Tools
 - [VS Code](https://code.visualstudio.com/): A free, open-source code editor developed by Microsoft. Supports multiple programming languages, debugging, Git integration, and other features, with a rich extension ecosystem.
@@ -133,6 +134,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [GitHub Copilot](https://github.com/features/copilot): An AI programming assistant developed by GitHub and OpenAI. Provides code suggestions and auto-completion features. Requires a paid subscription for personal use, starting at $4/month.
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue): An open-source AI code assistant plugin that can be used in VSCode and JetBrains, supporting multiple LLMs including local Ollama.
 - [Codeium](https://codeium.com/): An AI-driven code completion tool, free for personal use, Pro version $12/month.
+- [Taskade](https://www.taskade.com/): An AI-native workspace platform with built-in AI agents, task management, mind mapping, and real-time team collaboration. Offers browser extensions (Chrome, Firefox, Edge). Free plan available.
 
 ## Frontend Development Frameworks
 ### Web
