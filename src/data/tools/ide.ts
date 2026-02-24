@@ -54,4 +54,15 @@ export const developmentTools = [
       url: "https://github.com/features/copilot",
     },
   },
+  {
+    title: "Taskade",
+    category: "开发工具",
+    tags: ["AI工作空间", "任务管理", "实时协作", "思维导图"],
+    slug: "taskade",
+    description: "AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。",
+    site: {
+      name: "Taskade",
+      url: "https://www.taskade.com/",
+    },
+  },
 ];
