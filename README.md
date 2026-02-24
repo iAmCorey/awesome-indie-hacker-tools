@@ -133,6 +133,7 @@
 - [GitHub Copilot](https://github.com/features/copilot): GitHub和OpenAI合作开发的AI编程助手。提供代码建议和自动补全功能。个人使用需付费订阅，每月$4起。
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
+- [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
 
 ## 前端开发框架
 ### Web
@@ -293,6 +294,9 @@
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
 - [ShotOG](https://github.com/nicepkg/shotog): 基于 Cloudflare Workers 的 OG 图片生成 API，提供 8 种模板，50ms 渲染速度，免费 500 次/月。开源免费，支持自部署。
+- [Redirect Checker](https://redirect-checker.autocompany.workers.dev): 开源HTTP重定向链分析工具，检测重定向循环，支持多种User-Agent。完全免费。
+- [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
+- [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 
 
 
