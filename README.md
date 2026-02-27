@@ -303,6 +303,8 @@
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
+- [RatedWithAI](https://ratedwithai.com/): AI驱动的网站无障碍扫描工具，检测WCAG 2.2合规性并提供可操作的修复建议。免费使用，帮助独立开发者避免ADA合规诉讼风险。
+- [API Status Check](https://apistatuscheck.com/): 免费的实时API状态监控面板，聚合114+开发者常用API（AWS、Stripe、GitHub、OpenAI等）的运行状态。帮助独立开发者快速发现第三方依赖的故障。
 
 
 
