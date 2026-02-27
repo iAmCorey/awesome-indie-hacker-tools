@@ -136,6 +136,9 @@
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
 
+## 文件工具
+- [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+
 ## 前端开发框架
 ### Web
 - [React](https://reactjs.org/): 基于JavaScript的框架，用于构建用户界面的灵活库
