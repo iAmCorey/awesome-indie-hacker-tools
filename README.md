@@ -42,6 +42,7 @@
 - [产品发布推广](#产品发布推广)
 - [统计分析](#统计分析)
 - [SEO](#seo)
+- [监控](#监控)
 
 
 
@@ -303,8 +304,12 @@
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
+- [RatedWithAI](https://ratedwithai.com): AI驱动的网站无障碍性扫描工具，检测WCAG 2.2和ADA合规性问题，提供即时报告和修复建议。免费扫描，付费计划起价$29/月。
 
-
+## 监控
+- [API Status Check](https://apistatuscheck.com): 实时API状态监控工具，聚合250+热门API和服务的官方状态页面，提供宕机邮件和Discord通知。完全免费。
+- [UptimeRobot](https://uptimerobot.com): 网站和API监控工具，每5分钟检查一次运行状态。免费版支持50个监控器。
+- [Better Stack](https://betterstack.com): 结合日志管理、正常运行时间监控和事件管理的现代监控平台。有免费版和付费计划。
 
 
 # Sponsor
