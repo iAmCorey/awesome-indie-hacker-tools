@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [CiteMe](https://citeme.app): AI驱动的学术引用生成器，搜索11+个学术数据库（OpenAlex、PubMed、Semantic Scholar、CrossRef、SciELO等），支持40+种引用格式（APA、ABNT、MLA、Chicago、Harvard、IEEE等）。提供Web应用、Chrome扩展、Google Docs插件和Word插件。免费版每月20次引用。
 
 ## 前端开发框架
 ### Web
