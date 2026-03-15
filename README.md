@@ -138,6 +138,8 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing client-side via WebAssembly. No account required.
+- [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF), remove background, upscale, OCR. 91 tools, all client-side. No account required.
 
 ## 前端开发框架
 ### Web
