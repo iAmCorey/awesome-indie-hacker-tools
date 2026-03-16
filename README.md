@@ -258,6 +258,9 @@
 - [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
 
 
+## AI工具
+- [KeepRule](https://keeprule.com): AI驱动的投资纪律追踪平台，收录26位传奇投资大师（巴菲特、芒格、达利欧等）的投资原则，提供场景分析和个性化投资指导。免费使用。
+
 ## 产品发布推广
 - [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
 - [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
