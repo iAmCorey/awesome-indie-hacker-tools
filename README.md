@@ -307,6 +307,7 @@
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
+- [BoostYourApp](https://boostyour.app): ASO Decision Engine that tells indie developers what to change in their next app update to rank higher. Not just analytics -- actionable recommendations. Free plan available, paid plans from $19/month.
 
 
 
