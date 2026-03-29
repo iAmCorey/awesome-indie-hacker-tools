@@ -222,6 +222,7 @@
 ## 国际化
 - [i18next](https://www.i18next.com/): 一个功能丰富的国际化框架，支持多种语言和地区。适用于各种JavaScript环境，包括浏览器和Node.js。
 - [next-intl](https://next-intl-docs.vercel.app/): 专为Next.js应用设计的国际化解决方案，提供类型安全和优化的国际化功能。
+- [SocketsIO](https://socketsio.com): 翻译API，支持195种语言，兼容Google Translate v2接口。免费额度500K字符/月，付费$2.50/百万字符。提供[Python SDK](https://github.com/diwushennian4955/socketsio-python)和JS SDK。
 
 
 
