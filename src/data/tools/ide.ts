@@ -65,4 +65,15 @@ export const developmentTools = [
       url: "https://www.taskade.com/",
     },
   },
+  {
+    title: "ToolRouter",
+    category: "开发工具",
+    tags: ["AI工具平台", "按量计费", "图像生成", "视频制作", "网页搜索"],
+    slug: "toolrouter",
+    description: "一站式AI工具平台——一个账号即可按需使用150多种工具。按量计费，无需订阅。支持竞品调研、图像生成、视频制作、网页搜索等功能。",
+    site: {
+      name: "ToolRouter",
+      url: "https://toolrouter.com",
+    },
+  },
 ];
