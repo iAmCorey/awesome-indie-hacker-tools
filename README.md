@@ -138,6 +138,11 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [QRMint](https://qrmint.dev): 免费二维码生成器，支持多种样式和自定义选项。完全免费使用。
+- [LinkShrink](https://linkshrink.dev): 免费URL短链接生成工具，支持自定义短链接。完全免费使用。
+- [FreeKit](https://freekit.dev): 免费开发者工具集，提供7个API于一体，涵盖常用开发者工具。完全免费使用。
+- [PageShot](https://pageshot.dev): 免费网页截图API，支持多种截图选项和格式。完全免费使用。
+- [PDFSpark](https://pdfspark.dev): 免费PDF生成API，支持HTML转PDF等多种PDF处理功能。完全免费使用。
 
 ## 前端开发框架
 ### Web
@@ -303,6 +308,7 @@
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
 - [ogimg.xyz](https://ogimg.xyz): Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。
 - [ShotOG](https://github.com/nicepkg/shotog): 基于 Cloudflare Workers 的 OG 图片生成 API，提供 8 种模板，50ms 渲染速度，免费 500 次/月。开源免费，支持自部署。
+- [OGForge](https://ogforge.dev): 免费OG图片生成API，支持多种模板和自定义品牌，帮助开发者快速生成社交分享图片。完全免费使用。
 - [Redirect Checker](https://redirect-checker.autocompany.workers.dev): 开源HTTP重定向链分析工具，检测重定向循环，支持多种User-Agent。完全免费。
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
