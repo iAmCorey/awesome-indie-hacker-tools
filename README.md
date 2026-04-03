@@ -307,6 +307,9 @@
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
+- [PNG Maker](https://podifai.com/tools/png-maker): 免费AI抠图工具，基于BiRefNet AI技术一键移除背景并生成透明PNG，支持PNG/JPG/WebP格式，无需注册，无水印。
+- [Shopify Schema Validator](https://podifai.com/tools/shopify-schema-validator): 免费Shopify结构化数据验证工具，检测Schema.org标记错误并提供AI搜索就绪评分(0-100)，支持25+项验证检查。
+- [Shopify Theme Detector](https://podifai.com/tools/shopify-theme-detector): 免费Shopify主题识别工具，输入任意Shopify商店URL即可识别其使用的主题、应用和技术栈。
 
 
 
