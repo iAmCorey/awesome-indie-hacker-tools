@@ -273,6 +273,8 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [Overloop CLI](https://github.com/sortlist/overloop-cli): AI驱动的命令行outbound引擎。从4.5亿+联系人数据库中获取潜在客户，运行多渠道营销活动（邮件+LinkedIn），管理对话。JSON输出。`npm install -g overloop-cli`。
+- [Signals CLI](https://github.com/sortlist/signals-cli): B2B意向信号监控CLI工具。追踪LinkedIn互动、关键词发帖者、职位变动、融资事件等买家信号。JSON输出。`npm install -g signals-sortlist-cli`。
 
 
 
