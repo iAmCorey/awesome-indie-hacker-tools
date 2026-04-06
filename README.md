@@ -13,6 +13,7 @@
 网站地址 [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (开发中)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Automate coding, security, and business tasks. MIT licensed.
 ## 目录
 
 - [灵感获取](#灵感获取)
