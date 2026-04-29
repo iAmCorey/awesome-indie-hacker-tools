@@ -1,315 +1,317 @@
 # Awesome Indie Hacker Tools
 
-开发第一站，搞定技术栈
+å¼åç¬¬ä¸ç«ï¼æå®ææ¯æ 
 
-💡 独立开发/出海开发相关技术栈及工具
+ð¡ ç¬ç«å¼å/åºæµ·å¼åç¸å³ææ¯æ åå·¥å·
 
-持续收录**独立开发/出海开发**相关技术栈及工具
+æç»­æ¶å½**ç¬ç«å¼å/åºæµ·å¼å**ç¸å³ææ¯æ åå·¥å·
 
-每日手动持续更新中
+æ¯æ¥æå¨æç»­æ´æ°ä¸­
 
-欢迎提交pr和issue，提交你的工具或修正建议
+æ¬¢è¿æäº¤pråissueï¼æäº¤ä½ çå·¥å·æä¿®æ­£å»ºè®®
 
-网站地址 [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (开发中)
+ç½ç«å°å [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (å¼åä¸­)
 
 
-## 目录
+## ç®å½
 
-- [灵感获取](#灵感获取)
-- [原型设计](#原型设计)
+- [çµæè·å](#çµæè·å)
+- [ååè®¾è®¡](#ååè®¾è®¡)
 - [UI](#ui)
-  - [UI框架](#ui框架)
-  - [UI组件库](#ui组件库)
-- [图标库](#图标库)
-- [字体库](#字体库)
-- [模板](#模板)
-- [开发工具](#开发工具)
-- [前端开发框架](#前端开发框架)
+  - [UIæ¡æ¶](#uiæ¡æ¶)
+  - [UIç»ä»¶åº](#uiç»ä»¶åº)
+- [å¾æ åº](#å¾æ åº)
+- [å­ä½åº](#å­ä½åº)
+- [æ¨¡æ¿](#æ¨¡æ¿)
+- [å¼åå·¥å·](#å¼åå·¥å·)
+- [åç«¯å¼åæ¡æ¶](#åç«¯å¼åæ¡æ¶)
   - [Web](#web)
   - [App](#app)
-  - [Chrome插件](#chrome插件)
-- [后端开发框架](#后端开发框架)
-- [数据库](#数据库)
-  - [云数据库](#云数据库)
+  - [Chromeæä»¶](#chromeæä»¶)
+- [åç«¯å¼åæ¡æ¶](#åç«¯å¼åæ¡æ¶)
+- [æ°æ®åº](#æ°æ®åº)
+  - [äºæ°æ®åº](#äºæ°æ®åº)
   - [ORM](#orm)
-- [储存](#储存)
-- [登录](#登录)
-- [支付](#支付)
-- [国际化](#国际化)
-- [域名购买](#域名购买)
-- [域名邮件](#域名邮件)
-- [部署](#部署)
-- [产品发布推广](#产品发布推广)
-- [统计分析](#统计分析)
+- [å¨å­](#å¨å­)
+- [ç»å½](#ç»å½)
+- [æ¯ä»](#æ¯ä»)
+- [å½éå](#å½éå)
+- [ååè´­ä¹°](#ååè´­ä¹°)
+- [ååé®ä»¶](#ååé®ä»¶)
+- [é¨ç½²](#é¨ç½²)
+- [äº§ååå¸æ¨å¹¿](#äº§ååå¸æ¨å¹¿)
+- [ç»è®¡åæ](#ç»è®¡åæ)
 - [SEO](#seo)
 
 
 
-## 灵感获取
-- [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
-- [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
-- [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
-- [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
-- [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
-- [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
-- [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
-- [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+## çµæè·å
+- [Product Hunt](https://producthunt.com/): ä¸ä¸ªä¸æ³¨äºæ°äº§ååå¸çå¹³å°ï¼ç¨æ·å¯ä»¥å±ç¤ºèªå·±çäº§åå¹¶è·å¾ç¤¾åºåé¦ãéååç±»ç§æäº§ååå·¥å·çæ¨å¹¿ã
+- [Indie Hackers](https://www.indiehackers.com/): é¢åç¬ç«å¼åèååä¸èçç¤¾åºï¼æä¾ç»éªåäº«ãè®¨è®ºåäº§åå±ç¤ºçæºä¼ã
+- [Hacker News](https://news.ycombinator.com/): ææ¯ååä¸ç¸å³çæ°é»èåç½ç«ï¼å¯ä»¥æäº¤äº§åé¾æ¥è·å¾æååè®¨è®ºã
+- [Reddit](https://www.reddit.com/): å¤§åç¤¾äº¤æ°é»ç½ç«ï¼æå¤ä¸ªéåäº§åæ¨å¹¿çå­çåï¼å¦r/SideProject, r/startupsç­ã
+- [Twitter](https://twitter.com/): ç¤¾äº¤åªä½å¹³å°ï¼éè¿hashtagåå³æ³¨èç½ç»å¯ä»¥ææå°ä¼ æ­äº§åä¿¡æ¯ã
+- [LinkedIn](https://www.linkedin.com/): èä¸ç¤¾äº¤ç½ç»ï¼éåB2Bäº§åçæ¨å¹¿åå»ºç«ä¸ä¸å½¢è±¡ã
+- [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Huntçé¢åå¸æ¿åï¼å¯ä»¥å¨æ­£å¼åå¸åç§¯ç´¯å´è¶£ã
+- [BetaList](https://betalist.com/): ä¸æ³¨äºå±ç¤ºæ©æåä¸é¡¹ç®åäº§åçå¹³å°ã
 
-## 原型设计
-- [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
-- [vx.dev](https://vx.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作，v0.dev的开源替代品。完全免费开源。
-- [Figma](https://www.figma.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，专业版起价$12/月/编辑者。
-- [Adobe XD](https://www.adobe.com/products/xd.html): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。作为Creative Cloud的一部分，单独订阅起价$9.99/月。
-- [Sketch](https://www.sketch.com/): 一个基于Mac的UI设计工具，支持多种框架，提供实时预览和协作。个人版$9/月，团队版$20/月/编辑者。
-- [Framer](https://www.framer.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，专业版起价$15/月。
-- [Webflow](https://webflow.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，付费计划起价$14/月。
-- [Berrry](https://berrry.app): AI驱动的原型工具，将Twitter和Reddit内容转换为功能性Web应用原型
+## ååè®¾è®¡
+- [v0](https://v0.dev/): ä¸ä¸ªåºäºWebçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ãç®åå¤äºæµè¯é¶æ®µï¼åè´¹ä½¿ç¨ã
+- [vx.dev](https://vx.dev/): ä¸ä¸ªåºäºWebçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ï¼v0.devçå¼æºæ¿ä»£åãå®å¨åè´¹å¼æºã
+- [Figma](https://www.figma.com/): ä¸ä¸ªåºäºWebçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ãæåè´¹è®¡åï¼ä¸ä¸çèµ·ä»·$12/æ/ç¼è¾èã
+- [Adobe XD](https://www.adobe.com/products/xd.html): ä¸ä¸ªåºäºWebçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ãä½ä¸ºCreative Cloudçä¸é¨åï¼åç¬è®¢éèµ·ä»·$9.99/æã
+- [Sketch](https://www.sketch.com/): ä¸ä¸ªåºäºMacçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ãä¸ªäººç$9/æï¼å¢éç$20/æ/ç¼è¾èã
+- [Framer](https://www.framer.com/): ä¸ä¸ªåºäºWebçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ãæåè´¹è®¡åï¼ä¸ä¸çèµ·ä»·$15/æã
+- [Webflow](https://webflow.com/): ä¸ä¸ªåºäºWebçUIè®¾è®¡å·¥å·ï¼æ¯æå¤ç§æ¡æ¶ï¼æä¾å®æ¶é¢è§ååä½ãæåè´¹è®¡åï¼ä»è´¹è®¡åèµ·ä»·$14/æã
+- [Berrry](https://berrry.app): AIé©±å¨çååå·¥å·ï¼å°TwitteråRedditåå®¹è½¬æ¢ä¸ºåè½æ§Webåºç¨åå
 
 
 
 ## UI
-### UI框架
-- [Tailwind CSS](https://tailwindcss.com/): 一个实用优先的CSS框架,通过预定义的类名快速构建自定义设计。核心框架免费开源,提供付费的组件库Tailwind UI。
-- [Bootstrap](https://getbootstrap.com/): 最流行的CSS框架之一,提供响应式栅格系统和预设组件。完全免费开源,由Twitter团队开发维护。
-- [Ant Design](https://ant.design/): 企业级UI设计语言和React组件库,由蚂蚁金服开源。基础版免费,提供付费的高级功能和技术支持。
-- [Material UI](https://mui.com/): 实现Google Material Design的React组件库。核心组件免费开源,提供付费的高级组件和主题工具。
-- [Chakra UI](https://chakra-ui.com/): 模块化的React组件库,注重可访问性和开发体验。完全免费开源,有付费的专业培训和咨询。
-- [Mantine](https://mantine.dev/): 功能丰富的React组件库和hooks集合,支持服务端渲染和深色模式。完全免费开源。
+### UIæ¡æ¶
+- [Tailwind CSS](https://tailwindcss.com/): ä¸ä¸ªå®ç¨ä¼åçCSSæ¡æ¶,éè¿é¢å®ä¹çç±»åå¿«éæå»ºèªå®ä¹è®¾è®¡ãæ ¸å¿æ¡æ¶åè´¹å¼æº,æä¾ä»è´¹çç»ä»¶åºTailwind UIã
+- [Bootstrap](https://getbootstrap.com/): ææµè¡çCSSæ¡æ¶ä¹ä¸,æä¾ååºå¼æ æ ¼ç³»ç»åé¢è®¾ç»ä»¶ãå®å¨åè´¹å¼æº,ç±Twitterå¢éå¼åç»´æ¤ã
+- [Ant Design](https://ant.design/): ä¼ä¸çº§UIè®¾è®¡è¯­è¨åReactç»ä»¶åº,ç±èèéæå¼æºãåºç¡çåè´¹,æä¾ä»è´¹çé«çº§åè½åææ¯æ¯æã
+- [Material UI](https://mui.com/): å®ç°Google Material DesignçReactç»ä»¶åºãæ ¸å¿ç»ä»¶åè´¹å¼æº,æä¾ä»è´¹çé«çº§ç»ä»¶åä¸»é¢å·¥å·ã
+- [Chakra UI](https://chakra-ui.com/): æ¨¡ååçReactç»ä»¶åº,æ³¨éå¯è®¿é®æ§åå¼åä½éªãå®å¨åè´¹å¼æº,æä»è´¹çä¸ä¸å¹è®­åå¨è¯¢ã
+- [Mantine](https://mantine.dev/): åè½ä¸°å¯çReactç»ä»¶åºåhookséå,æ¯ææå¡ç«¯æ¸²æåæ·±è²æ¨¡å¼ãå®å¨åè´¹å¼æºã
 
-### UI组件库
-- [Tailwind UI](https://tailwindui.com/): 基于Tailwind CSS的高质量UI组件库，提供丰富的预设组件和设计模式。付费产品，起价$149。
-- [MUI](https://mui.com/): 流行的React UI组件库，遵循Material Design指南。核心组件免费开源，高级组件和工具需付费。
-- [Ant Design](https://ant.design/): 企业级React UI组件库，提供丰富的组件和设计资源。基础版免费开源，有付费的企业版。
-- [Chakra UI](https://chakra-ui.com/): 现代化的React组件库，注重可访问性和灵活性。免费开源，提供付费的专业支持。
-- [Mantine](https://mantine.dev/): 功能丰富的React组件库，支持深色模式和自定义主题。完全免费开源。
-- [Shadcn UI](https://ui.shadcn.com/): 基于Radix UI的可复制粘贴的React组件集合。完全免费开源。
-- [Radix UI](https://www.radix-ui.com/): 提供低级UI原语的React组件库，注重可访问性和可定制性。免费开源。
-- [Headless UI](https://headlessui.com/): 完全无样式、灵活的UI组件集，适用于React和Vue。由Tailwind CSS团队开发，免费开源。
-- [Magic UI](https://magic.design/): 新兴的React UI库，提供现代化设计的组件。目前免费使用。
-- [Animata](https://animata.design/): 专注于动画效果的React组件库。免费开源。
-- [Framer Motion](https://www.framer.com/motion/): 强大的React动画库。免费开源。
-- [Storybook](https://storybook.js.org/): UI组件开发环境，支持多种前端框架。核心功能免费开源，有付费的云服务。
-- [Aceternity UI](https://ui.aceternity.com/): 新兴的Tailwind CSS组件库，提供现代化和动画丰富的UI组件。目前免费使用。
-
-
-
-## 图标库
-- [Iconify](https://iconify.design/): 大型图标集合，支持多框架，提供SVG和Web组件。大部分图标免费，部分高级图标和工具需付费。
-- [Heroicons](https://heroicons.com/): 由Tailwind CSS团队制作的SVG图标库，提供手工制作的简洁图标。完全免费开源。
-- [Phosphor Icons](https://phosphoricons.com/): 灵活的图标集，提供多种风格和格式。基础版免费，高级功能需付费订阅。
-- [Material Icons](https://fonts.google.com/icons): Google的官方图标库，遵循Material Design指南。完全免费使用。
-- [Font Awesome](https://fontawesome.com/): 广泛使用的图标库，提供大量图标和样式。基础版免费，Pro版订阅起价$99/年。
-- [Feather Icons](https://feathericons.com/): 简约风格的开源图标集，提供常用的界面图标。完全免费使用。
-- [Lucide](https://lucide.dev/): Feather Icons的社区驱动分支，提供更多图标和定制选项。免费开源。
-- [Simple Icons](https://simpleicons.org/): 收集了数千个品牌和流行服务的SVG图标。完全免费使用。
-- [Tabler Icons](https://tabler-icons.io/): 超过4200个免费的MIT许可的SVG图标。基础版免费，高级版需付费。
-- [Remix Icon](https://remixicon.com/): 开源的中性风格图标系统，提供2000多个图标。完全免费使用。
-- [Boxicons](https://boxicons.com/): 高质量的网页友好图标库，提供常见UI元素图标。免费使用，有付费的扩展集。
-- [Ionicons](https://ionic.io/ionicons): Ionic Framework的开源图标集，适用于Web、iOS、Android和桌面应用。完全免费使用。
-- [svgrepo](https://www.svgrepo.com/): 搜索、探索和编辑最适合您项目的免费图标或矢量图，使用广泛的矢量库。下载免费的SVG矢量图和图标，可用于商业用途。
-
-## 字体库
-- [Google Fonts](https://fonts.google.com/): 谷歌提供的免费字体库，包含1000多种字体，支持超过135种语言。可通过API或下载使用。
-- [Adobe Fonts](https://fonts.adobe.com/): Adobe提供的订阅制字体服务，拥有20,000多种字体。需要Creative Cloud订阅或单独付费使用。
-- [Font Squirrel](https://www.fontsquirrel.com/): 提供高质量的免费商用字体，同时也有付费字体。包含字体生成器等工具。
-- [Fontshare](https://www.fontshare.com/): Indian Type Foundry (ITF) 推出的免费字体平台，提供精选的高质量字体，可用于个人和商业项目。
-- [Fontspring](https://www.fontspring.com/): 独立字体代理商，提供来自多个铸字厂的付费字体，价格透明，一次性购买永久授权。
-- [MyFonts](https://www.myfonts.com/): Monotype旗下的字体零售平台，提供超过130,000种字体，包括免费和付费选项。
-- [Fontfabric](https://www.fontfabric.com/): 保加利亚字体工作室，提供高质量的免费和付费字体，专注于现代和实验性设计。
-- [FontSpace](https://www.fontspace.com/): 提供超过80,000种免费字体下载，包括个人使用和商业用途的字体。用户可上传自己的字体作品。
+### UIç»ä»¶åº
+- [Tailwind UI](https://tailwindui.com/): åºäºTailwind CSSçé«è´¨éUIç»ä»¶åºï¼æä¾ä¸°å¯çé¢è®¾ç»ä»¶åè®¾è®¡æ¨¡å¼ãä»è´¹äº§åï¼èµ·ä»·$149ã
+- [MUI](https://mui.com/): æµè¡çReact UIç»ä»¶åºï¼éµå¾ªMaterial Designæåãæ ¸å¿ç»ä»¶åè´¹å¼æºï¼é«çº§ç»ä»¶åå·¥å·éä»è´¹ã
+- [Ant Design](https://ant.design/): ä¼ä¸çº§React UIç»ä»¶åºï¼æä¾ä¸°å¯çç»ä»¶åè®¾è®¡èµæºãåºç¡çåè´¹å¼æºï¼æä»è´¹çä¼ä¸çã
+- [Chakra UI](https://chakra-ui.com/): ç°ä»£åçReactç»ä»¶åºï¼æ³¨éå¯è®¿é®æ§åçµæ´»æ§ãåè´¹å¼æºï¼æä¾ä»è´¹çä¸ä¸æ¯æã
+- [Mantine](https://mantine.dev/): åè½ä¸°å¯çReactç»ä»¶åºï¼æ¯ææ·±è²æ¨¡å¼åèªå®ä¹ä¸»é¢ãå®å¨åè´¹å¼æºã
+- [Shadcn UI](https://ui.shadcn.com/): åºäºRadix UIçå¯å¤å¶ç²è´´çReactç»ä»¶éåãå®å¨åè´¹å¼æºã
+- [Radix UI](https://www.radix-ui.com/): æä¾ä½çº§UIåè¯­çReactç»ä»¶åºï¼æ³¨éå¯è®¿é®æ§åå¯å®å¶æ§ãåè´¹å¼æºã
+- [Headless UI](https://headlessui.com/): å®å¨æ æ ·å¼ãçµæ´»çUIç»ä»¶éï¼éç¨äºReactåVueãç±Tailwind CSSå¢éå¼åï¼åè´¹å¼æºã
+- [Magic UI](https://magic.design/): æ°å´çReact UIåºï¼æä¾ç°ä»£åè®¾è®¡çç»ä»¶ãç®ååè´¹ä½¿ç¨ã
+- [Animata](https://animata.design/): ä¸æ³¨äºå¨ç»ææçReactç»ä»¶åºãåè´¹å¼æºã
+- [Framer Motion](https://www.framer.com/motion/): å¼ºå¤§çReactå¨ç»åºãåè´¹å¼æºã
+- [Storybook](https://storybook.js.org/): UIç»ä»¶å¼åç¯å¢ï¼æ¯æå¤ç§åç«¯æ¡æ¶ãæ ¸å¿åè½åè´¹å¼æºï¼æä»è´¹çäºæå¡ã
+- [Aceternity UI](https://ui.aceternity.com/): æ°å´çTailwind CSSç»ä»¶åºï¼æä¾ç°ä»£ååå¨ç»ä¸°å¯çUIç»ä»¶ãç®ååè´¹ä½¿ç¨ã
 
 
-## 模板
-- [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
-- [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
-- [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
-- [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
-- [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 
-## 开发工具
-- [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
-- [Cursor](https://cursor.sh/): 基于VS Code的AI增强型代码编辑器。提供代码自动补全、重构建议和解释功能。目前新用户免费使用，免费期结束后需要付费订阅。
-- [Bolt.new](https://bolt.new/): 在线代码编辑器，支持实时协作和AI辅助编码。目前免费使用
-- [Tabnine](https://www.tabnine.com/): AI驱动的代码补全工具，可集成到多种编辑器中。提供免费版本，完整功能需付费订阅，起价$12/月。
-- [GitHub Copilot](https://github.com/features/copilot): GitHub和OpenAI合作开发的AI编程助手。提供代码建议和自动补全功能。个人使用需付费订阅，每月$4起。
-- [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
-- [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
-- [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
+## å¾æ åº
+- [Iconify](https://iconify.design/): å¤§åå¾æ éåï¼æ¯æå¤æ¡æ¶ï¼æä¾SVGåWebç»ä»¶ãå¤§é¨åå¾æ åè´¹ï¼é¨åé«çº§å¾æ åå·¥å·éä»è´¹ã
+- [Heroicons](https://heroicons.com/): ç±Tailwind CSSå¢éå¶ä½çSVGå¾æ åºï¼æä¾æå·¥å¶ä½çç®æ´å¾æ ãå®å¨åè´¹å¼æºã
+- [Phosphor Icons](https://phosphoricons.com/): çµæ´»çå¾æ éï¼æä¾å¤ç§é£æ ¼åæ ¼å¼ãåºç¡çåè´¹ï¼é«çº§åè½éä»è´¹è®¢éã
+- [Material Icons](https://fonts.google.com/icons): Googleçå®æ¹å¾æ åºï¼éµå¾ªMaterial Designæåãå®å¨åè´¹ä½¿ç¨ã
+- [Font Awesome](https://fontawesome.com/): å¹¿æ³ä½¿ç¨çå¾æ åºï¼æä¾å¤§éå¾æ åæ ·å¼ãåºç¡çåè´¹ï¼Proçè®¢éèµ·ä»·$99/å¹´ã
+- [Feather Icons](https://feathericons.com/): ç®çº¦é£æ ¼çå¼æºå¾æ éï¼æä¾å¸¸ç¨ççé¢å¾æ ãå®å¨åè´¹ä½¿ç¨ã
+- [Lucide](https://lucide.dev/): Feather Iconsçç¤¾åºé©±å¨åæ¯ï¼æä¾æ´å¤å¾æ åå®å¶éé¡¹ãåè´¹å¼æºã
+- [Simple Icons](https://simpleicons.org/): æ¶éäºæ°åä¸ªåçåæµè¡æå¡çSVGå¾æ ãå®å¨åè´¹ä½¿ç¨ã
+- [Tabler Icons](https://tabler-icons.io/): è¶è¿4200ä¸ªåè´¹çMITè®¸å¯çSVGå¾æ ãåºç¡çåè´¹ï¼é«çº§çéä»è´¹ã
+- [Remix Icon](https://remixicon.com/): å¼æºçä¸­æ§é£æ ¼å¾æ ç³»ç»ï¼æä¾2000å¤ä¸ªå¾æ ãå®å¨åè´¹ä½¿ç¨ã
+- [Boxicons](https://boxicons.com/): é«è´¨éçç½é¡µåå¥½å¾æ åºï¼æä¾å¸¸è§UIåç´ å¾æ ãåè´¹ä½¿ç¨ï¼æä»è´¹çæ©å±éã
+- [Ionicons](https://ionic.io/ionicons): Ionic Frameworkçå¼æºå¾æ éï¼éç¨äºWebãiOSãAndroidåæ¡é¢åºç¨ãå®å¨åè´¹ä½¿ç¨ã
+- [svgrepo](https://www.svgrepo.com/): æç´¢ãæ¢ç´¢åç¼è¾æéåæ¨é¡¹ç®çåè´¹å¾æ æç¢éå¾ï¼ä½¿ç¨å¹¿æ³çç¢éåºãä¸è½½åè´¹çSVGç¢éå¾åå¾æ ï¼å¯ç¨äºåä¸ç¨éã
 
-## 文件工具
-- [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+## å­ä½åº
+- [Google Fonts](https://fonts.google.com/): è°·æ­æä¾çåè´¹å­ä½åºï¼åå«1000å¤ç§å­ä½ï¼æ¯æè¶è¿135ç§è¯­è¨ãå¯éè¿APIæä¸è½½ä½¿ç¨ã
+- [Adobe Fonts](https://fonts.adobe.com/): Adobeæä¾çè®¢éå¶å­ä½æå¡ï¼æ¥æ20,000å¤ç§å­ä½ãéè¦Creative Cloudè®¢éæåç¬ä»è´¹ä½¿ç¨ã
+- [Font Squirrel](https://www.fontsquirrel.com/): æä¾é«è´¨éçåè´¹åç¨å­ä½ï¼åæ¶ä¹æä»è´¹å­ä½ãåå«å­ä½çæå¨ç­å·¥å·ã
+- [Fontshare](https://www.fontshare.com/): Indian Type Foundry (ITF) æ¨åºçåè´¹å­ä½å¹³å°ï¼æä¾ç²¾éçé«è´¨éå­ä½ï¼å¯ç¨äºä¸ªäººååä¸é¡¹ç®ã
+- [Fontspring](https://www.fontspring.com/): ç¬ç«å­ä½ä»£çåï¼æä¾æ¥èªå¤ä¸ªé¸å­åçä»è´¹å­ä½ï¼ä»·æ ¼éæï¼ä¸æ¬¡æ§è´­ä¹°æ°¸ä¹ææã
+- [MyFonts](https://www.myfonts.com/): Monotypeæä¸çå­ä½é¶å®å¹³å°ï¼æä¾è¶è¿130,000ç§å­ä½ï¼åæ¬åè´¹åä»è´¹éé¡¹ã
+- [Fontfabric](https://www.fontfabric.com/): ä¿å å©äºå­ä½å·¥ä½å®¤ï¼æä¾é«è´¨éçåè´¹åä»è´¹å­ä½ï¼ä¸æ³¨äºç°ä»£åå®éªæ§è®¾è®¡ã
+- [FontSpace](https://www.fontspace.com/): æä¾è¶è¿80,000ç§åè´¹å­ä½ä¸è½½ï¼åæ¬ä¸ªäººä½¿ç¨ååä¸ç¨éçå­ä½ãç¨æ·å¯ä¸ä¼ èªå·±çå­ä½ä½åã
 
-## 前端开发框架
+
+## æ¨¡æ¿
+- [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): ä¸ºç¬ç«å¼åèæä¾ç5ä¸ªå®ç¨è§åæ¨¡æ¿ï¼åæ¬äº§ååå¸æ¸åãå®ä»·è®¡ç®å¨ãç«äºå¯¹æåæãç¨æ·ç»ååææ ä»ªè¡¨æ¿ãä»è´¹äº§åï¼$19ã
+- [Makerkit](https://makerkit.dev/): æä¾å¤ç§åºäºNext.jsçååºå¼æ¨¡æ¿ï¼éç¨äºåç§åºç¨åºæ¯ã
+- [Shipfast](https://shipfa.st/): æä¾å¤ç§åºäºTailwind CSSçååºå¼æ¨¡æ¿ï¼éç¨äºåç§åºç¨åºæ¯ã
+- [Supastarter](https://supastarter.com/): æä¾å¤ç§åºäºNext.jsçååºå¼æ¨¡æ¿ï¼éç¨äºåç§åºç¨åºæ¯ã
+- [Tailwind UI](https://tailwindui.com/templates): æä¾å¤ç§åºäºTailwind CSSçååºå¼æ¨¡æ¿ï¼éç¨äºåç§åºç¨åºæ¯ã
+
+## å¼åå·¥å·
+- [VS Code](https://code.visualstudio.com/): å¾®è½¯å¼åçåè´¹ãå¼æºä»£ç ç¼è¾å¨ãæ¯æå¤ç§ç¼ç¨è¯­è¨ãè°è¯ãGitéæç­åè½ï¼æ¥æä¸°å¯çæ©å±çæç³»ç»ã
+- [Cursor](https://cursor.sh/): åºäºVS CodeçAIå¢å¼ºåä»£ç ç¼è¾å¨ãæä¾ä»£ç èªå¨è¡¥å¨ãéæå»ºè®®åè§£éåè½ãç®åæ°ç¨æ·åè´¹ä½¿ç¨ï¼åè´¹æç»æåéè¦ä»è´¹è®¢éã
+- [Bolt.new](https://bolt.new/): å¨çº¿ä»£ç ç¼è¾å¨ï¼æ¯æå®æ¶åä½åAIè¾å©ç¼ç ãç®ååè´¹ä½¿ç¨
+- [Tabnine](https://www.tabnine.com/): AIé©±å¨çä»£ç è¡¥å¨å·¥å·ï¼å¯éæå°å¤ç§ç¼è¾å¨ä¸­ãæä¾åè´¹çæ¬ï¼å®æ´åè½éä»è´¹è®¢éï¼èµ·ä»·$12/æã
+- [GitHub Copilot](https://github.com/features/copilot): GitHubåOpenAIåä½å¼åçAIç¼ç¨å©æãæä¾ä»£ç å»ºè®®åèªå¨è¡¥å¨åè½ãä¸ªäººä½¿ç¨éä»è´¹è®¢éï¼æ¯æ$4èµ·ã
+- [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):ä¸ä¸ªå¼æºAIä»£ç å©ææä»¶ï¼å¯ä»¥å¨VSCodeåJetBrainsä½¿ç¨ï¼æ¯æå¤ç§LLM,å¶ä¸­åæ¬æ¬å°çOllamaã
+- [Codeium](https://codeium.com/): AIé©±å¨çä»£ç è¡¥å¨å·¥å·ï¼ä¸ªäººä½¿ç¨åè´¹ï¼Proçæ¬$12/æ
+- [Taskade](https://www.taskade.com/): AIåçå·¥ä½ç©ºé´å¹³å°ï¼åç½®AIä»£çãä»»å¡ç®¡çãæç»´å¯¼å¾åå®æ¶å¢éåä½åè½ãæä¾æµè§å¨æ©å±ï¼ChromeãFirefoxãEdgeï¼ãæåè´¹è®¡åã
+
+## æä»¶å·¥å·
+- [OmniConvert](https://tools.sagasu.art): åè´¹å¨çº¿æä»¶æ ¼å¼ååä½è½¬æ¢å·¥å·ï¼100%æµè§å¨ç«¯å¤çï¼æ¯æ94ç§æä»¶è½¬æ¢ï¼åºäº Astro + React + FFmpeg.wasmï¼é¨ç½²å¨ Cloudflare Pagesã
+
+## åç«¯å¼åæ¡æ¶
 ### Web
-- [React](https://reactjs.org/): 基于JavaScript的框架，用于构建用户界面的灵活库
-- [Vue](https://vuejs.org/): 基于JavaScript的框架，易学易用，适合快速开发
-- [Angular](https://angular.io/): 基于TypeScript的框架，提供完整的开发生态系统
-- [Next.js](https://nextjs.org/): 基于React的框架，用于服务器端渲染和静态网站生成
-- [Svelte](https://svelte.dev/): 编译时框架，生成高效的JavaScript代码
-- [Ember](https://emberjs.com/): 全功能框架，适合构建大型复杂的Web应用
-- [Nuxt](https://nuxtjs.org/): 基于Vue的框架，简化服务器端渲染和静态网站生成   
-- [Gatsby](https://www.gatsbyjs.com/): 基于React的静态站点生成器，优化性能和SEO
-- [Astro](https://astro.build/): 现代静态站点生成器，支持多框架组件
+- [React](https://reactjs.org/): åºäºJavaScriptçæ¡æ¶ï¼ç¨äºæå»ºç¨æ·çé¢ççµæ´»åº
+- [Vue](https://vuejs.org/): åºäºJavaScriptçæ¡æ¶ï¼æå­¦æç¨ï¼éåå¿«éå¼å
+- [Angular](https://angular.io/): åºäºTypeScriptçæ¡æ¶ï¼æä¾å®æ´çå¼åçæç³»ç»
+- [Next.js](https://nextjs.org/): åºäºReactçæ¡æ¶ï¼ç¨äºæå¡å¨ç«¯æ¸²æåéæç½ç«çæ
+- [Svelte](https://svelte.dev/): ç¼è¯æ¶æ¡æ¶ï¼çæé«æçJavaScriptä»£ç 
+- [Ember](https://emberjs.com/): å¨åè½æ¡æ¶ï¼éåæå»ºå¤§åå¤æçWebåºç¨
+- [Nuxt](https://nuxtjs.org/): åºäºVueçæ¡æ¶ï¼ç®åæå¡å¨ç«¯æ¸²æåéæç½ç«çæ   
+- [Gatsby](https://www.gatsbyjs.com/): åºäºReactçéæç«ç¹çæå¨ï¼ä¼åæ§è½åSEO
+- [Astro](https://astro.build/): ç°ä»£éæç«ç¹çæå¨ï¼æ¯æå¤æ¡æ¶ç»ä»¶
 
 
 ### App
-- [React Native](https://reactnative.dev/): 基于React的框架，用于构建跨平台的移动应用
-- [Flutter](https://flutter.dev/): 基于Dart的框架，提供统一的UI开发体验
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/): 苹果官方的UI框架，用于构建iOS和macOS应用
-- [Jetpack Compose](https://developer.android.com/jetpack/compose): 谷歌官方的UI框架，用于构建Android应用
+- [React Native](https://reactnative.dev/): åºäºReactçæ¡æ¶ï¼ç¨äºæå»ºè·¨å¹³å°çç§»å¨åºç¨
+- [Flutter](https://flutter.dev/): åºäºDartçæ¡æ¶ï¼æä¾ç»ä¸çUIå¼åä½éª
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/): è¹æå®æ¹çUIæ¡æ¶ï¼ç¨äºæå»ºiOSåmacOSåºç¨
+- [Jetpack Compose](https://developer.android.com/jetpack/compose): è°·æ­å®æ¹çUIæ¡æ¶ï¼ç¨äºæå»ºAndroidåºç¨
 
 
 
-### Chrome插件
-- [Plasmo](https://plasmo.com/): 一个基于Chrome扩展程序的框架，用于构建Chrome插件
-- [wxt](https://wxt.dev/): 一个基于Chrome扩展程序的框架，用于构建Chrome插件
+### Chromeæä»¶
+- [Plasmo](https://plasmo.com/): ä¸ä¸ªåºäºChromeæ©å±ç¨åºçæ¡æ¶ï¼ç¨äºæå»ºChromeæä»¶
+- [wxt](https://wxt.dev/): ä¸ä¸ªåºäºChromeæ©å±ç¨åºçæ¡æ¶ï¼ç¨äºæå»ºChromeæä»¶
 
 
 
-## 后端开发框架
-- [Nest.js](https://nestjs.com/): 一个基于Node.js的框架，用于构建服务器端应用
-- [FastAPI](https://fastapi.tiangolo.com/): 一个基于Python的框架，用于构建API
+## åç«¯å¼åæ¡æ¶
+- [Nest.js](https://nestjs.com/): ä¸ä¸ªåºäºNode.jsçæ¡æ¶ï¼ç¨äºæå»ºæå¡å¨ç«¯åºç¨
+- [FastAPI](https://fastapi.tiangolo.com/): ä¸ä¸ªåºäºPythonçæ¡æ¶ï¼ç¨äºæå»ºAPI
 
 
-## 数据库
-### 云数据库
-- [Supabase](https://supabase.com/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。免费计划可用，付费计划起价$25/月。
-- [Firebase](https://firebase.google.com/): 一个基于NoSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划根据使用量定价。
-- [PlanetScale](https://planetscale.com/): 一个基于MySQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$29/月。
-- [Neon](https://neon.tech/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$20/月。
-- [Upstash](https://upstash.com/): 一个基于Redis的云数据库，提供实时数据同步和API。有免费计划，付费计划按使用量计费。
-- [Railway](https://railway.app/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$5/月。
-- [Realm](https://realm.io/): 一个基于MongoDB的云数据库，提供实时数据同步和API。定价根据具体需求而定。
-- [tidbcloud](https://tidbcloud.com/): 一个基于TiDB的云数据库，提供实时数据同步和API。有免费试用，付费计划按需定价。
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): 一个基于MongoDB的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$0.08/小时。
-- [AWS DynamoDB](https://aws.amazon.com/dynamodb/): 一个基于NoSQL的云数据库，提供实时数据同步和API。按使用量计费，有免费套餐。
-- [AWS RDS](https://aws.amazon.com/rds/): 一个基于SQL的云数据库，提供实时数据同步和API。按实例类型和使用时间计费。
-- [AWS Aurora](https://aws.amazon.com/rds/aurora/): 一个基于SQL的云数据库，提供实时数据同步和API。按实例类型和使用时间计费，比RDS略贵。
+## æ°æ®åº
+### äºæ°æ®åº
+- [Supabase](https://supabase.com/): ä¸ä¸ªåºäºPostgreSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãåè´¹è®¡åå¯ç¨ï¼ä»è´¹è®¡åèµ·ä»·$25/æã
+- [Firebase](https://firebase.google.com/): ä¸ä¸ªåºäºNoSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è®¡åï¼ä»è´¹è®¡åæ ¹æ®ä½¿ç¨éå®ä»·ã
+- [PlanetScale](https://planetscale.com/): ä¸ä¸ªåºäºMySQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è®¡åï¼ä»è´¹è®¡åèµ·ä»·$29/æã
+- [Neon](https://neon.tech/): ä¸ä¸ªåºäºPostgreSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è®¡åï¼ä»è´¹è®¡åèµ·ä»·$20/æã
+- [Upstash](https://upstash.com/): ä¸ä¸ªåºäºRedisçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è®¡åï¼ä»è´¹è®¡åæä½¿ç¨éè®¡è´¹ã
+- [Railway](https://railway.app/): ä¸ä¸ªåºäºPostgreSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è®¡åï¼ä»è´¹è®¡åèµ·ä»·$5/æã
+- [Realm](https://realm.io/): ä¸ä¸ªåºäºMongoDBçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãå®ä»·æ ¹æ®å·ä½éæ±èå®ã
+- [tidbcloud](https://tidbcloud.com/): ä¸ä¸ªåºäºTiDBçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è¯ç¨ï¼ä»è´¹è®¡åæéå®ä»·ã
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): ä¸ä¸ªåºäºMongoDBçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæåè´¹è®¡åï¼ä»è´¹è®¡åèµ·ä»·$0.08/å°æ¶ã
+- [AWS DynamoDB](https://aws.amazon.com/dynamodb/): ä¸ä¸ªåºäºNoSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæä½¿ç¨éè®¡è´¹ï¼æåè´¹å¥é¤ã
+- [AWS RDS](https://aws.amazon.com/rds/): ä¸ä¸ªåºäºSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæå®ä¾ç±»ååä½¿ç¨æ¶é´è®¡è´¹ã
+- [AWS Aurora](https://aws.amazon.com/rds/aurora/): ä¸ä¸ªåºäºSQLçäºæ°æ®åºï¼æä¾å®æ¶æ°æ®åæ­¥åAPIãæå®ä¾ç±»ååä½¿ç¨æ¶é´è®¡è´¹ï¼æ¯RDSç¥è´µã
 
 
 ### ORM
-- [Prisma](https://www.prisma.io/): 类型安全的ORM，支持多种数据库，自动生成类型定义和迁移。
-- [Drizzle](https://drizzle.dev/): 轻量级TypeScript ORM，注重开发体验和性能。
-- [TypeORM](https://typeorm.io/): 支持Active Record和Data Mapper模式的ORM，适用于TypeScript和JavaScript。
-- [Sequelize](https://sequelize.org/): 功能丰富的ORM，支持事务、关系、读取复制等高级特性。
-- [Objection.js](https://objectionjs.org/): 基于SQL查询构建器Knex.js的ORM，提供强大的关系管理。
-- [Kysely](https://kysely.dev/): 类型安全的SQL查询构建器，专注于查询性能和类型推断。
+- [Prisma](https://www.prisma.io/): ç±»åå®å¨çORMï¼æ¯æå¤ç§æ°æ®åºï¼èªå¨çæç±»åå®ä¹åè¿ç§»ã
+- [Drizzle](https://drizzle.dev/): è½»éçº§TypeScript ORMï¼æ³¨éå¼åä½éªåæ§è½ã
+- [TypeORM](https://typeorm.io/): æ¯æActive RecordåData Mapperæ¨¡å¼çORMï¼éç¨äºTypeScriptåJavaScriptã
+- [Sequelize](https://sequelize.org/): åè½ä¸°å¯çORMï¼æ¯æäºå¡ãå³ç³»ãè¯»åå¤å¶ç­é«çº§ç¹æ§ã
+- [Objection.js](https://objectionjs.org/): åºäºSQLæ¥è¯¢æå»ºå¨Knex.jsçORMï¼æä¾å¼ºå¤§çå³ç³»ç®¡çã
+- [Kysely](https://kysely.dev/): ç±»åå®å¨çSQLæ¥è¯¢æå»ºå¨ï¼ä¸æ³¨äºæ¥è¯¢æ§è½åç±»åæ¨æ­ã
 
 
-## 储存
-- [Cloudflare R2](https://www.cloudflare.com/products/r2/): 一个基于对象的存储平台，提供高性能和低成本的存储解决方案。
-- [AWS S3](https://aws.amazon.com/s3/): 一个基于对象的存储平台，提供高性能和低成本的存储解决方案。
+## å¨å­
+- [Cloudflare R2](https://www.cloudflare.com/products/r2/): ä¸ä¸ªåºäºå¯¹è±¡çå­å¨å¹³å°ï¼æä¾é«æ§è½åä½ææ¬çå­å¨è§£å³æ¹æ¡ã
+- [AWS S3](https://aws.amazon.com/s3/): ä¸ä¸ªåºäºå¯¹è±¡çå­å¨å¹³å°ï¼æä¾é«æ§è½åä½ææ¬çå­å¨è§£å³æ¹æ¡ã
 
-## 登录
-- [NextAuth](https://next-auth.js.org/): 为Next.js应用提供完整的身份验证解决方案。
-- [Auth.js](https://authjs.dev/): 框架无关的身份验证库，支持多种认证提供商。
-- [Supabase Auth](https://supabase.com/docs/reference/javascript/supabase-auth-sign-in-with-oauth): 集成于Supabase平台的身份验证服务，支持多种登录方式。
-- [Firebase Auth](https://firebase.google.com/docs/auth): Google提供的全面身份验证服务，支持多平台。
-- [AWS Cognito](https://aws.amazon.com/cognito/): 亚马逊云服务的身份验证和用户管理服务。
-- [Auth0](https://auth0.com/): 灵活的身份验证和授权平台，支持多种集成方式。
-- [Okta](https://www.okta.com/): 企业级身份和访问管理解决方案。
-- [Authgear](https://www.authgear.com/): 开源的身份即服务(IDaaS)平台，提供全面的身份验证功能。
-- [Clerk](https://clerk.com/): 一个现代的身份验证和用户管理平台，支持多种登录方式和第三方集成。
-- [Scalekit](https://www.scalekit.com): 在现有身份验证系统（如 Auth0、Firebase 或 Cognito）之上添加企业级 SSO（SAML、OIDC）和 SCIM 自动配置，无需重写代码。
+## ç»å½
+- [NextAuth](https://next-auth.js.org/): ä¸ºNext.jsåºç¨æä¾å®æ´çèº«ä»½éªè¯è§£å³æ¹æ¡ã
+- [Auth.js](https://authjs.dev/): æ¡æ¶æ å³çèº«ä»½éªè¯åºï¼æ¯æå¤ç§è®¤è¯æä¾åã
+- [Supabase Auth](https://supabase.com/docs/reference/javascript/supabase-auth-sign-in-with-oauth): éæäºSupabaseå¹³å°çèº«ä»½éªè¯æå¡ï¼æ¯æå¤ç§ç»å½æ¹å¼ã
+- [Firebase Auth](https://firebase.google.com/docs/auth): Googleæä¾çå¨é¢èº«ä»½éªè¯æå¡ï¼æ¯æå¤å¹³å°ã
+- [AWS Cognito](https://aws.amazon.com/cognito/): äºé©¬éäºæå¡çèº«ä»½éªè¯åç¨æ·ç®¡çæå¡ã
+- [Auth0](https://auth0.com/): çµæ´»çèº«ä»½éªè¯åææå¹³å°ï¼æ¯æå¤ç§éææ¹å¼ã
+- [Okta](https://www.okta.com/): ä¼ä¸çº§èº«ä»½åè®¿é®ç®¡çè§£å³æ¹æ¡ã
+- [Authgear](https://www.authgear.com/): å¼æºçèº«ä»½å³æå¡(IDaaS)å¹³å°ï¼æä¾å¨é¢çèº«ä»½éªè¯åè½ã
+- [Clerk](https://clerk.com/): ä¸ä¸ªç°ä»£çèº«ä»½éªè¯åç¨æ·ç®¡çå¹³å°ï¼æ¯æå¤ç§ç»å½æ¹å¼åç¬¬ä¸æ¹éæã
+- [Scalekit](https://www.scalekit.com): å¨ç°æèº«ä»½éªè¯ç³»ç»ï¼å¦ Auth0ãFirebase æ Cognitoï¼ä¹ä¸æ·»å ä¼ä¸çº§ SSOï¼SAMLãOIDCï¼å SCIM èªå¨éç½®ï¼æ ééåä»£ç ã
 
-## 支付
-- [Stripe](https://stripe.com/): 全面的在线支付处理平台，支持多种支付方式和货币。
-- [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
-- [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
-- [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
-
-
-## 国际化
-- [i18next](https://www.i18next.com/): 一个功能丰富的国际化框架，支持多种语言和地区。适用于各种JavaScript环境，包括浏览器和Node.js。
-- [next-intl](https://next-intl-docs.vercel.app/): 专为Next.js应用设计的国际化解决方案，提供类型安全和优化的国际化功能。
+## æ¯ä»
+- [Stripe](https://stripe.com/): å¨é¢çå¨çº¿æ¯ä»å¤çå¹³å°ï¼æ¯æå¤ç§æ¯ä»æ¹å¼åè´§å¸ã
+- [Paypal](https://www.paypal.com/): å¹¿æ³ä½¿ç¨çå¨çº¿æ¯ä»ç³»ç»ï¼æ¯æä¸ªäººååä¸è´¦æ·ã
+- [Lemon Squeezy](https://www.lemonsqueezy.com/): é¢åæ°å­äº§åçä¸ç«å¼æ¯ä»åéå®å¹³å°ã
+- [Paddle](https://www.paddle.com/): ä¸ºSaaSåè½¯ä»¶å¬å¸æä¾å¨çæ¯ä»åç¨å¡åè§è§£å³æ¹æ¡ã
 
 
-
-## 域名购买
-- [Namecheap](https://www.namecheap.com/): 知名域名注册商，提供具有竞争力的价格和优质客户服务。
-- [GoDaddy](https://www.godaddy.com/): 全球最大的域名注册商之一，提供广泛的域名选择和附加服务。
-- [Google Domains](https://domains.google/): 谷歌提供的域名注册服务，简洁易用，集成谷歌其他服务。
-- [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/): 以成本价提供域名注册，无隐藏费用。
-- [Porkbun](https://porkbun.com/): 新兴域名注册商，以低价和创新服务吸引用户。
-- [NameSilo](https://www.namesilo.com/): 以低价和批量注册功能著称的域名注册商。
-- [Gandi](https://www.gandi.net/): 注重隐私和安全的域名注册商，提供多种附加服务。
-- [Hover](https://www.hover.com/): 专注于简洁用户体验的域名注册商，提供清晰定价。
-- [Domain.com](https://www.domain.com/): 提供多种顶级域名和网站建设工具的综合平台。
-- [Dynadot](https://www.dynadot.com/): 提供灵活的域名管理选项和批量操作功能。
-
-
-## 域名邮件
-- [Cloudflare](https://www.cloudflare.com/): 提供DNS管理、CDN和邮件路由服务的网络基础设施平台。
-- [Zoho](https://www.zoho.com/): 提供企业级电子邮件托管和协作工具的综合套件。
-- [Resend](https://resend.com/): 为开发者设计的现代电子邮件API平台。
-- [Plunk](https://plunk.dev/): 专注于交易性和营销电子邮件的API服务。
-- [Postmark](https://postmarkapp.com/): 快速可靠的交易性电子邮件发送服务。
-- [Mailgun](https://www.mailgun.com/): 强大的电子邮件API服务，支持大规模邮件发送和追踪。
+## å½éå
+- [i18next](https://www.i18next.com/): ä¸ä¸ªåè½ä¸°å¯çå½éåæ¡æ¶ï¼æ¯æå¤ç§è¯­è¨åå°åºãéç¨äºåç§JavaScriptç¯å¢ï¼åæ¬æµè§å¨åNode.jsã
+- [next-intl](https://next-intl-docs.vercel.app/): ä¸ä¸ºNext.jsåºç¨è®¾è®¡çå½éåè§£å³æ¹æ¡ï¼æä¾ç±»åå®å¨åä¼åçå½éååè½ã
 
 
 
-## 部署
-- [Vercel](https://vercel.com/): 一个面向前端开发者的云平台，专注于静态站点和无服务器函数的部署。提供免费计划和高级功能的付费计划，起价$20/月。
-- [Netlify](https://www.netlify.com/): 一个自动化现代网络项目的平台，提供持续部署、无服务器函数等功能。有免费计划，付费计划起价$19/月。
-- [Cloudflare Pages](https://pages.cloudflare.com/): Cloudflare提供的JAMstack平台，用于部署静态站点和单页应用。提供免费计划和企业级解决方案。
-- [Zeabur](https://zeabur.com/): 一个现代化的应用部署和托管平台，支持多种编程语言和框架。提供免费计划，付费计划根据资源使用量定价。
-- [Render](https://render.com/): 一个统一的云平台，用于构建和运行所有应用和网站。提供免费和付费计划，静态站点托管免费，其他服务起价因类型而异。
-- [Fly.io](https://fly.io/): 一个全球分布式应用平台，允许开发者在靠近用户的地方运行应用。提供有限的免费资源，付费计划按使用量计费。
-- [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
+## ååè´­ä¹°
+- [Namecheap](https://www.namecheap.com/): ç¥åååæ³¨ååï¼æä¾å·æç«äºåçä»·æ ¼åä¼è´¨å®¢æ·æå¡ã
+- [GoDaddy](https://www.godaddy.com/): å¨çæå¤§çååæ³¨ååä¹ä¸ï¼æä¾å¹¿æ³çååéæ©åéå æå¡ã
+- [Google Domains](https://domains.google/): è°·æ­æä¾çååæ³¨åæå¡ï¼ç®æ´æç¨ï¼éæè°·æ­å¶ä»æå¡ã
+- [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/): ä»¥ææ¬ä»·æä¾ååæ³¨åï¼æ éèè´¹ç¨ã
+- [Porkbun](https://porkbun.com/): æ°å´ååæ³¨ååï¼ä»¥ä½ä»·ååæ°æå¡å¸å¼ç¨æ·ã
+- [NameSilo](https://www.namesilo.com/): ä»¥ä½ä»·åæ¹éæ³¨ååè½èç§°çååæ³¨ååã
+- [Gandi](https://www.gandi.net/): æ³¨ééç§åå®å¨çååæ³¨ååï¼æä¾å¤ç§éå æå¡ã
+- [Hover](https://www.hover.com/): ä¸æ³¨äºç®æ´ç¨æ·ä½éªçååæ³¨ååï¼æä¾æ¸æ°å®ä»·ã
+- [Domain.com](https://www.domain.com/): æä¾å¤ç§é¡¶çº§åååç½ç«å»ºè®¾å·¥å·çç»¼åå¹³å°ã
+- [Dynadot](https://www.dynadot.com/): æä¾çµæ´»çååç®¡çéé¡¹åæ¹éæä½åè½ã
 
 
-## 产品发布推广
-- [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
-- [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
-- [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
-- [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
-- [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
-- [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
-- [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
-- [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
-- [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
-- [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
-- [AI产品全球发布指南](https://github.com/Gingiris/gingiris-launch): 基于 AFFiNE (60k+ stars) 实战经验的发布指南，包含 Product Hunt 打榜 SOP、KOL 合作、Reddit 运营策略。
-- [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
-- [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
-- [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+## ååé®ä»¶
+- [Cloudflare](https://www.cloudflare.com/): æä¾DNSç®¡çãCDNåé®ä»¶è·¯ç±æå¡çç½ç»åºç¡è®¾æ½å¹³å°ã
+- [Zoho](https://www.zoho.com/): æä¾ä¼ä¸çº§çµå­é®ä»¶æç®¡ååä½å·¥å·çç»¼åå¥ä»¶ã
+- [Resend](https://resend.com/): ä¸ºå¼åèè®¾è®¡çç°ä»£çµå­é®ä»¶APIå¹³å°ã
+- [Plunk](https://plunk.dev/): ä¸æ³¨äºäº¤ææ§åè¥éçµå­é®ä»¶çAPIæå¡ã
+- [Postmark](https://postmarkapp.com/): å¿«éå¯é çäº¤ææ§çµå­é®ä»¶åéæå¡ã
+- [Mailgun](https://www.mailgun.com/): å¼ºå¤§ççµå­é®ä»¶APIæå¡ï¼æ¯æå¤§è§æ¨¡é®ä»¶åéåè¿½è¸ªã
 
 
 
-## 统计分析
-- [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
-- [Mixpanel](https://mixpanel.com/): 强大的用户行为分析工具，支持事件跟踪、留存分析和个性化营销。提供有限的免费版和多个付费层级。
-- [Google Analytics](https://analytics.google.com/): 谷歌提供的免费网站分析工具，提供全面的流量和用户行为数据。也有付费的GA360版本。
-- [Matomo](https://matomo.org/): 注重隐私的开源分析平台，可自托管或云托管。提供免费的自托管版本和付费的云服务。
-- [Fathom](https://usefathom.com/): 简单、轻量级的隐私友好分析工具。无免费版，付费计划起价$14/月。
-- [Hotjar](https://www.hotjar.com/): 结合热图、会话录制和调查功能的用户体验分析工具。有有限的免费版和多个付费计划。
-- [Amplitude](https://amplitude.com/): 产品智能平台，提供深入的用户行为分析和产品优化建议。有免费版和企业版。
-- [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
-- [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
-- [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
+## é¨ç½²
+- [Vercel](https://vercel.com/): ä¸ä¸ªé¢ååç«¯å¼åèçäºå¹³å°ï¼ä¸æ³¨äºéæç«ç¹åæ æå¡å¨å½æ°çé¨ç½²ãæä¾åè´¹è®¡ååé«çº§åè½çä»è´¹è®¡åï¼èµ·ä»·$20/æã
+- [Netlify](https://www.netlify.com/): ä¸ä¸ªèªå¨åç°ä»£ç½ç»é¡¹ç®çå¹³å°ï¼æä¾æç»­é¨ç½²ãæ æå¡å¨å½æ°ç­åè½ãæåè´¹è®¡åï¼ä»è´¹è®¡åèµ·ä»·$19/æã
+- [Cloudflare Pages](https://pages.cloudflare.com/): Cloudflareæä¾çJAMstackå¹³å°ï¼ç¨äºé¨ç½²éæç«ç¹ååé¡µåºç¨ãæä¾åè´¹è®¡ååä¼ä¸çº§è§£å³æ¹æ¡ã
+- [Zeabur](https://zeabur.com/): ä¸ä¸ªç°ä»£åçåºç¨é¨ç½²åæç®¡å¹³å°ï¼æ¯æå¤ç§ç¼ç¨è¯­è¨åæ¡æ¶ãæä¾åè´¹è®¡åï¼ä»è´¹è®¡åæ ¹æ®èµæºä½¿ç¨éå®ä»·ã
+- [Render](https://render.com/): ä¸ä¸ªç»ä¸çäºå¹³å°ï¼ç¨äºæå»ºåè¿è¡ææåºç¨åç½ç«ãæä¾åè´¹åä»è´¹è®¡åï¼éæç«ç¹æç®¡åè´¹ï¼å¶ä»æå¡èµ·ä»·å ç±»åèå¼ã
+- [Fly.io](https://fly.io/): ä¸ä¸ªå¨çåå¸å¼åºç¨å¹³å°ï¼åè®¸å¼åèå¨é è¿ç¨æ·çå°æ¹è¿è¡åºç¨ãæä¾æéçåè´¹èµæºï¼ä»è´¹è®¡åæä½¿ç¨éè®¡è´¹ã
+- [Github Pages](https://pages.github.com/): ä¸ä¸ªåè´¹çéæç«ç¹æç®¡æå¡ï¼æ¯æJekyllåMarkdownã
+
+
+## äº§ååå¸æ¨å¹¿
+- [Product Hunt](https://producthunt.com/): ä¸ä¸ªä¸æ³¨äºæ°äº§ååå¸çå¹³å°ï¼ç¨æ·å¯ä»¥å±ç¤ºèªå·±çäº§åå¹¶è·å¾ç¤¾åºåé¦ãéååç±»ç§æäº§ååå·¥å·çæ¨å¹¿ã
+- [Indie Hackers](https://www.indiehackers.com/): é¢åç¬ç«å¼åèååä¸èçç¤¾åºï¼æä¾ç»éªåäº«ãè®¨è®ºåäº§åå±ç¤ºçæºä¼ã
+- [Hacker News](https://news.ycombinator.com/): ææ¯ååä¸ç¸å³çæ°é»èåç½ç«ï¼å¯ä»¥æäº¤äº§åé¾æ¥è·å¾æååè®¨è®ºã
+- [Reddit](https://www.reddit.com/): å¤§åç¤¾äº¤æ°é»ç½ç«ï¼æå¤ä¸ªéåäº§åæ¨å¹¿çå­çåï¼å¦r/SideProject, r/startupsç­ã
+- [Twitter](https://twitter.com/): ç¤¾äº¤åªä½å¹³å°ï¼éè¿hashtagåå³æ³¨èç½ç»å¯ä»¥ææå°ä¼ æ­äº§åä¿¡æ¯ã
+- [LinkedIn](https://www.linkedin.com/): èä¸ç¤¾äº¤ç½ç»ï¼éåB2Bäº§åçæ¨å¹¿åå»ºç«ä¸ä¸å½¢è±¡ã
+- [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Huntçé¢åå¸æ¿åï¼å¯ä»¥å¨æ­£å¼åå¸åç§¯ç´¯å´è¶£ã
+- [BetaList](https://betalist.com/): ä¸æ³¨äºå±ç¤ºæ©æåä¸é¡¹ç®åäº§åçå¹³å°ã
+- [v2ex](https://www.v2ex.com/): ä¸­æææ¯ç¤¾åºï¼æä¸é¨çåé æ¿åç¨äºåäº«ä¸ªäººé¡¹ç®ã
+- [å°æ°æ´¾](https://sspai.com/): é¢åä¸­æç¨æ·çç§æåªä½ï¼å¯ä»¥æç¨¿ä»ç»æ°äº§åã
+- [AIäº§åå¨çåå¸æå](https://github.com/Gingiris/gingiris-launch): åºäº AFFiNE (60k+ stars) å®æç»éªçåå¸æåï¼åå« Product Hunt ææ¦ SOPãKOL åä½ãReddit è¿è¥ç­ç¥ã
+- [B2B SaaS å¢é¿æå](https://github.com/Gingiris/gingiris-b2b-growth): ä» PMF éªè¯å°çæåå¢é¿çå®æ´æä½æåï¼åå« HeyGenãDeelãVercel ç­æ ææ¡ä¾ã
+- [å¼æºé¡¹ç®åå¸è¥é](https://github.com/Gingiris/gingiris-opensource): GitHub Star å¢é¿ç­ç¥ãå¼åèç¤¾åºè¿è¥ãå¼æºé¡¹ç®è¥éçå®æ´æåã
+- [ASO ä¸ App å·å¯å¨](https://github.com/Gingiris/gingiris-aso-growth): åºç¨ååºä¼åãUGC è¿è¥ãå¤å¹³å°åå®¹ç­ç¥ãAI ç©éµå·çå®æ´å®ææåã
+
+
+
+## ç»è®¡åæ
+- [Posthog](https://posthog.com/): å¼æºçäº§ååæå¹³å°ï¼æä¾ç¨æ·è¡ä¸ºè·è¸ªãæ¼æåæåç¹æ§æ è®°ç­åè½ãæåè´¹åä»è´¹è®¡åã
+- [Mixpanel](https://mixpanel.com/): å¼ºå¤§çç¨æ·è¡ä¸ºåæå·¥å·ï¼æ¯æäºä»¶è·è¸ªãçå­åæåä¸ªæ§åè¥éãæä¾æéçåè´¹çåå¤ä¸ªä»è´¹å±çº§ã
+- [Google Analytics](https://analytics.google.com/): è°·æ­æä¾çåè´¹ç½ç«åæå·¥å·ï¼æä¾å¨é¢çæµéåç¨æ·è¡ä¸ºæ°æ®ãä¹æä»è´¹çGA360çæ¬ã
+- [Matomo](https://matomo.org/): æ³¨ééç§çå¼æºåæå¹³å°ï¼å¯èªæç®¡æäºæç®¡ãæä¾åè´¹çèªæç®¡çæ¬åä»è´¹çäºæå¡ã
+- [Fathom](https://usefathom.com/): ç®åãè½»éçº§çéç§åå¥½åæå·¥å·ãæ åè´¹çï¼ä»è´¹è®¡åèµ·ä»·$14/æã
+- [Hotjar](https://www.hotjar.com/): ç»åç­å¾ãä¼è¯å½å¶åè°æ¥åè½çç¨æ·ä½éªåæå·¥å·ãææéçåè´¹çåå¤ä¸ªä»è´¹è®¡åã
+- [Amplitude](https://amplitude.com/): äº§åæºè½å¹³å°ï¼æä¾æ·±å¥çç¨æ·è¡ä¸ºåæåäº§åä¼åå»ºè®®ãæåè´¹çåä¼ä¸çã
+- [Kissmetrics](https://www.kissmetrics.io/): ä¸æ³¨äºå®¢æ·çå½å¨æåæçå¹³å°ï¼å¸®å©ä¼åç¨æ·è·ååçå­ãä»æä¾ä»è´¹è®¡åã
+- [Plausible](https://plausible.io/): è½»éçº§ãå¼æºçç½ç«åæå·¥å·ï¼æ³¨éç®æ´åéç§ãæä¾ä»è´¹çæç®¡æå¡ï¼èµ·ä»·$9/æã
+- [Umami](https://umami.is/): ç®åãå¿«éãéç§åå¥½çå¼æºç½ç«åæå·¥å·ãå¯åè´¹èªæç®¡ï¼ä¹æä¾ä»è´¹çæç®¡æå¡ã
 
 
 ## SEO
-- [Next SEO](https://github.com/garmeeh/next-seo): 一个用于Next.js应用的SEO优化插件，简化了元标签和JSON-LD结构化数据的管理。
-- [Semrush](https://www.semrush.com/): 综合性SEO工具套件，提供关键词研究、网站审计、竞争对手分析等功能。付费服务，起价$119.95/月。
-- [Ahrefs](https://ahrefs.com/): 强大的SEO工具平台，专注于反向链接分析、关键词研究和内容探索。付费服务，起价$99/月。
-- [SimilarWeb](https://www.similarweb.com/): 提供网站流量分析、竞争对手分析和市场研究的综合工具。有免费版和付费计划，起价$99/月。
-- [Moz Pro](https://moz.com/products/pro): 提供网站审计、排名跟踪和链接研究等SEO功能的综合工具。付费服务，起价$99/月。
-- [Google Search Console](https://search.google.com/search-console/about): 谷歌官方免费工具，帮助网站所有者监控和维护网站在谷歌搜索结果中的表现。
-- [Google Analytics](https://analytics.google.com/): 谷歌提供的免费网站分析工具，虽主要用于流量分析，但也提供有价值的SEO相关数据。
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): 强大的网站爬虫工具，用于SEO审计和分析。提供免费版（有限制）和付费版（£149/年）。
-- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/): 流行的WordPress SEO插件，提供内容优化建议和技术SEO设置。基础版免费，高级版€99/年。
-- [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
-- [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
-- [ogimg.xyz](https://ogimg.xyz): Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。
-- [ShotOG](https://github.com/nicepkg/shotog): 基于 Cloudflare Workers 的 OG 图片生成 API，提供 8 种模板，50ms 渲染速度，免费 500 次/月。开源免费，支持自部署。
-- [Redirect Checker](https://redirect-checker.autocompany.workers.dev): 开源HTTP重定向链分析工具，检测重定向循环，支持多种User-Agent。完全免费。
-- [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
-- [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
-- [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
+- [Next SEO](https://github.com/garmeeh/next-seo): ä¸ä¸ªç¨äºNext.jsåºç¨çSEOä¼åæä»¶ï¼ç®åäºåæ ç­¾åJSON-LDç»æåæ°æ®çç®¡çã
+- [Semrush](https://www.semrush.com/): ç»¼åæ§SEOå·¥å·å¥ä»¶ï¼æä¾å³é®è¯ç ç©¶ãç½ç«å®¡è®¡ãç«äºå¯¹æåæç­åè½ãä»è´¹æå¡ï¼èµ·ä»·$119.95/æã
+- [Ahrefs](https://ahrefs.com/): å¼ºå¤§çSEOå·¥å·å¹³å°ï¼ä¸æ³¨äºååé¾æ¥åæãå³é®è¯ç ç©¶ååå®¹æ¢ç´¢ãä»è´¹æå¡ï¼èµ·ä»·$99/æã
+- [SimilarWeb](https://www.similarweb.com/): æä¾ç½ç«æµéåæãç«äºå¯¹æåæåå¸åºç ç©¶çç»¼åå·¥å·ãæåè´¹çåä»è´¹è®¡åï¼èµ·ä»·$99/æã
+- [Moz Pro](https://moz.com/products/pro): æä¾ç½ç«å®¡è®¡ãæåè·è¸ªåé¾æ¥ç ç©¶ç­SEOåè½çç»¼åå·¥å·ãä»è´¹æå¡ï¼èµ·ä»·$99/æã
+- [Google Search Console](https://search.google.com/search-console/about): è°·æ­å®æ¹åè´¹å·¥å·ï¼å¸®å©ç½ç«ææèçæ§åç»´æ¤ç½ç«å¨è°·æ­æç´¢ç»æä¸­çè¡¨ç°ã
+- [Google Analytics](https://analytics.google.com/): è°·æ­æä¾çåè´¹ç½ç«åæå·¥å·ï¼è½ä¸»è¦ç¨äºæµéåæï¼ä½ä¹æä¾æä»·å¼çSEOç¸å³æ°æ®ã
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): å¼ºå¤§çç½ç«ç¬è«å·¥å·ï¼ç¨äºSEOå®¡è®¡ååæãæä¾åè´¹çï¼æéå¶ï¼åä»è´¹çï¼Â£149/å¹´ï¼ã
+- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/): æµè¡çWordPress SEOæä»¶ï¼æä¾åå®¹ä¼åå»ºè®®åææ¯SEOè®¾ç½®ãåºç¡çåè´¹ï¼é«çº§çâ¬99/å¹´ã
+- [SEMrush Writing Assistant](https://www.semrush.com/swa/): éæå°Google DocsåWordPressçSEOåä½è¾å©å·¥å·ï¼å¸®å©ä¼ååå®¹ãéSEMrushè®¢éã
+- [Ubersuggest](https://neilpatel.com/ubersuggest/): ç±Neil Patelå¼åçSEOå·¥å·ï¼æä¾å³é®è¯å»ºè®®ååå®¹åæãæéåè´¹çåä»è´¹è®¡åï¼èµ·ä»·$29/æã
+- [ogimg.xyz](https://ogimg.xyz): Open Graphå¾ççæAPIï¼æä¾10ä¸ªæ¨¡æ¿ãèªå®ä¹åçåURLèªå¨æåãåè´¹ç50å¼ /æï¼ä»è´¹çèµ·ä»·$4.90/æã
+- [ShotOG](https://github.com/nicepkg/shotog): åºäº Cloudflare Workers ç OG å¾ççæ APIï¼æä¾ 8 ç§æ¨¡æ¿ï¼50ms æ¸²æéåº¦ï¼åè´¹ 500 æ¬¡/æãå¼æºåè´¹ï¼æ¯æèªé¨ç½²ã
+- [Redirect Checker](https://redirect-checker.autocompany.workers.dev): å¼æºHTTPéå®åé¾åæå·¥å·ï¼æ£æµéå®åå¾ªç¯ï¼æ¯æå¤ç§User-Agentãå®å¨åè´¹ã
+- [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): å¼æºSSL/TLSè¯ä¹¦å°æçæ§å·¥å·ï¼å¸®å©ç¬ç«å¼åèç¡®ä¿è¯ä¹¦ä¸ä¼è¿æãå®å¨åè´¹ã
+- [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): å¼æºDNSä¼ æ­æ£æ¥å·¥å·ï¼å¨çå¤èç¹æ¥è¯¢DNSè®°å½ä¼ æ­ç¶æãå®å¨åè´¹ã
+- [PageGuard](https://pageguard.org): åè´¹ç½ç«å¥åº·æ«æå·¥å·ï¼ä¸é®æ£æµSEOãæ§è½ãæ éç¢æ§åæä½³å®è·µï¼æä¾AIåææ¥ååREST APIï¼æ éæ³¨åã
 
 
 
 
 # Sponsor
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
