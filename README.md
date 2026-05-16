@@ -47,6 +47,8 @@
 
 ## 灵感获取
 - [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web tools for indie hackers: domain name generator with availability check, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator. No signup. No tracking.
 - [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
 - [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
 - [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
@@ -317,3 +319,4 @@
 
 # Sponsor
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
