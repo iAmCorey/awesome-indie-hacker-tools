@@ -40,6 +40,7 @@
 - [域名邮件](#域名邮件)
 - [部署](#部署)
 - [产品发布推广](#产品发布推广)
+- [财务税务](#财务税务)
 - [统计分析](#统计分析)
 - [SEO](#seo)
 
@@ -278,6 +279,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Micro-SaaS Runway Price Floor Calculator](https://micro-saas-runway-price-floor-calculator.vercel.app/): 免费、开源、无需登录的浏览器端计算器，帮助独立开发者按现金跑道、毛利率、固定成本和目标转化率估算最低月费。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
