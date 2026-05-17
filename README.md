@@ -293,6 +293,7 @@
 
 
 ## SEO
+- [GEOScore AI](https://geoscoreai.com/): AI搜索可见性扫描工具，检测你的网站在AI搜索引擎（ChatGPT、Perplexity、Google AI Overviews、Gemini）中的表现。运行11项技术检查。有免费版和付费计划。
 - [Next SEO](https://github.com/garmeeh/next-seo): 一个用于Next.js应用的SEO优化插件，简化了元标签和JSON-LD结构化数据的管理。
 - [Semrush](https://www.semrush.com/): 综合性SEO工具套件，提供关键词研究、网站审计、竞争对手分析等功能。付费服务，起价$119.95/月。
 - [Ahrefs](https://ahrefs.com/): 强大的SEO工具平台，专注于反向链接分析、关键词研究和内容探索。付费服务，起价$99/月。
