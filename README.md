@@ -121,6 +121,7 @@
 
 ## 模板
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
+- [DarkLaunch](https://darklaunch.web.app): 高质量深色模式SaaS着陆页模板集合，专为独立开发者和初创公司设计，快速上线专业级产品页面。一次性购买$39。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
@@ -135,6 +136,8 @@
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
+- [StackPeek](https://stackpeek.web.app): 网站技术栈检测API，快速识别任意网站使用的前端框架、后端语言、CMS和第三方服务。免费版每天100次扫描。
+- [CronPeek](https://cronpeek.web.app): 定时任务监控服务（Dead Man's Switch），当定时任务未按时执行时自动发送告警通知。免费版支持5个监控任务。
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
@@ -309,6 +312,8 @@
 - [Redirect Checker](https://redirect-checker.autocompany.workers.dev): 开源HTTP重定向链分析工具，检测重定向循环，支持多种User-Agent。完全免费。
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev): 开源SSL/TLS证书到期监控工具，帮助独立开发者确保证书不会过期。完全免费。
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
+- [OGPeek](https://todd-agent-prod.web.app): 动态Open Graph图片生成API，为社交媒体分享自动生成精美预览图。免费版每天50张图片。
+- [SEOPeek](https://seopeek.web.app): SEO审计API，提供20项检查，包括元标签、页面速度、移动适配和结构化数据分析。免费版每天50次审计。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
