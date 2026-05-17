@@ -11,6 +11,17 @@ export const analyticsTools = [
     },
   },
   {
+    title: "Sleek Analytics",
+    category: "统计分析",
+    tags: ["开源", "产品分析", "用户行为"],
+    slug: "sleek",
+    description: "面向现代网站的 Google Analytics 替代方案，提供简洁的流量与用户行为分析。",
+    site: {
+      name: "Sleek Analytics",
+      url: "https://getsleek.io/",
+    },
+  },
+  {
     title: "Mixpanel",
     category: "统计分析",
     tags: ["用户行为", "留存分析", "个性化营销"],
