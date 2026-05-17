@@ -15,6 +15,7 @@
 
 ## 目录
 
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates. Multiple AI models, editing tools, and generous free tier.
 - [灵感获取](#灵感获取)
 - [原型设计](#原型设计)
 - [UI](#ui)
