@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [SammaPix](https://www.sammapix.com): 免费隐私优先的图像工具包，27个浏览器端工具（压缩、调整大小、格式转换、AI去背景、护照照片）。基于 Next.js 14 + Canvas API + WebAssembly，所有处理在浏览器端完成。
 
 ## 前端开发框架
 ### Web
