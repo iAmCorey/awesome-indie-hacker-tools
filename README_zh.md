@@ -278,6 +278,7 @@
 - [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
 - [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
 - [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
+- [Beam](https://beam-privacy.com/): 基于Cloudflare Workers的隐私优先网站分析工具。无Cookie，无需同意横幅，默认符合GDPR。提供免费版（1个站点，5万页面浏览量），付费计划起价$9/月。
 
 
 ## SEO
