@@ -280,6 +280,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Kissmetrics](https://www.kissmetrics.io/): A platform focused on customer lifecycle analysis, helping optimize user acquisition and retention. Only offers paid plans.
 - [Plausible](https://plausible.io/): A lightweight, open-source website analytics tool focusing on simplicity and privacy. Offers paid hosting services starting at $9/month.
 - [Umami](https://umami.is/): A simple, fast, privacy-friendly open-source website analytics tool. Can be self-hosted for free, also offers paid hosting services.
+- [MarketiStats](https://marketistats.com/): An all-in-one marketing analytics dashboard for solo SaaS founders, consolidating social media, SEO, outreach, affiliate, and paid ads tracking in one place. Free plan available; Pro plan $39/month.
 
 
 ## SEO
