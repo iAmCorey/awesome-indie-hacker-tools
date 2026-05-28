@@ -63,6 +63,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Sketch](https://www.sketch.com/): A Mac-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Personal version $9/month, team version $20/month/editor.
 - [Framer](https://www.framer.com/): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Has a free plan, professional version starts at $15/month.
 - [Webflow](https://webflow.com/): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Has a free plan, paid plans start at $14/month.
+- [RapidNative](https://rapidnative.com/): An AI-native mobile app builder that turns ideas, sketches, or screenshots into working React Native and Expo apps. Generates production-ready code that can be viewed, edited, and extended. Freemium with 20 free credits.
 
 
 
@@ -125,6 +126,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Supastarter](https://supastarter.com/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Makerkit](https://makerkit.dev/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Vibe Coding Starter Kit](https://vibecodingstarterkit.io/): AI-powered Next.js boilerplate for non-technical founders, featuring AI commands, pre-configured auth, payments, and rapid development tools.
+- [AppLighter](https://applighter.com/): Production-ready full-stack React Native + Expo app templates designed to be extended by AI coding agents (Cursor, Claude Code). Layered architecture, security posture, and designer-grade UI. Paid, one-time per template.
 
 ## Development Tools
 - [VS Code](https://code.visualstudio.com/): A free, open-source code editor developed by Microsoft. Supports multiple programming languages, debugging, Git integration, and other features, with a rich extension ecosystem.

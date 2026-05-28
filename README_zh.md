@@ -63,6 +63,7 @@
 - [Sketch](https://www.sketch.com/): 一个基于Mac的UI设计工具，支持多种框架，提供实时预览和协作。个人版$9/月，团队版$20/月/编辑者。
 - [Framer](https://www.framer.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，专业版起价$15/月。
 - [Webflow](https://webflow.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，付费计划起价$14/月。
+- [RapidNative](https://rapidnative.com/): AI 原生移动应用构建器，将创意、草图或截图转换为可运行的 React Native 和 Expo 应用，生成可查看、编辑和扩展的生产级代码。免费增值（20 个免费额度）。
 
 
 
@@ -123,6 +124,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+- [AppLighter](https://applighter.com/): 基于 React Native + Expo 的全栈应用模板，专为由 AI 编程代理（Cursor、Claude Code）扩展而设计，采用 NativeWind 和分层架构。付费，按模板一次性收费。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
