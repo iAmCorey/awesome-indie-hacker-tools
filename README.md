@@ -125,6 +125,8 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [Invoice Chaser](https://ttcd77.github.io/invoice-chaser-templates/): 免费交互式发票追踪工具，5阶段跟进邮件系统，含$9模板包——开源零依赖HTML，面向自由职业者。
+- [Scope Creep Prevention Kit](https://ttcd77.github.io/invoice-chaser-templates/scope-creep-kit/): 5份自由职业者模板（提案书、SOW协议、变更申请表、修改策略、推回邮件脚本）——一次性$12，开源HTML，用于项目范围管理。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
