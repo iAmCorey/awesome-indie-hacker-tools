@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [MiN8T Image Compressor](https://min8t.com/tools/image-compressor/): 免费浏览器内JPEG/PNG/WebP图片压缩工具，使用MozJPEG优化，无需上传，适合改善Core Web Vitals。完全免费，无需注册。
 
 
