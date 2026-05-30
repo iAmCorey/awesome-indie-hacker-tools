@@ -264,6 +264,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [LinkedIn](https://www.linkedin.com/): A professional social network suitable for B2B product promotion and building a professional image.
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt's pre-launch section where you can accumulate interest before official launch.
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
+- [Waitlio](https://waitlio.com/): Free waitlist management tool to create branded pre-launch pages in seconds, collect email subscribers, verify signups automatically, and manage your product launch. Free plan included, upgrade as you grow.
 - [v2ex](https://www.v2ex.com/): A Chinese tech community with a dedicated section for sharing personal projects.
 - [少数派](https://sspai.com/): A tech media platform for Chinese users where you can submit articles introducing new products.
 

@@ -88,6 +88,17 @@ export const productLaunchPlatforms = [
     },
   },
   {
+    title: "Waitlio",
+    category: "产品发布推广",
+    tags: ["等候名单", "预发布", "邮箱收集", "免费"],
+    slug: "waitlio",
+    description: "免费的等候名单管理工具，可在几秒钟内创建品牌化的预发布页面，收集邮箱订阅者，自动验证注册，并管理你的产品发布。提供免费计划，按需升级。",
+    site: {
+      name: "Waitlio",
+      url: "https://waitlio.com/",
+    },
+  },
+  {
     title: "v2ex",
     category: "产品发布推广",
     tags: ["中文社区", "技术讨论", "创造板块"],

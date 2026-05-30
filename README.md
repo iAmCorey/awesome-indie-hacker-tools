@@ -267,6 +267,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [Waitlio](https://waitlio.com/): 免费的等候名单管理工具，可在几秒钟内创建品牌化的预发布页面，收集邮箱订阅者，自动验证注册，并管理你的产品发布。提供免费计划，按需升级。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
 - [AI产品全球发布指南](https://github.com/Gingiris/gingiris-launch): 基于 AFFiNE (60k+ stars) 实战经验的发布指南，包含 Product Hunt 打榜 SOP、KOL 合作、Reddit 运营策略。
