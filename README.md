@@ -309,6 +309,8 @@
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 
 
+- [TinyTools](https://tinytools-smoky.vercel.app/): 免费的浏览器端实用工具集，包含SEO元标签生成器、robots.txt生成器（支持AI爬虫）、域名生成器、OG图片生成器、Favicon生成器、色彩调色板、AI背景移除（本地运行）、AI成本计算器、EU AI法案合规披露生成器。无需注册，完全开源。
+
 
 
 # Sponsor
