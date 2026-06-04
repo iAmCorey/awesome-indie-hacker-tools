@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [TinyTools](https://tinytools-smoky.vercel.app/): 免费单一用途的网络工具集合，所有工具都在浏览器中运行，无需注册。包括域名生成器、OG图像生成器、AI背景移除（本地运行）、网站图标生成器、调色板生成器、SEO元标签生成器、AI成本计算器、AI内容披露生成器（符合EU AI法案）和AI robots.txt生成器。开源。
 
 ## 前端开发框架
 ### Web
