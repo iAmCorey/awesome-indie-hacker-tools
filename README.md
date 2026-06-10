@@ -276,6 +276,9 @@
 
 
 
+## 公司注册 (Company Registration)
+- [LLC Class](https://llcclass.com): 专为非美国创始人设计的怀俄明州LLC注册服务，低州费、无州所得税、隐私保护强，支持EIN申请、BOI合规报告，无需美国地址。100K+客户，Trustpilot 4.9/5。
+
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
 
