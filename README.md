@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [FreePNGConvert](https://freepngconvert.com/): 免费在线 WebP 转 PNG 转换工具，100% 浏览器端处理，无需上传到服务器，保护隐私，无需注册，无限使用。
 
 ## 前端开发框架
 ### Web
