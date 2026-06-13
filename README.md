@@ -313,3 +313,4 @@
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
 
+- [Prismix](https://prismix.dev): AI服务状态监控+新闻聚合+MCP服务目录，实时监控75+AI服务（OpenAI、Anthropic、Cursor等）宕机状态，支持星标服务的邮件/Webhook告警，聚合55+AI新闻源，提供500+MCP服务器目录。免费，Pro版$10/月。
