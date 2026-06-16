@@ -264,6 +264,7 @@
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
+- [FiveCoins Validation Plan](https://fivecoins.app.tipdata.es/?src=indie-hacker-tools-pr): 免费 AI 验证规划工具，帮助独立开发者验证小额付费产品、发布渠道、定价风险和指标证据。
 
 
 
