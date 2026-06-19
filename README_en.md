@@ -295,3 +295,4 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): An SEO writing assistant tool integrated into Google Docs and WordPress, helping optimize content. Requires SEMrush subscription.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): An SEO tool developed by Neil Patel, providing keyword suggestions and content ideas. Limited free version and paid plans starting at $29/month.
 - [ogimg.xyz](https://ogimg.xyz): API for generating Open Graph images. 10 templates, custom branding, URL auto-fetch. Free plan: 50 images/month, paid from $4.90/mo.
+- [NotFair](https://github.com/nowork-studio/NotFair): Open-source Claude Code plugin providing SEO, GEO, Google Ads, and Meta Ads agent skills, connected to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. MIT license, ~2.9k stars, free.

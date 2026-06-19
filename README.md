@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [NotFair](https://github.com/nowork-studio/NotFair): 开源 Claude Code 插件，提供 SEO、GEO、Google Ads 和 Meta Ads 技能，通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 连接实时数据。MIT 协议，约 2.9k Stars，完全免费。
 
 
