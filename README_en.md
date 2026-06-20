@@ -258,6 +258,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 ## Product Launch and Promotion
 - [Product Hunt](https://producthunt.com/): A platform focused on new product launches where users can showcase their products and receive community feedback. Suitable for promoting various tech products and tools.
 - [Indie Hackers](https://www.indiehackers.com/): A community for independent developers and entrepreneurs, providing opportunities for sharing experiences, discussions, and product showcases.
+- [intheloop](https://intheloop.wexare.com): Community platform for AI builders and founders to share links, discuss, and vote on tech content.
 - [Hacker News](https://news.ycombinator.com/): A tech and startup-related news aggregation website where you can submit product links for exposure and discussion.
 - [Reddit](https://www.reddit.com/): A large social news website with multiple subreddits suitable for product promotion, such as r/SideProject, r/startups, etc.
 - [Twitter](https://twitter.com/): A social media platform where product information can be effectively spread through hashtags and follower networks.

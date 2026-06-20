@@ -261,6 +261,7 @@
 ## 产品发布推广
 - [Product Hunt](https://producthunt.com/): 一个专注于新产品发布的平台，用户可以展示自己的产品并获得社区反馈。适合各类科技产品和工具的推广。
 - [Indie Hackers](https://www.indiehackers.com/): 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。
+- [intheloop](https://intheloop.wexare.com): 面向 AI 开发者和创业者的社区平台，可以分享链接、讨论并对科技内容投票。
 - [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
 - [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
 - [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
