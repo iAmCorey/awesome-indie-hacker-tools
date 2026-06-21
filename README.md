@@ -29,6 +29,7 @@
   - [App](#app)
   - [Chrome插件](#chrome插件)
 - [后端开发框架](#后端开发框架)
+- [CMS / 内容管理](#cms--内容管理)
 - [数据库](#数据库)
   - [云数据库](#云数据库)
   - [ORM](#orm)
@@ -169,6 +170,10 @@
 ## 后端开发框架
 - [Nest.js](https://nestjs.com/): 一个基于Node.js的框架，用于构建服务器端应用
 - [FastAPI](https://fastapi.tiangolo.com/): 一个基于Python的框架，用于构建API
+
+
+## CMS / 内容管理
+- [UnfoldCMS](https://unfoldcms.com): 自托管的内容管理系统，基于 Laravel 12 + React 19 + shadcn/ui + Tailwind v4 构建，替代 Contentful、Sanity 等昂贵 SaaS 方案。Core 版免费，Pro 版一次性付费，无月费。[GitHub](https://github.com/hpakdaman/unfoldcms)
 
 
 ## 数据库
