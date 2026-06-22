@@ -275,6 +275,7 @@
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
 
 
+- [AI假落地体检](https://github.com/ruiflow-team/ai-fake-landing-checkup): 免费开源的AI项目真假落地诊断清单，帮助独立开发者和小团队判断AI项目是真落地还是"看起来很忙"。提供10项评分维度和免费自检问卷。
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
