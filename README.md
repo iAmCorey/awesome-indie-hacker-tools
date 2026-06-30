@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Acalcia](https://acalcia.com): 面向美国自由职业者、电商卖家和创作者的免费在线财税计算器套件，包含自雇与季度预缴税、里程、平台手续费（Etsy/eBay/亚马逊FBA/Stripe/PayPal）、报价与定价、发票生成等41款工具，无需注册、注重隐私。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
