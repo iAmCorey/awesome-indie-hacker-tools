@@ -311,5 +311,7 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [Comparar Velocidad Web](https://landing-five-dusky-44.vercel.app/comparar-velocidad): 免费网站速度对比工具，输入两个URL即可对比Core Web Vitals（LCP、CLS、FID），使用Google PageSpeed Insights真实数据，无需注册。适合竞品分析和性能优化。
+- [Schema Markup Generator](https://landing-five-dusky-44.vercel.app/schema-generator): 免费结构化数据生成工具，支持22种本地商家类型的JSON-LD Schema，一键复制粘贴到网站，提升搜索结果展示。无需注册。
 
 
