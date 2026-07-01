@@ -42,6 +42,7 @@
 - [产品发布推广](#产品发布推广)
 - [统计分析](#统计分析)
 - [SEO](#seo)
+- [客服/在线聊天](#客服在线聊天)
 
 
 
@@ -312,4 +313,6 @@
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
+## 客服/在线聊天
+- [Knocket](https://trtc.io/solutions/knocket): 永久免费的网站在线聊天组件 + 可分享联系页，统一 Telegram/Email 收件箱，一行代码集成，无广告无座位限制。
 
