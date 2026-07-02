@@ -120,4 +120,15 @@ export const seoTools = [
       url: "https://neilpatel.com/ubersuggest/",
     },
   },
+  {
+    title: "GetAppNiche",
+    category: "SEO",
+    tags: ["ASO", "应用商店", "竞品分析"],
+    slug: "getappniche",
+    description: "面向独立 iOS 开发者的 App Store 情报工具，提供收入估算、ASO 关键词、竞品广告和评论监控。包含免费的 App 收入查询工具。",
+    site: {
+      name: "GetAppNiche",
+      url: "https://getappniche.com/",
+    },
+  },
 ];
