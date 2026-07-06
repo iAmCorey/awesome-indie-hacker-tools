@@ -126,6 +126,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Makerkit](https://makerkit.dev/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Vibe Coding Starter Kit](https://vibecodingstarterkit.io/): AI-powered Next.js boilerplate for non-technical founders, featuring AI commands, pre-configured auth, payments, and rapid development tools.
 - [AI Money Stack](https://duct-tape2.github.io/ai-money-stack/): Local-first toolkit for indie builders with revenue idea scanning, PR review, launch checklists, and marketing copy templates. Paid product, $25.
+- [GitHub Pages Storefront Starter](https://github.com/duct-tape2/github-pages-storefront-starter): Free GitHub Pages storefront template for digital products, with a launch checklist, live demo, and sample ZIP. Free template; paid full kit starts at $19.
 
 ## Development Tools
 - [VS Code](https://code.visualstudio.com/): A free, open-source code editor developed by Microsoft. Supports multiple programming languages, debugging, Git integration, and other features, with a rich extension ecosystem.

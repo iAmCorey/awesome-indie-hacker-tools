@@ -122,6 +122,7 @@
 ## 模板
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
 - [AI Money Stack](https://duct-tape2.github.io/ai-money-stack/): 面向独立开发者的本地优先工具包，包含收入线索扫描、PR评审、发布清单和营销文案模板。付费产品，$25。
+- [GitHub Pages Storefront Starter](https://github.com/duct-tape2/github-pages-storefront-starter): 面向数字产品的免费 GitHub Pages 店铺模板，包含发布清单、在线 demo 和 sample ZIP。免费模板，付费完整包 $19 起。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
@@ -312,4 +313,3 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
-
