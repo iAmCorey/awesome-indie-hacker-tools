@@ -311,5 +311,5 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
-
+- [AnswerLens](https://app.sfdj.net/): 面向 B2B SaaS 的公开证据层审计工具，检查定价、证明、文档、对比页、信任信息、Schema 和 `llms.txt` 等缺口，并输出带来源的修复计划。适合在做 SEO 或 AI 搜索优化前排查公开证据；不监控排名、AI 引用或流量。
 
