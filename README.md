@@ -121,6 +121,7 @@
 
 ## 模板
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
+- [接案報價與收款工具包](https://payment-flow-studio-tw.masstech.chatgpt.site/templates/freelancer-proposal-pricing-kit?source=github_awesome_indie_hacker_tools_e20): 給繁中個人接案者的 Excel 報價計算器與 Word 固定範圍提案範本，涵蓋訂金、變更核准、驗收與實收追蹤。付費產品，$19。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
