@@ -135,6 +135,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue): An open-source AI code assistant plugin that can be used in VSCode and JetBrains, supporting multiple LLMs including local Ollama.
 - [Codeium](https://codeium.com/): An AI-driven code completion tool, free for personal use, Pro version $12/month.
 - [Taskade](https://www.taskade.com/): An AI-native workspace platform with built-in AI agents, task management, mind mapping, and real-time team collaboration. Offers browser extensions (Chrome, Firefox, Edge). Free plan available.
+- [BountySignal](https://fortyeight-rescue.jaeber2se.chatgpt.site/): A live GitHub paid-issue radar that filters for source-verifiable developer bounties worth at least $100. The public radar is free; the private Pro feed costs 29 USDC per 30 days.
 
 ## Frontend Development Frameworks
 ### Web

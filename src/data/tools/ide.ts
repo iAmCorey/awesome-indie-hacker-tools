@@ -65,4 +65,15 @@ export const developmentTools = [
       url: "https://www.taskade.com/",
     },
   },
+  {
+    title: "BountySignal",
+    category: "开发工具",
+    tags: ["GitHub", "开发者赏金", "付费Issue", "开源"],
+    slug: "bountysignal",
+    description: "实时GitHub付费Issue雷达，筛选来源可验证且赏金不低于100美元的开发任务。公开雷达免费，Pro私有Feed为每30天29 USDC。",
+    site: {
+      name: "BountySignal",
+      url: "https://fortyeight-rescue.jaeber2se.chatgpt.site/",
+    },
+  },
 ];

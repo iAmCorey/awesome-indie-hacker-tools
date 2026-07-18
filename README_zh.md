@@ -133,6 +133,7 @@
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
+- [BountySignal](https://fortyeight-rescue.jaeber2se.chatgpt.site/): 实时GitHub付费Issue雷达，筛选来源可验证且赏金不低于100美元的开发任务。公开雷达免费，Pro私有Feed为每30天29 USDC。
 
 ## 前端开发框架
 ### Web
