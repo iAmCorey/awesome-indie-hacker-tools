@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [HonorBox](https://github.com/Honorboxx/honorbox): 开源免费的数字产品销售引擎：GitHub Pages 静态店面 + Stripe Payment Links 收款 + GitHub 仓库邀请交付，无需服务器，0% 平台费。
 
 
 ## 国际化
