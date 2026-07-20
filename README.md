@@ -57,7 +57,6 @@
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
-- [vx.dev](https://vx.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作，v0.dev的开源替代品。完全免费开源。
 - [Figma](https://www.figma.com/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。有免费计划，专业版起价$12/月/编辑者。
 - [Adobe XD](https://www.adobe.com/products/xd.html): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。作为Creative Cloud的一部分，单独订阅起价$9.99/月。
 - [Sketch](https://www.sketch.com/): 一个基于Mac的UI设计工具，支持多种框架，提供实时预览和协作。个人版$9/月，团队版$20/月/编辑者。
@@ -264,6 +263,7 @@
 - [Hacker News](https://news.ycombinator.com/): 技术和创业相关的新闻聚合网站，可以提交产品链接获得曝光和讨论。
 - [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
 - [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
+- [Xquik](https://xquik.com/): 面向 X 的自动化平台，提供 REST API、Webhook、实时监控和托管 MCP 服务，适合产品推广工作流与 AI 代理集成。
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
@@ -311,5 +311,4 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
-
 

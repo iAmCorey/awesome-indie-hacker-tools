@@ -57,7 +57,6 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 
 ## Prototyping
 - [v0](https://v0.dev/): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Currently in beta, free to use.
-- [vx.dev](https://vx.dev/): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. An open-source alternative to v0.dev. Completely free and open-source.
 - [Figma](https://www.figma.com/): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Has a free plan, professional version starts at $12/month/editor.
 - [Adobe XD](https://www.adobe.com/products/xd.html): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. As part of Creative Cloud, individual subscription starts at $9.99/month.
 - [Sketch](https://www.sketch.com/): A Mac-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Personal version $9/month, team version $20/month/editor.
@@ -261,6 +260,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Hacker News](https://news.ycombinator.com/): A tech and startup-related news aggregation website where you can submit product links for exposure and discussion.
 - [Reddit](https://www.reddit.com/): A large social news website with multiple subreddits suitable for product promotion, such as r/SideProject, r/startups, etc.
 - [Twitter](https://twitter.com/): A social media platform where product information can be effectively spread through hashtags and follower networks.
+- [Xquik](https://xquik.com/): An X automation platform with a REST API, webhooks, real-time monitoring, and hosted MCP for product-promotion workflows and AI agents.
 - [LinkedIn](https://www.linkedin.com/): A professional social network suitable for B2B product promotion and building a professional image.
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt's pre-launch section where you can accumulate interest before official launch.
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
