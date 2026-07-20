@@ -11,17 +11,6 @@ export const designTools = [
     },
   },
   {
-    title: "vx.dev",
-    category: "原型设计",
-    tags: ["原型设计", "UI设计", "开源"],
-    slug: "vx-dev",
-    description: "一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作，v0.dev的开源替代品。完全免费开源。",
-    site: {
-      name: "vx.dev",
-      url: "https://vx.dev/",
-    },
-  },
-  {
     title: "Figma",
     category: "原型设计",
     tags: ["原型设计", "UI设计", "协作"],

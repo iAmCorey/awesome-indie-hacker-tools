@@ -55,6 +55,17 @@ export const productLaunchPlatforms = [
     },
   },
   {
+    title: "Xquik",
+    category: "产品发布推广",
+    tags: ["X 自动化", "REST API", "MCP"],
+    slug: "xquik",
+    description: "面向 X 的自动化平台，提供 REST API、Webhook、实时监控和托管 MCP 服务，适合产品推广工作流与 AI 代理集成。",
+    site: {
+      name: "Xquik",
+      url: "https://xquik.com/",
+    },
+  },
+  {
     title: "LinkedIn",
     category: "产品发布推广",
     tags: ["职业社交", "B2B", "专业形象"],
