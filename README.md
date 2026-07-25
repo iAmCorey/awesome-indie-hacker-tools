@@ -42,6 +42,7 @@
 - [产品发布推广](#产品发布推广)
 - [统计分析](#统计分析)
 - [SEO](#seo)
+- [监控](#监控)
 
 
 
@@ -312,4 +313,7 @@
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
-
+## 监控
+- [API Status Check](https://apistatuscheck.com): 实时API状态监控面板，聚合190+热门API和服务（AWS、Stripe、GitHub、OpenAI等）的运行状态。免费查看，宕机提醒为付费计划（起价$7/月）。
+- [UptimeRobot](https://uptimerobot.com): 网站和API监控工具，定期检查运行状态。免费版支持50个监控器。
+- [Better Stack](https://betterstack.com): 结合日志管理、正常运行时间监控和事件管理的现代监控平台。有免费版和付费计划。
