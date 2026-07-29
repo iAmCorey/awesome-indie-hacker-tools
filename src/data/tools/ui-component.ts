@@ -142,4 +142,16 @@ export const uiComponentLibraries = [
       url: "https://ui.aceternity.com/",
     },
   },
+  {
+    title: "Payload Components",
+    category: "UI组件库",
+    tags: ["Payload CMS", "Next.js", "Shadcn UI", "MIT"],
+    slug: "payload-components",
+    description: "面向 Payload v3 与 Next.js 15/16 的 MIT 开源区块注册表。67 个类型安全区块以源码安装，并自动完成 Pages、渲染器、类型与后台 import map 接线。",
+    site: {
+      name: "Payload Components",
+      url: "https://www.payload-components.xyz/",
+    },
+  },
+
 ];
