@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [PDF Bill Builder](https://www.pdfbillbuilder.com): 免费的浏览器端发票/收据/报价单生成器，无需注册、无水印，PDF 完全在浏览器本地生成，不上传任何客户数据。支持多币种和税费计算，可选 Pro 版 $5.99/月解锁高级模板。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
