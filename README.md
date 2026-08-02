@@ -125,6 +125,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup): 开源（MIT）的 Next.js 15 SaaS 启动模板，内置自托管认证（Google/GitHub OAuth + 邮箱密码，无需 Clerk/Auth0/Supabase 等第三方认证服务）、Stripe 订阅、团队管理、Postgres + Drizzle ORM，深色优先 UI。完全免费开源，提供在线 Demo（saas-startup.mailkite.dev）。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
