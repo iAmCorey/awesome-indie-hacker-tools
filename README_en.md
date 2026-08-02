@@ -54,6 +54,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [LinkedIn](https://www.linkedin.com/): A professional social network suitable for B2B product promotion and building a professional image.
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt's pre-launch section where you can accumulate interest before official launch.
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
+- [1mil.app](https://1mil.app/): A business idea discovery tool that runs live market research and returns ranked opportunities, scored on demand evidence and on whether a solo founder can realistically win them. Free tier available.
 
 ## Prototyping
 - [v0](https://v0.dev/): A web-based UI design tool that supports multiple frameworks, providing real-time preview and collaboration. Currently in beta, free to use.
