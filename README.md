@@ -1,4 +1,5 @@
 # Awesome Indie Hacker Tools
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 
 开发第一站，搞定技术栈
 
