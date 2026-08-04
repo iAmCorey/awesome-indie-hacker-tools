@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [Engagemii](https://engagemii.com): Scores any website 0-10 on how visible it is to AI answer engines (ChatGPT, Claude, Gemini, Perplexity). Free score with no signup; fix kit $29.99 one-time and citation tracking $14.99/month.
 
 
