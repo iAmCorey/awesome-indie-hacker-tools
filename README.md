@@ -311,5 +311,5 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
-
+- [SERP Preview Tool](https://alltoolsverse.com/tools/serp-preview-tool/): 免费的浏览器端 Google 搜索结果预览工具，可检查桌面和移动端的标题、URL 和描述显示，无需注册。
 
