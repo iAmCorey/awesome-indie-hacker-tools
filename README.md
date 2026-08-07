@@ -290,6 +290,7 @@
 - [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
 - [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
 - [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
+- [Apstal](https://apstal.com): AI驱动的网站分析工具，提供会话回放和AI聊天功能。无Cookie、GDPR合规。免费额度：每月100K事件。
 
 
 ## SEO
