@@ -293,3 +293,4 @@
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
 - [ogimg.xyz](https://ogimg.xyz): Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。
+- [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker): 免费且无需注册的网站检查工具，分析robots.txt、页面级爬虫指令，以及ChatGPT和Claude爬虫用户代理的访问响应。
