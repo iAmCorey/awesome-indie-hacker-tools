@@ -127,7 +127,7 @@
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
 - [Cursor](https://cursor.sh/): 基于VS Code的AI增强型代码编辑器。提供代码自动补全、重构建议和解释功能。目前新用户免费使用，免费期结束后需要付费订阅。
-- [Agent Island](https://agent-island.dev): 开源免费的 AI 编程状态伴侣。把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态收进菜单栏或刘海，谁在跑、谁卡住、谁在等你回话一眼可见，轮到你时主动提醒；额度与费用在本机计算，无需账号，会话数据不上传。macOS 与 Windows 原生应用，MIT 协议。
+- [Agent Island](https://agent-island.dev): 开源免费的 AI 编程状态伴侣。把 Claude Code、Codex、Antigravity、Grok 与 Cursor 的会话状态收进菜单栏或刘海，谁在跑、谁卡住、谁在等你回话一眼可见，轮到你时主动提醒；额度与费用在本机计算，无需账号，会话数据不上传。macOS 与 Windows 原生应用，MIT 协议。
 - [Bolt.new](https://bolt.new/): 在线代码编辑器，支持实时协作和AI辅助编码。目前免费使用
 - [Tabnine](https://www.tabnine.com/): AI驱动的代码补全工具，可集成到多种编辑器中。提供免费版本，完整功能需付费订阅，起价$12/月。
 - [GitHub Copilot](https://github.com/features/copilot): GitHub和OpenAI合作开发的AI编程助手。提供代码建议和自动补全功能。个人使用需付费订阅，每月$4起。
