@@ -293,3 +293,4 @@
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
 - [ogimg.xyz](https://ogimg.xyz): Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。
+- [Mentioned](https://mentioned.to): 面向SEO和AI搜索可见度的Reddit代运营服务，寻找在谷歌上为你的关键词排名的Reddit讨论帖，通过托管账号发布原生帖子和评论，并报告与竞品的声量占比。代运营服务，起价$2,000/月。
