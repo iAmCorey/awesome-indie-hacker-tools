@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [Mentioned](https://mentioned.to): 面向SEO和AI搜索可见度的Reddit代运营服务，寻找在谷歌上为你的关键词排名的Reddit讨论帖，通过托管账号发布原生帖子和评论，并报告与竞品的声量占比。代运营服务，起价$2,000/月。
 
 
