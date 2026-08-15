@@ -86,5 +86,16 @@ export const ideaTools = [
       name: "BetaList",
       url: "https://betalist.com/",
     },
+  },
+  {
+    title: "IdeaHunter",
+    category: "灵感获取",
+    tags: ["独立开发", "需求验证", "创业想法"],
+    slug: "ideahunter",
+    description: "面向独立开发者和 solo founders 的 AI 创业想法研究工具，用公开信号、用户痛点和市场证据辅助筛选应用与 micro-SaaS 机会。",
+    site: {
+      name: "IdeaHunter",
+      url: "https://ideahunter.today/",
+    },
   }
 ];
