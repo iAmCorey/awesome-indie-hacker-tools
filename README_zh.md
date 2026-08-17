@@ -293,3 +293,4 @@
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
 - [ogimg.xyz](https://ogimg.xyz): Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。
+- [GeoKit](https://geokit.site): 生成式引擎优化 (GEO) 与 AI 搜索优化工具套件，辅助独立开发者抢占 ChatGPT、Perplexity 流量推荐，由 [WillSun Agency](https://willsun.agency) 维护。
