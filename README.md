@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [CADGuide Toolbox](https://cadguide.tools/toolbox/dwg-version-checker): 免费纯前端 DWG 图纸版本检测与 CAD 辅助工具箱，零上传秒级解析 DWG 二进制 Header（支持 AutoCAD 2000-2026/AC1032），并提供 50+ 工业设计/CAD 软件选型对比与工程计算器。
 
 ## 前端开发框架
 ### Web
