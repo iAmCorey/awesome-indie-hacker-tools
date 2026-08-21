@@ -138,6 +138,13 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [Codex Theme Builder](https://codextheme.tools): 免费在线主题构建器，为 OpenAI Codex（CLI/IDE）实时预览并导出 CSS token。
+- [SkyCOTL Tools](https://skycotl.tools): 免费《光遇》攻略与计算器工具集。
+- [WattsCalc](https://wattscalc.com): 免费家电功率与电费计算器。
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com): 免费按面积与单价估算割草费用。
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com): 免费刺绣计价（针数、面料、工时）。
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com): 免费把图片转换成钩针图样。
+- [Pressure Washer Fix](https://pressurewasherfix.com): 免费高压清洗机故障排查指南。
 
 ## 前端开发框架
 ### Web
