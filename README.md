@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [RefundRadar](https://guerindylan555-boop.github.io/refundradar/): Stripe chargeback evidence pack generator — turns your dispute details into a counter_evidence rebuttal letter + per-reason-code evidence checklist for indie SaaS merchants.
 
 
 ## 国际化
