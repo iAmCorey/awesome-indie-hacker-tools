@@ -137,6 +137,7 @@
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
 
 ## 文件工具
+- [Formatho](https://formatho.com): 134个免费开发者工具，全部在浏览器本地运行（JSON/YAML/XML/TOML/CSV格式化与校验、JWT解码、SQL格式化、哈希生成、Base64/URL编码等）。无上传、无注册、无跟踪，开源（MIT）。
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
 
 ## 前端开发框架
