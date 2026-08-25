@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/): 免费浏览器发票/收据生成器，打印或保存PDF，无需账户或上传。[商业版 EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-indie-hacker-tools-v1) 含白标PDF、6种模板、无限批量CLI。
 
 
 ## 国际化
