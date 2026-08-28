@@ -41,6 +41,7 @@
 - [部署](#部署)
 - [产品发布推广](#产品发布推广)
 - [统计分析](#统计分析)
+- [监控](#监控)
 - [SEO](#seo)
 
 
@@ -290,6 +291,10 @@
 - [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
 - [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
 - [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
+
+
+## 监控
+- [Flatline](https://github.com/nagpalarpit/flatline): cron 任务和定时任务的 dead man's switch，任务运行后 ping 一下，一旦停止运行立即通过 webhook 告警。开源自托管在自己的 Cloudflare 账号上，无需注册即可试用。
 
 
 ## SEO
