@@ -54,6 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [ProofStack](https://proof-stack-lake.vercel.app): 独立产品商业案例库：43 个产品的定价、营收与获客拆解，每个数字附公开信源链接（查不到的标「未披露」，不估算）；含按品类逐页核对定价页算出的定价基准，以及免费的痛点匹配验证。提供 MCP 接口，AI 助手可直接查询并引用出处。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
