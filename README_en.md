@@ -37,6 +37,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Payment](#payment)
 - [Internationalization](#internationalization)
 - [Domain Purchase](#domain-purchase)
+- [Domain Monitoring](#domain-monitoring)
 - [Domain Email](#domain-email)
 - [Deployment](#deployment)
 - [Product Launch and Promotion](#product-launch-and-promotion)
@@ -234,6 +235,9 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Domain.com](https://www.domain.com/): A comprehensive platform offering various top-level domains and website building tools.
 - [Dynadot](https://www.dynadot.com/): Offers flexible domain management options and bulk operation features.
 
+
+## Domain Monitoring
+- [Vacato](https://vacato.io/): RDAP domain watchlist for names you want. Scheduled checks with Telegram/email/Slack alerts when status looks available. Not a registrar or drop-catcher — alerts only. Free: 10 domains; Pro from \/mo.
 
 ## Domain Email
 - [Cloudflare](https://www.cloudflare.com/): A network infrastructure platform providing DNS management, CDN, and email routing services.
