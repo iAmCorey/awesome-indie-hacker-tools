@@ -123,6 +123,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+- [Hype Stack](https://github.com/BetterTyped/hype-stack): 免费 MIT 全栈 SaaS monorepo（React 19、Hono、Vite、TanStack、shadcn、Electron、Expo、浏览器扩展、Postgres）。CLI 创建/组合 + MCP（`npx @hype-stack/cli mcp install`）。https://www.hype-stack.dev
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
