@@ -124,6 +124,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Shipfast](https://shipfa.st/): Offers various responsive templates based on Tailwind CSS, suitable for different application scenarios.
 - [Supastarter](https://supastarter.com/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Makerkit](https://makerkit.dev/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
+- [Hype Stack](https://github.com/BetterTyped/hype-stack): Free MIT fullstack SaaS monorepo (React 19, Hono, Vite, TanStack, shadcn, Electron, Expo, browser extension, Postgres). CLI create/compose + MCP (`npx @hype-stack/cli mcp install`). https://www.hype-stack.dev
 - [Vibe Coding Starter Kit](https://vibecodingstarterkit.io/): AI-powered Next.js boilerplate for non-technical founders, featuring AI commands, pre-configured auth, payments, and rapid development tools.
 
 ## Development Tools

@@ -120,6 +120,7 @@
 
 
 ## 模板
+- [Hype Stack](https://github.com/BetterTyped/hype-stack): 免费 MIT 全栈 SaaS monorepo（React 19、Hono、Vite、TanStack、shadcn、Electron、Expo、浏览器扩展、Postgres）。CLI 创建/组合 + MCP（`npx @hype-stack/cli mcp install`）。https://www.hype-stack.dev
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
