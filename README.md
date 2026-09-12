@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Seller Earnings Calculator](https://esdecode.com/tools/seller-earnings-calculator): Free calculator for marketplace fees, payment processing fees, VAT and net seller earnings.
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
