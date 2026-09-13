@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [squirrelscan](https://squirrelscan.com): 面向编程智能体（Claude Code、Cursor）的命令行网站审计工具，内置260+条规则，覆盖SEO、性能、安全、无障碍性和智能体体验，并给出可直接定位到源码的修复方案。本地审计免费，提供GitHub Action和MCP服务器。
 
 
