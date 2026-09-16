@@ -290,6 +290,7 @@
 - [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
 - [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
 - [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
+- [WishlistDoc](https://wishlistdoc.com/): 面向独立游戏出海开发者的 Steam 商店页算法体检与销量预测工具。支持 100% 浏览器零上传愿望单机刷清洗与 P10/P50/P90 预测锥。免费提供商店页诊断。
 
 
 ## SEO
