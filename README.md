@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [CheckoutReady](https://checkoutready.dev/): 专为出海独立开发者设计的支付合规预审与费率计算器，支持 Visa/Mastercard 规则体检、SaaS 法律条款生成、15 大支付平台费率测算及申诉案例库。
 
 
 ## 国际化
