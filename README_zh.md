@@ -264,6 +264,7 @@
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
+- [SaaS Launch Directories Explorer](https://themerchcog.github.io/saas-launch-directories-2026/): 100+ 经过人工验证的 SaaS 与 AI 提交目录检索工具，支持按 DoFollow 外链、DR 权重及免费提交筛选。
 
 
 

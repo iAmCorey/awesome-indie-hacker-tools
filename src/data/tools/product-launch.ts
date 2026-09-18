@@ -109,4 +109,15 @@ export const productLaunchPlatforms = [
       url: "https://sspai.com/",
     },
   },
+  {
+    title: "SaaS Launch Directories Explorer",
+    category: "产品发布推广",
+    tags: ["产品发布", "SaaS目录", "外链优化", "冷启动"],
+    slug: "saas-launch-directories",
+    description: "100+ 经过人工验证的 SaaS 与 AI 提交目录检索工具，支持按 DoFollow 外链、DR 权重及免费提交筛选。",
+    site: {
+      name: "SaaS Launch Directories Explorer",
+      url: "https://themerchcog.github.io/saas-launch-directories-2026/",
+    },
+  },
 ];
