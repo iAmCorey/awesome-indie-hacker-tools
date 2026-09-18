@@ -127,6 +127,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Vibe Coding Starter Kit](https://vibecodingstarterkit.io/): AI-powered Next.js boilerplate for non-technical founders, featuring AI commands, pre-configured auth, payments, and rapid development tools.
 
 ## Development Tools
+- [NextReset](https://nextreset.ai/): A free browser resource for Codex reset-history observations, official AI-service incident sources, and a browser-local personal countdown.
 - [VS Code](https://code.visualstudio.com/): A free, open-source code editor developed by Microsoft. Supports multiple programming languages, debugging, Git integration, and other features, with a rich extension ecosystem.
 - [Cursor](https://cursor.sh/): An AI-enhanced code editor based on VS Code. Provides code auto-completion, refactoring suggestions, and explanation features. Currently free for new users, requires paid subscription after the free period ends.
 - [Bolt.new](https://bolt.new/): An online code editor supporting real-time collaboration and AI-assisted coding. Currently free to use.
