@@ -277,6 +277,7 @@
 
 
 ## 财务税务
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/): 免费浏览器端发票/报价/时薪/催款/SOW 工具（MIT，无需注册）+ 可选双语 WhatsApp 成交包。
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
 
 ## 统计分析
