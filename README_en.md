@@ -210,6 +210,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 
 
 ## Payment
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/): Free browser invoice, quote, rate, payment-reminder, and scope-of-work tools (MIT, no signup) plus optional bilingual WhatsApp close pack.
 - [Stripe](https://stripe.com/): A comprehensive online payment processing platform supporting multiple payment methods and currencies.
 - [Paypal](https://www.paypal.com/): A widely used online payment system supporting personal and business accounts.
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): An all-in-one payment and sales platform for digital products.
