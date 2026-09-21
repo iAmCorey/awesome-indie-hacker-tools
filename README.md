@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [ShrinkKit](https://p32929.github.io/shrinkkit/): 浏览器端批量图片压缩/缩放/格式转换工具（WebP、JPEG、PNG），支持整个文件夹一次处理并打包 ZIP 下载，内置免费的 EXIF/GPS 元数据查看器，压缩时自动清除元数据。无需注册、无后端、可离线使用（PWA），开源 MIT。免费版每批 20 张，付费授权解除数量限制。
 
 ## 前端开发框架
 ### Web
