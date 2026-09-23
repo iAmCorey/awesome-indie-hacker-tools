@@ -109,4 +109,15 @@ export const productLaunchPlatforms = [
       url: "https://sspai.com/",
     },
   },
+  {
+    title: "Listwright",
+    category: "产品发布推广",
+    tags: ["发布目录", "实测数据", "代为提交"],
+    slug: "listwright",
+    description: "对发布目录本身的一次带日期的实测。GitHub 上 star 最多的五个“提交你的初创产品”清单合计指向 429 个域名；2026-09-21 的测量显示，其中 146 个在自己首页上给出了可用的提交页面链接，77 个首页已经无法访问。方法与数据公开，可免费查阅。另有付费服务（9 欧元起）代为提交，并为每一次提交返回凭证。",
+    site: {
+      name: "Listwright",
+      url: "https://github.com/emelinedb26-wq/listwright",
+    },
+  },
 ];
