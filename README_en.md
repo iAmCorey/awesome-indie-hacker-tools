@@ -266,6 +266,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
 - [v2ex](https://www.v2ex.com/): A Chinese tech community with a dedicated section for sharing personal projects.
 - [少数派](https://sspai.com/): A tech media platform for Chinese users where you can submit articles introducing new products.
+- [Listwright](https://github.com/emelinedb26-wq/listwright): A dated audit of the launch directories themselves. The five most-starred "submit your startup" lists on GitHub point at 429 distinct hostnames; measured on 2026-09-21, 146 of them publish a submission page the site links from its own homepage, and 77 homepages no longer answer at all. Method and numbers are free to read. A paid service (from 9 EUR) makes the submissions on your project and returns proof for each one.
 
 
 
