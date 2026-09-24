@@ -177,6 +177,7 @@
 - [Firebase](https://firebase.google.com/): 一个基于NoSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划根据使用量定价。
 - [PlanetScale](https://planetscale.com/): 一个基于MySQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$29/月。
 - [Neon](https://neon.tech/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$20/月。
+- [Nhost](https://nhost.io): 一个基于PostgreSQL的开源后端，自动生成GraphQL API，内置认证、存储和云函数。有免费计划，付费计划起价$25/月。
 - [Upstash](https://upstash.com/): 一个基于Redis的云数据库，提供实时数据同步和API。有免费计划，付费计划按使用量计费。
 - [Railway](https://railway.app/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$5/月。
 - [Realm](https://realm.io/): 一个基于MongoDB的云数据库，提供实时数据同步和API。定价根据具体需求而定。
