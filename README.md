@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [PhotoOmni](https://photoomni.com/en): 在线护照和签证照片工具，可按不同国家的要求检查尺寸、背景、面部位置和图像质量，并提供人工合规复核。
 
 ## 前端开发框架
 ### Web
@@ -311,5 +312,4 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
-
 
