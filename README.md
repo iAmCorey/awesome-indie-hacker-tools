@@ -273,6 +273,7 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [ThreadFox](https://threadfox.vip): 让 Claude Code、Claude Desktop 或 Codex 在你自己的 Chrome 中做 Reddit 推广：先读每个子版块的规则，起草帖子和回复由你批准后发布，每个社区只发一次，发布后复查帖子是否被删除。付费工具包；只读研究工具 [ThreadFox Lite](https://github.com/amflimited/threadfox-lite) 免费开源。
 
 
 
