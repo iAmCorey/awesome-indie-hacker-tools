@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [UpRes](https://upres.ai): AI 图像与视频高清放大工具，最高支持 8K 超分辨率重建。提供多模型管道、开发者 API、CLI 与 MCP 工具，支持批量处理与自动化工作流。
 
 ## 前端开发框架
 ### Web
