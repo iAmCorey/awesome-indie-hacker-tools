@@ -109,4 +109,15 @@ export const domainRegistrars = [
       url: "https://www.dynadot.com/",
     },
   },
+  {
+    title: "NameSale",
+    category: "域名购买",
+    tags: ["品牌域名", "一口价", "含首年注册"],
+    slug: "namesale",
+    description: "品牌化域名交易平台，每个域名一口价，含首年注册，并标明续费价格。",
+    site: {
+      name: "NameSale",
+      url: "https://namesale.store/",
+    },
+  },
 ];

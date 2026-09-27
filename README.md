@@ -236,6 +236,7 @@
 - [Hover](https://www.hover.com/): 专注于简洁用户体验的域名注册商，提供清晰定价。
 - [Domain.com](https://www.domain.com/): 提供多种顶级域名和网站建设工具的综合平台。
 - [Dynadot](https://www.dynadot.com/): 提供灵活的域名管理选项和批量操作功能。
+- [NameSale](https://namesale.store/): 品牌化域名交易平台，每个域名一口价，含首年注册，并标明续费价格。
 
 
 ## 域名邮件
