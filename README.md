@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Daily Needs Free Tools](https://dailyneedsassociation.com/tools/): 面向独立开发者与电商运营的免费纯客户端决策工具箱，包含损益平衡 ROAS、现金跑道 (Cash Runway)、安全库存、免运费门槛与有效时薪等 20 个实用计算器。[GitHub 开源库](https://github.com/Basswala/daily-needs-free-tools)
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
