@@ -233,6 +233,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Hover](https://www.hover.com/): A domain registrar focused on a clean user experience, offering clear pricing.
 - [Domain.com](https://www.domain.com/): A comprehensive platform offering various top-level domains and website building tools.
 - [Dynadot](https://www.dynadot.com/): Offers flexible domain management options and bulk operation features.
+- [NameSale](https://namesale.store/): A marketplace of brandable domain names with one fixed price per name, first year of registration included and the renewal price shown.
 
 
 ## Domain Email
