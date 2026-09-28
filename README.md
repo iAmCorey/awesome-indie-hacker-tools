@@ -55,6 +55,7 @@
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 
+- [副业项目评估器](https://zhangzzc1994.github.io/side-hustle-scorer/): 收集到一堆灵感后用这个做筛选，8 维度加权打分，30 秒判断一个副业想法值不值得投入（含复利潜力诊断，免费无注册）。
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
 - [vx.dev](https://vx.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作，v0.dev的开源替代品。完全免费开源。
