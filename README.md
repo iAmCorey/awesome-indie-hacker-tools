@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [FileOnTap](https://fileontap.com/heic-to-png/): 免费在线 HEIC 转 PNG 工具，100% 浏览器端处理，图片不上传服务器，无需注册。
 
 ## 前端开发框架
 ### Web
