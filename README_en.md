@@ -252,6 +252,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Zeabur](https://zeabur.com/): A modern application deployment and hosting platform supporting multiple programming languages and frameworks. Offers a free plan, paid plans are priced based on resource usage.
 - [Render](https://render.com/): A unified cloud platform for building and running all applications and websites. Offers free and paid plans, static site hosting is free, pricing for other services varies by type.
 - [Fly.io](https://fly.io/): A globally distributed application platform allowing developers to run applications close to users. Offers limited free resources, paid plans are billed based on usage.
+- [MoodLensAI](https://moodlensai.com/): A managed app hosting platform. Deploy Laravel, Django, FastAPI, Next.js or Node.js apps from a GitHub repository, or one-click apps such as n8n and WordPress. Zero-downtime releases, free SSL and daily backups. Fixed monthly plans from $5/month.
 - [Github Pages](https://pages.github.com/): A free static site hosting service supporting Jekyll and Markdown.
 
 
