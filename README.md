@@ -255,6 +255,7 @@
 - [Zeabur](https://zeabur.com/): 一个现代化的应用部署和托管平台，支持多种编程语言和框架。提供免费计划，付费计划根据资源使用量定价。
 - [Render](https://render.com/): 一个统一的云平台，用于构建和运行所有应用和网站。提供免费和付费计划，静态站点托管免费，其他服务起价因类型而异。
 - [Fly.io](https://fly.io/): 一个全球分布式应用平台，允许开发者在靠近用户的地方运行应用。提供有限的免费资源，付费计划按使用量计费。
+- [MoodLensAI](https://moodlensai.com/): 一个托管应用平台，可从 GitHub 仓库部署 Laravel、Django、FastAPI、Next.js、Node.js 等应用，或一键部署 n8n、WordPress。零停机发布，包含免费 SSL 和每日备份。固定月费，起价$5/月。
 - [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
 
 
