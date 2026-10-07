@@ -265,6 +265,7 @@
 - [Reddit](https://www.reddit.com/): 大型社交新闻网站，有多个适合产品推广的子版块，如r/SideProject, r/startups等。
 - [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
+- [OpenPost](https://github.com/getopenpost/openpost/): 开源、可自托管的社交媒体发布和排程工具，可在一个工作区内为多个平台准备、审核和发布内容。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
