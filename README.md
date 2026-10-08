@@ -177,6 +177,7 @@
 - [Firebase](https://firebase.google.com/): 一个基于NoSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划根据使用量定价。
 - [PlanetScale](https://planetscale.com/): 一个基于MySQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$29/月。
 - [Neon](https://neon.tech/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$20/月。
+- [Prisma Postgres](https://www.prisma.io/postgres): 一个托管的PostgreSQL云数据库，零冷启动。有免费计划（1.01 GB存储、每月20万次操作、最多50个数据库、无需信用卡），付费计划起价$10/月。
 - [Upstash](https://upstash.com/): 一个基于Redis的云数据库，提供实时数据同步和API。有免费计划，付费计划按使用量计费。
 - [Railway](https://railway.app/): 一个基于PostgreSQL的云数据库，提供实时数据同步和API。有免费计划，付费计划起价$5/月。
 - [Realm](https://realm.io/): 一个基于MongoDB的云数据库，提供实时数据同步和API。定价根据具体需求而定。
@@ -255,6 +256,7 @@
 - [Zeabur](https://zeabur.com/): 一个现代化的应用部署和托管平台，支持多种编程语言和框架。提供免费计划，付费计划根据资源使用量定价。
 - [Render](https://render.com/): 一个统一的云平台，用于构建和运行所有应用和网站。提供免费和付费计划，静态站点托管免费，其他服务起价因类型而异。
 - [Fly.io](https://fly.io/): 一个全球分布式应用平台，允许开发者在靠近用户的地方运行应用。提供有限的免费资源，付费计划按使用量计费。
+- [Prisma Compute](https://www.prisma.io/compute): 一个在Prisma Postgres旁托管TypeScript应用（Node.js、Bun、Next.js）的平台。免费计划每月100万次请求。
 - [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
 
 
