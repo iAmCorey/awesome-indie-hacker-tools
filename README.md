@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [SmartBizCalc](https://smartbizcalc.com): 面向独立开发者和自由职业者的免费商业计算器集合，涵盖自雇税、季度预估税、1099与W-2对比、LLC与S-Corp税务规划、薪资和定价等600+工具，无需注册。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
