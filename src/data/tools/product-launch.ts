@@ -109,4 +109,15 @@ export const productLaunchPlatforms = [
       url: "https://sspai.com/",
     },
   },
+  {
+    title: "Ship & Shout",
+    category: "产品发布推广",
+    tags: ["build in public", "周报", "GitHub"],
+    slug: "ship-and-shout",
+    description: "读取每周的 GitHub 提交和 Stripe/Lemon Squeezy 收入（只读），自动生成带图表的 build in public 周报。",
+    site: {
+      name: "Ship & Shout",
+      url: "https://www.shipandshout.com/",
+    },
+  },
 ];
