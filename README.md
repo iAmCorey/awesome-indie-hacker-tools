@@ -269,6 +269,7 @@
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
+- [Ship & Shout](https://www.shipandshout.com/): 读取你每周的 GitHub 提交和 Stripe/Lemon Squeezy 收入（只读），自动生成带图表的 build in public 周报，可直接发布。有免费版。
 - [AI产品全球发布指南](https://github.com/Gingiris/gingiris-launch): 基于 AFFiNE (60k+ stars) 实战经验的发布指南，包含 Product Hunt 打榜 SOP、KOL 合作、Reddit 运营策略。
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。

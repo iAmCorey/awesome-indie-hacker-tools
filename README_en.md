@@ -266,6 +266,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
 - [v2ex](https://www.v2ex.com/): A Chinese tech community with a dedicated section for sharing personal projects.
 - [少数派](https://sspai.com/): A tech media platform for Chinese users where you can submit articles introducing new products.
+- [Ship & Shout](https://www.shipandshout.com/): Turns your weekly GitHub commits and Stripe/Lemon Squeezy revenue into a ready-to-post build-in-public update with a chart. Read-only access, free tier.
 
 
 

@@ -264,6 +264,7 @@
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
+- [Ship & Shout](https://www.shipandshout.com/): 读取你每周的 GitHub 提交和 Stripe/Lemon Squeezy 收入（只读），自动生成带图表的 build in public 周报，可直接发布。有免费版。
 
 
 
