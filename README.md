@@ -255,6 +255,7 @@
 - [Zeabur](https://zeabur.com/): 一个现代化的应用部署和托管平台，支持多种编程语言和框架。提供免费计划，付费计划根据资源使用量定价。
 - [Render](https://render.com/): 一个统一的云平台，用于构建和运行所有应用和网站。提供免费和付费计划，静态站点托管免费，其他服务起价因类型而异。
 - [Fly.io](https://fly.io/): 一个全球分布式应用平台，允许开发者在靠近用户的地方运行应用。提供有限的免费资源，付费计划按使用量计费。
+- [Ownkube](https://ownkube.io/): 一个面向个人软件的云平台。在 Claude Code、Cursor 等编码助手中通过 MCP 或从 GitHub 部署应用、后台任务、定时任务、托管 Postgres 和 Valkey 缓存，每个应用自带 HTTPS 域名。预付费钱包 $5 起充值，按分钟计费，未用余额永不过期。
 - [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
 
 

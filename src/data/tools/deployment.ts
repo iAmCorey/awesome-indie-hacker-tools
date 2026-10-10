@@ -66,6 +66,17 @@ export const deploymentServices = [
     },
   },
   {
+    title: "Ownkube",
+    category: "部署",
+    tags: ["应用托管", "Postgres", "MCP"],
+    slug: "ownkube",
+    description: "一个面向个人软件的云平台。在 Claude Code、Cursor 等编码助手中通过 MCP 或从 GitHub 部署应用、后台任务、定时任务、托管 Postgres 和 Valkey 缓存，每个应用自带 HTTPS 域名。预付费钱包 $5 起充值，按分钟计费，未用余额永不过期。",
+    site: {
+      name: "Ownkube",
+      url: "https://ownkube.io/",
+    },
+  },
+  {
     title: "Github Pages",
     category: "部署",
     tags: ["静态站点", "免费", "Jekyll"],
