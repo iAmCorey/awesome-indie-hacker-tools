@@ -252,6 +252,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Zeabur](https://zeabur.com/): A modern application deployment and hosting platform supporting multiple programming languages and frameworks. Offers a free plan, paid plans are priced based on resource usage.
 - [Render](https://render.com/): A unified cloud platform for building and running all applications and websites. Offers free and paid plans, static site hosting is free, pricing for other services varies by type.
 - [Fly.io](https://fly.io/): A globally distributed application platform allowing developers to run applications close to users. Offers limited free resources, paid plans are billed based on usage.
+- [Ownkube](https://ownkube.io/): A cloud for personal software. Deploy apps, workers, scheduled jobs, managed Postgres and Valkey from your coding agent (over MCP) or GitHub, each app on its own HTTPS hostname. Prepaid wallet from $5, billed per minute, unused credit never expires.
 - [Github Pages](https://pages.github.com/): A free static site hosting service supporting Jekyll and Markdown.
 
 
