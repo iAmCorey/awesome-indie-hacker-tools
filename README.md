@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [FaviconDL](https://favicondl.com): 免费的网站图标（favicon）下载/提取工具，输入网址即可获取 ICO、PNG、SVG、Apple Touch 等全部尺寸图标，支持批量下载，另有免费无需密钥的 API 和 MCP 服务器。完全免费。
 
 ## 前端开发框架
 ### Web
