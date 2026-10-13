@@ -302,6 +302,7 @@
 - [Google Analytics](https://analytics.google.com/): 谷歌提供的免费网站分析工具，虽主要用于流量分析，但也提供有价值的SEO相关数据。
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): 强大的网站爬虫工具，用于SEO审计和分析。提供免费版（有限制）和付费版（£149/年）。
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/): 流行的WordPress SEO插件，提供内容优化建议和技术SEO设置。基础版免费，高级版€99/年。
+- [Vaneform](https://vaneform.com/): 免费的网站流量与SEO查询工具，可查看任意域名的月访问量、流量来源、国家与关键词，并提供约100万站点的排行榜。基础查询免费，另有API和MCP。
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): 集成到Google Docs和WordPress的SEO写作辅助工具，帮助优化内容。需SEMrush订阅。
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): 由Neil Patel开发的SEO工具，提供关键词建议和内容创意。有限免费版和付费计划，起价$29/月。
 - [ogimg.xyz](https://ogimg.xyz): Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。
