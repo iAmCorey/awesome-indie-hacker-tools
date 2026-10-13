@@ -295,3 +295,4 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): An SEO writing assistant tool integrated into Google Docs and WordPress, helping optimize content. Requires SEMrush subscription.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): An SEO tool developed by Neil Patel, providing keyword suggestions and content ideas. Limited free version and paid plans starting at $29/month.
 - [ogimg.xyz](https://ogimg.xyz): API for generating Open Graph images. 10 templates, custom branding, URL auto-fetch. Free plan: 50 images/month, paid from $4.90/mo.
+- [Proofsource](https://proofsource.co): AI visibility tracker that shows which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, which sources are cited, and what to fix. Free trial, paid plans from $9/month per brand.
