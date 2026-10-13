@@ -107,6 +107,7 @@
 - [Boxicons](https://boxicons.com/): 高质量的网页友好图标库，提供常见UI元素图标。免费使用，有付费的扩展集。
 - [Ionicons](https://ionic.io/ionicons): Ionic Framework的开源图标集，适用于Web、iOS、Android和桌面应用。完全免费使用。
 - [svgrepo](https://www.svgrepo.com/): 搜索、探索和编辑最适合您项目的免费图标或矢量图，使用广泛的矢量库。下载免费的SVG矢量图和图标，可用于商业用途。
+- [APPLORE](https://applore.app/): 收录18,000多个真实App Store和Google Play应用图标的图标库，应用每次换图标都会保存历史版本，可按颜色、风格、分类浏览，适合做App图标时找参考。基础功能免费，AI生成按积分付费。
 
 ## 字体库
 - [Google Fonts](https://fonts.google.com/): 谷歌提供的免费字体库，包含1000多种字体，支持超过135种语言。可通过API或下载使用。

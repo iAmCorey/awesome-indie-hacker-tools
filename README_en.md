@@ -106,6 +106,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Boxicons](https://boxicons.com/): A high-quality web-friendly icon library offering icons for common UI elements. Free to use, with a paid extended set.
 - [Ionicons](https://ionic.io/ionicons): An open-source icon set by Ionic Framework, suitable for web, iOS, Android, and desktop applications. Completely free to use.
 - [svgrepo](https://www.svgrepo.com/): Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library. Download free SVG vectors and icons for commercial use.
+- [APPLORE](https://applore.app/): A library of 18,000+ real App Store and Google Play app icons, saving every past version when an app changes its icon, browsable by color, style and category. Useful for app icon reference. Basic features are free, AI generation is paid with credits.
 
 
 ## Font Libraries
