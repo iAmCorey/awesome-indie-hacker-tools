@@ -219,6 +219,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 ## Internationalization
 - [i18next](https://www.i18next.com/): A feature-rich internationalization framework supporting multiple languages and regions. Suitable for various JavaScript environments, including browsers and Node.js.
 - [next-intl](https://next-intl-docs.vercel.app/): An internationalization solution designed specifically for Next.js applications, providing type-safe and optimized internationalization features.
+- [App Store Localizer](https://asolocalization.com/): Localize an App Store listing for global markets: paste a public App Store URL to get translated screenshots plus localized title, subtitle, description, and keywords per locale.
 
 
 

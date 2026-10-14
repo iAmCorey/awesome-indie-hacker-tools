@@ -217,6 +217,7 @@
 ## 国际化
 - [i18next](https://www.i18next.com/): 一个功能丰富的国际化框架，支持多种语言和地区。适用于各种JavaScript环境，包括浏览器和Node.js。
 - [next-intl](https://next-intl-docs.vercel.app/): 专为Next.js应用设计的国际化解决方案，提供类型安全和优化的国际化功能。
+- [App Store Localizer](https://asolocalization.com/): App Store 应用商店本地化工具：粘贴公开的 App Store 链接，即可生成多语言截图与本地化元数据（标题、副标题、描述、关键词）。
 
 
 
