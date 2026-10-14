@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [GetInvoiceMaker](https://getinvoicemaker.com/): 无需注册的在线发票生成器，实时预览并免费下载 PDF，支持 VAT、GST/HST 和荷兰 BTW 税项及 18 种货币。免费版 PDF 底部带一行署名，Pro 版每月 9 美元。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
