@@ -41,6 +41,7 @@
 - [部署](#部署)
 - [产品发布推广](#产品发布推广)
 - [统计分析](#统计分析)
+- [财务税务](#财务税务)
 - [SEO](#seo)
 
 
@@ -278,6 +279,8 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [StatementCSV](https://statementcsv.com): Upload a bank statement PDF, fix rows in an editable table, and download a CSV (date, description, amount). No bank login. One-time $9.99.
+- [InvoiceZip](https://invoicezip.com): Export a calendar month of Stripe invoice PDFs into one ZIP using a restricted API key (rk_). Secret keys blocked; key never stored. One-time $15.
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
@@ -311,5 +314,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [MapGap](https://mapgap.app): Paste Google Business Profile categories and competitor review counts to get missing-category gaps, a review-velocity target, and reply templates. Paste-in only — no Maps scraping. One-time $9.99.
 
 
