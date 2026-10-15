@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [AI Lab](https://ailab.packscena.com/): 中文实用工具平台，提供免登录基础图片压缩；完整工具需登录并用积分购买。
 
 ## 前端开发框架
 ### Web
