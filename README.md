@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [AgentaOS](https://agentaos.ai/): 面向独立开发者的 Merchant of Record，无需注册公司即可向190多个国家收款，自动处理增值税、发票和拒付，支持 MCP 和 AI 代理。
 
 
 ## 国际化
