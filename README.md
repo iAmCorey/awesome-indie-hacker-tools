@@ -122,6 +122,7 @@
 ## 模板
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+- [Nebutra Sailor](https://github.com/Nebutra/Nebutra-Sailor): 给 AI 写出来的产品铺好上线的路的开源（Apache-2.0）SaaS 底座：Next.js + Hono 网关、Better Auth、Creem 与微信/支付宝收款、生成式 RLS 多租户，空 .env 本地即可跑通，`npx create-sailor@latest my-app` 一条命令生成。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
