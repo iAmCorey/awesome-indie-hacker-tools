@@ -135,6 +135,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue): An open-source AI code assistant plugin that can be used in VSCode and JetBrains, supporting multiple LLMs including local Ollama.
 - [Codeium](https://codeium.com/): An AI-driven code completion tool, free for personal use, Pro version $12/month.
 - [Taskade](https://www.taskade.com/): An AI-native workspace platform with built-in AI agents, task management, mind mapping, and real-time team collaboration. Offers browser extensions (Chrome, Firefox, Edge). Free plan available.
+- [CurlShot](https://curlshot.com/): A website screenshot API. One HTTP request turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, useful for link previews, OG images and page archiving. Includes an MCP server for AI agents. Free plan with 100 screenshots/month, paid plans from $19/month.
 
 ## Frontend Development Frameworks
 ### Web
