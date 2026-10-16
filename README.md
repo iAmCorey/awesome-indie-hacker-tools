@@ -139,6 +139,8 @@
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
 
+- [Glim](https://github.com/NeoPanic/Glim): 免费开源的 macOS 文件查看器，在同一工作区查看 Markdown 图表与公式、PDF、图片、JSON、CSV 和源代码，支持 Apple Silicon 和 Intel。
+
 ## 前端开发框架
 ### Web
 - [React](https://reactjs.org/): 基于JavaScript的框架，用于构建用户界面的灵活库
