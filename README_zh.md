@@ -123,6 +123,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
+- [Nebutra Sailor](https://github.com/Nebutra/Nebutra-Sailor): 给 AI 写出来的产品铺好上线的路的源码公开 SaaS 底座：Next.js + Hono 网关、Better Auth、Creem 与微信/支付宝收款、生成式 RLS 多租户，空 .env 本地即可跑通，`npx create-sailor@latest my-app` 一条命令生成（生成的项目为 MIT）。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
