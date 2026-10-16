@@ -266,6 +266,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
 - [v2ex](https://www.v2ex.com/): A Chinese tech community with a dedicated section for sharing personal projects.
 - [少数派](https://sspai.com/): A tech media platform for Chinese users where you can submit articles introducing new products.
+- [gtm.help](https://gtm.help): An AI growth engine for indie founders and B2B SaaS. Paste your site to get a ranked plan of launch and growth plays (directories, Reddit, X, LinkedIn, SEO and AI search). Paid, with a 7-day free trial; also works as an MCP server in Claude, ChatGPT and Cursor.
 
 
 
