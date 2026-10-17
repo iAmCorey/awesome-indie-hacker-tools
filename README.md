@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [BacklinkGenie](https://backlinkgenie.com/): AI 外链建设外联代理，自动找到适合你产品的 “best X” 榜单、替代品页面和评测文章，核实编辑联系方式，为每篇文章单独撰写推介邮件，并从独立托管的域名和邮箱发送，每封邮件都由你审核。提供免费机会报告，付费计划 $99/月起。
 
 
