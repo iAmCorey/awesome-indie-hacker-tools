@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [ToolKnit PDF 转图片](https://toolknit.com/tools/pdf-to-image.html): 将选定 PDF 页面在浏览器本地转成 PNG、JPG 或 WebP，支持 DPI 设置和分批 ZIP 下载，无需注册；输入上限 100 MB，并有浏览器资源及站点每日共享次数限制。
 
 ## 前端开发框架
 ### Web
