@@ -54,6 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [Agent Cookbook](https://agentcookbook.dev): 免费目录，收录 75 个真实的 AI Agent 案例（其中 20 个有人靠它赚到了钱），每个都附有来源链接、可直接复制的提示词和操作步骤。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
