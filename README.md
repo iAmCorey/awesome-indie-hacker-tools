@@ -54,6 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [得贵人 项目机会评分器](https://deguiren.com/tools/idea-validator/): 免费的项目机会评分工具，按需求、竞争、变现、开发成本和获客难度给出海项目做第一轮筛选打分，免登录使用。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
