@@ -120,6 +120,7 @@
 
 
 ## 模板
+- [burntop](https://burntop.dev/): 开源免费的全栈模板（FastAPI + React 19 + PostgreSQL），内置登录、CRUD 和 200+ 端到端测试，专为 Claude Code、Cursor、Codex 等 AI 编程代理设计。
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
