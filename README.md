@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [China Abroad Guide 企业出境通](https://chinaabroadguide.com/): 面向中国独立开发者/出海团队的免费财务合规指南，含 EOR 海外雇佣成本计算器、香港公司注册与银行开户、跨境收款工具对比。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
