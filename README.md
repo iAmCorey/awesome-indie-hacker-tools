@@ -120,6 +120,7 @@
 
 
 ## 模板
+- [FastAPI Supabase Starter](https://starter.budeglobal.in/): 基于 FastAPI 和 Supabase 的 Python SaaS 模板（付费），内置登录、团队与角色权限、Stripe 和 Razorpay 支付、AI 助手和 MCP 服务器。
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit): 为独立开发者提供的5个实用规划模板，包括产品发布清单、定价计算器、竞争对手分析、用户画像和指标仪表板。付费产品，$19。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
