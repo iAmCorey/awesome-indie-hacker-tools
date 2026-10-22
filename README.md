@@ -290,6 +290,7 @@
 - [Kissmetrics](https://www.kissmetrics.io/): 专注于客户生命周期分析的平台，帮助优化用户获取和留存。仅提供付费计划。
 - [Plausible](https://plausible.io/): 轻量级、开源的网站分析工具，注重简洁和隐私。提供付费的托管服务，起价$9/月。
 - [Umami](https://umami.is/): 简单、快速、隐私友好的开源网站分析工具。可免费自托管，也提供付费的托管服务。
+- [PageLens Analytics](https://pagelens.io/): 无Cookie的隐私友好网站分析工具，还能看到AI爬虫（GPTBot、ClaudeBot等）读取了哪些页面，以及ChatGPT、Claude、Perplexity带来的访问和收入。付费计划起价$5/月，7天免费试用。
 
 
 ## SEO
