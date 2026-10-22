@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [PeekPanda](https://peekpanda.com/): iOS 应用竞品情报工具，可查看某个应用持续投放的 Meta 广告及投放时长、它在美国 App Store 排名的搜索关键词，以及爆火的自然流量帖子；每个数据都标注采集日期。提供网页版、API 和 MCP。付费服务，提供免费试用。
 
 
