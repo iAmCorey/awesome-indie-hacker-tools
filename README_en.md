@@ -124,6 +124,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Shipfast](https://shipfa.st/): Offers various responsive templates based on Tailwind CSS, suitable for different application scenarios.
 - [Supastarter](https://supastarter.com/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Makerkit](https://makerkit.dev/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
+- [FastAPI Supabase Starter](https://starter.budeglobal.in/): Paid Python SaaS template on FastAPI and Supabase, with login, teams and roles, Stripe and Razorpay payments, an AI assistant and an MCP server.
 - [Vibe Coding Starter Kit](https://vibecodingstarterkit.io/): AI-powered Next.js boilerplate for non-technical founders, featuring AI commands, pre-configured auth, payments, and rapid development tools.
 
 ## Development Tools
