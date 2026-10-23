@@ -135,9 +135,12 @@
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
+- [Kepo](https://kepo.ai): Mac 桌面小组件应用，把 RSS、社交与行情源变成可随时呼出的浮动面板，减少浏览器标签干扰。有免费使用。
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [ViewHTML](https://viewhtml.app): 免费在线 HTML 预览与分享工具，粘贴 HTML/CSS/JS 即可实时渲染，并生成链接 / QR / PNG / PDF，无需注册。
+- [Fondo Blanco](https://fondoblanco.org): 免费西语在线抠图并生成白底图，适合 Amazon / Mercado Libre 等电商主图，无需注册。
 
 ## 前端开发框架
 ### Web
