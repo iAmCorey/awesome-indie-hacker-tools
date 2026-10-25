@@ -76,4 +76,15 @@ export const designTools = [
       url: "https://webflow.com/",
     },
   },
+  {
+    title: "AppScreen",
+    category: "原型设计",
+    tags: ["原型设计", "UI设计", "应用截图"],
+    slug: "appscreen",
+    description: "一个在浏览器中制作 App Store 和 Google Play 截图的编辑器，支持 iPhone、iPad 和 Android 设备边框。有免费版，Pro 版一次性付费 $9。",
+    site: {
+      name: "AppScreen",
+      url: "https://appscreen.pro/",
+    },
+  },
 ];
