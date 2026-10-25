@@ -256,6 +256,7 @@
 - [Render](https://render.com/): 一个统一的云平台，用于构建和运行所有应用和网站。提供免费和付费计划，静态站点托管免费，其他服务起价因类型而异。
 - [Fly.io](https://fly.io/): 一个全球分布式应用平台，允许开发者在靠近用户的地方运行应用。提供有限的免费资源，付费计划按使用量计费。
 - [Github Pages](https://pages.github.com/): 一个免费的静态站点托管服务，支持Jekyll和Markdown。
+- [apkgo / apkgo cloud](https://github.com/KevinGong2013/apkgo): 面向国内安卓开发者的多商店发版工具，覆盖国内主流安卓应用商店并发上传；CLI 采用 PolyForm Noncommercial 许可；托管版支持鸿蒙与 iOS。官网 https://apkgo.baici.tech
 
 
 ## 产品发布推广
