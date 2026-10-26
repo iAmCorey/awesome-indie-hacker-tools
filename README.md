@@ -1,5 +1,6 @@
 # Awesome Indie Hacker Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 开发第一站，搞定技术栈
 
 💡 独立开发/出海开发相关技术栈及工具
