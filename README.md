@@ -283,6 +283,8 @@
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
 - [Mixpanel](https://mixpanel.com/): 强大的用户行为分析工具，支持事件跟踪、留存分析和个性化营销。提供有限的免费版和多个付费层级。
 - [Google Analytics](https://analytics.google.com/): 谷歌提供的免费网站分析工具，提供全面的流量和用户行为数据。也有付费的GA360版本。
+- [EarlyLore](https://earlylore.com/): 面向创始人的 SaaS 竞品与收入信号研究工作区，跟踪公开的定价、定位、功能和产品页变化并保留来源与观察日期。
+
 - [Matomo](https://matomo.org/): 注重隐私的开源分析平台，可自托管或云托管。提供免费的自托管版本和付费的云服务。
 - [Fathom](https://usefathom.com/): 简单、轻量级的隐私友好分析工具。无免费版，付费计划起价$14/月。
 - [Hotjar](https://www.hotjar.com/): 结合热图、会话录制和调查功能的用户体验分析工具。有有限的免费版和多个付费计划。
