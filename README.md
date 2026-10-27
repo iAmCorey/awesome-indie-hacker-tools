@@ -127,6 +127,7 @@
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 
 ## 开发工具
+- [Resume Claim Guard](https://korey2028.tech) - 开源 Claude Code 简历防幻觉核验 Skill（[GitHub](https://github.com/korey2028-prog/resume-claim-guard)）
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
 - [Cursor](https://cursor.sh/): 基于VS Code的AI增强型代码编辑器。提供代码自动补全、重构建议和解释功能。目前新用户免费使用，免费期结束后需要付费订阅。
 - [Bolt.new](https://bolt.new/): 在线代码编辑器，支持实时协作和AI辅助编码。目前免费使用
