@@ -54,6 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [RadarMakers](https://radarmakers.com/): 面向独立开发者的免费产品发布平台，每次提交均经过人工审核，其他开发者可以从创意、实现质量、设计和价值四个方面为产品评分。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
