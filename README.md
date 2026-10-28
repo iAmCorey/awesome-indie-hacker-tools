@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [ToolStack](https://tools.mindutil.com/en): 125 款免费在线工具箱，JSON / Base64 / 图片 / PDF / 单位换算 / 颜色等工具全部在浏览器本地运行，文件不上传服务器，无需注册。
 
 ## 前端开发框架
 ### Web
