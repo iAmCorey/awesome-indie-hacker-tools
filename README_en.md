@@ -214,6 +214,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Paypal](https://www.paypal.com/): A widely used online payment system supporting personal and business accounts.
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): An all-in-one payment and sales platform for digital products.
 - [Paddle](https://www.paddle.com/): Provides global payment and tax compliance solutions for SaaS and software companies.
+- [GetPaidAtlas](https://getpaidatlas.com/): A free, independent database of which payment platforms (Stripe, Paddle, Lemon Squeezy, Polar, Gumroad, PayPal, Wise and more) support sellers in 250 countries and territories, with an official source link for every status. Not a payment provider; it never handles money.
 
 
 ## Internationalization

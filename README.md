@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [GetPaidAtlas](https://getpaidatlas.com/): 免费、独立的收款平台查询数据库：按国家查看 Stripe、Paddle、Lemon Squeezy、Polar、Gumroad、PayPal、Wise 等平台是否支持当地卖家，覆盖 250 个国家和地区，每项状态都附官方来源链接。本身不是支付服务商，不经手任何资金。
 
 
 ## 国际化
