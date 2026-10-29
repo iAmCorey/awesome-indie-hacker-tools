@@ -125,6 +125,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [Top Boilerplates](https://topboilerplates.com): 免费的 SaaS 模板与启动套件目录，收录 150 多个经过评测的项目，覆盖 Next.js、Remix、SvelteKit、Nuxt、Laravel、Rails、FastAPI、Flutter 等。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。

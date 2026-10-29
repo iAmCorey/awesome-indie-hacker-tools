@@ -120,6 +120,7 @@
 
 ## 模板
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [Top Boilerplates](https://topboilerplates.com): 免费的 SaaS 模板与启动套件目录，收录 150 多个经过评测的项目，覆盖 Next.js、Remix、SvelteKit、Nuxt、Laravel、Rails、FastAPI、Flutter 等。
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Makerkit](https://makerkit.dev/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。

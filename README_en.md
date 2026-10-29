@@ -121,6 +121,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 
 ## Templates
 - [Tailwind UI](https://tailwindui.com/templates): Offers various responsive templates based on Tailwind CSS, suitable for different application scenarios.
+- [Top Boilerplates](https://topboilerplates.com): A free, curated and reviewed directory of 150+ SaaS boilerplates and starter kits across Next.js, Remix, SvelteKit, Nuxt, Laravel, Rails, FastAPI, Flutter, and more.
 - [Shipfast](https://shipfa.st/): Offers various responsive templates based on Tailwind CSS, suitable for different application scenarios.
 - [Supastarter](https://supastarter.com/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
 - [Makerkit](https://makerkit.dev/): Offers various responsive templates based on Next.js, suitable for different application scenarios.
