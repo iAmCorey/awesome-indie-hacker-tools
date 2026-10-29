@@ -40,6 +40,7 @@
 - [域名邮件](#域名邮件)
 - [部署](#部署)
 - [产品发布推广](#产品发布推广)
+- [财务税务](#财务税务)
 - [统计分析](#统计分析)
 - [SEO](#seo)
 
@@ -278,6 +279,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool/): 本地优先的浏览器工具，输入客户/金额/逾期天数后按逾期优先（60+天优先）排出本周五该追的 Top 3 发票。MIT 开源，无需登录、无追踪、数据不出页面。源码 https://github.com/SirMem/friday-invoice-chase-tool
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
