@@ -312,4 +312,4 @@
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
-
+- [BrightWire AI Tech Stack Advisor](https://www.brightwire.news/tech-stack) - Free interactive AI tool for indie hackers and developers that recommends the best frontend, backend, database, hosting, and AI stack ([brightwire.news](https://www.brightwire.news)).
