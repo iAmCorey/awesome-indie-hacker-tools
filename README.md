@@ -275,6 +275,7 @@
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
 
 
+- [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources): 精选 75+ 免费/freemium 产品上架目录与外链来源，按质量档位与 DR 排序；配套交互目录 https://www.uwarp.design/launch 。适合独立开发者免费获客与 SEO 外链。
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
