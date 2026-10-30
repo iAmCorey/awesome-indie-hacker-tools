@@ -280,6 +280,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [Kissmetrics](https://www.kissmetrics.io/): A platform focused on customer lifecycle analysis, helping optimize user acquisition and retention. Only offers paid plans.
 - [Plausible](https://plausible.io/): A lightweight, open-source website analytics tool focusing on simplicity and privacy. Offers paid hosting services starting at $9/month.
 - [Umami](https://umami.is/): A simple, fast, privacy-friendly open-source website analytics tool. Can be self-hosted for free, also offers paid hosting services.
+- [Apparent](https://apparent.fyi/): Mobile app analytics for iOS and Android makers: live activity from its own SDK, plus reviews and sales from App Store Connect, Google Play and RevenueCat, all apps on one page. 14-day free trial, paid plans start at $10/month.
 
 
 ## SEO
