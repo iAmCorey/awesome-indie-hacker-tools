@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [MassRename](https://massrename.com): 网页版批量重命名工具，规则可叠加、执行前实时预览全部结果，支持按 CSV/Excel 名单改名，买断制无订阅。
 
 ## 前端开发框架
 ### Web
