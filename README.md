@@ -273,6 +273,7 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [MEDIAPRONET](https://mediapronet.com/): 精选目录，创始人可在此发布新的创业项目、SaaS 工具和独立产品，每个产品都有独立页面。
 
 
 
