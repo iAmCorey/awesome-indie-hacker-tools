@@ -267,6 +267,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [DTCify](https://dtcify.com): 一个聚焦DTC品牌、电商工具和增长资源的目录。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
 - [AI产品全球发布指南](https://github.com/Gingiris/gingiris-launch): 基于 AFFiNE (60k+ stars) 实战经验的发布指南，包含 Product Hunt 打榜 SOP、KOL 合作、Reddit 运营策略。
