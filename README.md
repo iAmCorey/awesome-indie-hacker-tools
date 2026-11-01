@@ -53,6 +53,7 @@
 - [Twitter](https://twitter.com/): 社交媒体平台，通过hashtag和关注者网络可以有效地传播产品信息。
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
+- [SitePatent](https://sitepatent.com/): 面向独立开发者的产品目录，可提交创业项目、工具和在线产品，按分类和技术栈浏览。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 
 ## 原型设计
