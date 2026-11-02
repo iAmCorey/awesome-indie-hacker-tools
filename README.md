@@ -54,6 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [LurkAPI](https://lurkapi.com): 社交媒体数据 API，一个 GET 请求返回 Reddit、TikTok、YouTube、X 等 16 个平台的公开帖子和评论，以及 Google 自动补全和各大广告库的广告（JSON），可用于找需求、看竞品在投什么广告。注册送 100 免费额度，无需信用卡，套餐 $9 起。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
