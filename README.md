@@ -127,6 +127,9 @@
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 
 ## 开发工具
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - macOS 菜单栏生产力 HUD（日历、倒计时、便签）
+- [Tape](https://github.com/Yvsleyen00941/Tape) - 原生 macOS 股票加密行情工具，常驻 Dock 旁未占用角落
+- [Rime](https://github.com/Yvsleyen00941/Rime) - 极简专注的 macOS 原生 Markdown 阅读与写作工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
 - [Cursor](https://cursor.sh/): 基于VS Code的AI增强型代码编辑器。提供代码自动补全、重构建议和解释功能。目前新用户免费使用，免费期结束后需要付费订阅。
 - [Bolt.new](https://bolt.new/): 在线代码编辑器，支持实时协作和AI辅助编码。目前免费使用
