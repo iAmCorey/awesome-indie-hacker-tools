@@ -273,6 +273,7 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [Shotboard](https://getshotboard.com): 面向批量制作营销内容的 Mac 应用（macOS 14+，Apple Silicon）：调研 Meta/TikTok 广告、提取和撰写脚本，并生成图片、视频和配音，适合制作广告、UGC 视频、App Store 截图和 YouTube 缩略图。可接入你的 Claude 或 ChatGPT 订阅，使用 100 个媒体模型，直接向服务商付费、无加价。提供免费版，Pro 版 $19/月。
 
 
 
