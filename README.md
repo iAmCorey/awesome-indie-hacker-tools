@@ -273,6 +273,7 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [AdMakeAI](https://admakeai.com): AI 广告素材工具，用一张产品图生成 Facebook、Instagram 和 TikTok 广告图（Meta 各版位尺寸）和 UGC 风格的视频广告，还能查看竞品在 Meta 广告库里一直在投的广告，用自己的产品做同类版本。注册送 30 免费额度，无需信用卡，付费套餐 $39/月起。
 
 
 
