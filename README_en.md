@@ -264,6 +264,7 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [LinkedIn](https://www.linkedin.com/): A professional social network suitable for B2B product promotion and building a professional image.
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt's pre-launch section where you can accumulate interest before official launch.
 - [BetaList](https://betalist.com/): A platform focused on showcasing early-stage startup projects and products.
+- [Statuz](https://statuz.app/): A post scheduler for X, Bluesky, Mastodon, LinkedIn and Reddit, available as a Mac app, a CLI and an MCP server for AI agents. Free to run on your own computer.
 - [v2ex](https://www.v2ex.com/): A Chinese tech community with a dedicated section for sharing personal projects.
 - [少数派](https://sspai.com/): A tech media platform for Chinese users where you can submit articles introducing new products.
 
