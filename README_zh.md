@@ -262,6 +262,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [Statuz](https://statuz.app/): 社交媒体定时发布工具，支持 X、Bluesky、Mastodon、LinkedIn 和 Reddit，提供 Mac 应用、命令行和面向 AI 智能体的 MCP 服务。在自己的电脑上免费使用。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
 

@@ -88,6 +88,17 @@ export const productLaunchPlatforms = [
     },
   },
   {
+    title: "Statuz",
+    category: "产品发布推广",
+    tags: ["定时发布", "社交媒体", "MCP"],
+    slug: "statuz",
+    description: "社交媒体定时发布工具，支持 X、Bluesky、Mastodon、LinkedIn 和 Reddit，提供 Mac 应用、命令行和面向 AI 智能体的 MCP 服务。在自己的电脑上免费使用。",
+    site: {
+      name: "Statuz",
+      url: "https://statuz.app/",
+    },
+  },
+  {
     title: "v2ex",
     category: "产品发布推广",
     tags: ["中文社区", "技术讨论", "创造板块"],
