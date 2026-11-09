@@ -313,3 +313,6 @@
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
 
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Mac companion showing what's currently playing in the corner beside the Dock.
