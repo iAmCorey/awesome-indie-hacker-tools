@@ -65,4 +65,15 @@ export const developmentTools = [
       url: "https://www.taskade.com/",
     },
   },
+  {
+    title: "vsux",
+    category: "开发工具",
+    tags: ["Mac 编辑器", "开源", "项目终端"],
+    slug: "vsux",
+    description: "免费、MIT 开源的原生 Mac 编辑器，将项目终端、文件和 Git 变更集中在同一工作区，支持终端分屏、Markdown 预览和保存命令。预览版，需要 Apple Silicon 与 macOS 14 或更新版本。",
+    site: {
+      name: "vsux",
+      url: "https://vsux.sphrag.com/",
+    },
+  },
 ];
