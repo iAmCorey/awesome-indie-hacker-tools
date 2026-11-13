@@ -125,6 +125,7 @@
 - [Shipfast](https://shipfa.st/): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
 - [Supastarter](https://supastarter.com/): 提供多种基于Next.js的响应式模板，适用于各种应用场景。
 - [Tailwind UI](https://tailwindui.com/templates): 提供多种基于Tailwind CSS的响应式模板，适用于各种应用场景。
+- [supastack](https://supastack.dev/): 多端 SaaS 全栈模板，一套代码同时构建 Next.js Web 站、Expo 移动应用（iOS/Android）、Tauri 桌面应用与 WXT 浏览器扩展，内置登录、团队工作区、多种支付渠道与 AI 能力。付费产品。
 
 ## 开发工具
 - [VS Code](https://code.visualstudio.com/): 微软开发的免费、开源代码编辑器。支持多种编程语言、调试、Git集成等功能，拥有丰富的扩展生态系统。
