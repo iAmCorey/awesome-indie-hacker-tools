@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [giffgaff Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/): 跨国号码与境外卡保号日历提醒工具，纯浏览器本地计算生成标准 .ics 日历文件，防范号码逾期失效，无需注册、不存隐私数据。开源代码：[GitHub](https://github.com/siuserxiaowei/keep-number-reminder)。
 
 ## 前端开发框架
 ### Web
