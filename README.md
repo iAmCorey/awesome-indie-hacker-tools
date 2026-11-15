@@ -135,6 +135,7 @@
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): 覆盖全美50州、DC及BC省1,700+独立Livehouse与演出场地预约联系人的公开远程 MCP 服务器与目录 ([官网](https://nostairsplease.com/))。
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
