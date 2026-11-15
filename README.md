@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Bootstrapped Credits](https://github.com/aidenixai/bootstrapped-credits): 无需风投即可申请的创业公司云服务与 AI 额度清单（AWS、Cloudflare、DigitalOcean 等），注明实际额度、有效期和核实日期。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
