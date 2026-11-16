@@ -273,6 +273,7 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [ASOMaster](https://asomaster.app/): App Store 与 Google Play 的 ASO 桌面工具（macOS / Windows），按国家和当地语言追踪关键词排名，显示 Apple Ads 真实热度，用你自己的 AI 生成并本地化商店文案，内置 MCP 服务器。
 
 
 
