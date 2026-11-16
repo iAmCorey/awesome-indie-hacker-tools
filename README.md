@@ -90,6 +90,7 @@
 - [Framer Motion](https://www.framer.com/motion/): 强大的React动画库。免费开源。
 - [Storybook](https://storybook.js.org/): UI组件开发环境，支持多种前端框架。核心功能免费开源，有付费的云服务。
 - [Aceternity UI](https://ui.aceternity.com/): 新兴的Tailwind CSS组件库，提供现代化和动画丰富的UI组件。目前免费使用。
+- [Particle Logo](https://particlelogo.com/zh): 在浏览器中将任意 Logo 或 3,400+ 开源品牌图标转换为 60FPS 粒子动效，支持免费导出零依赖 HTML5 与 GitHub README GIF（核心运行时 [particle-logo-canvas](https://github.com/88slash/particle-logo-canvas) MIT 开源），Pro 版支持 Vue 3/React 组件与 4K 无水印导出。
 
 
 
