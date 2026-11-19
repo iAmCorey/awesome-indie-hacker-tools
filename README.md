@@ -273,6 +273,7 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [Wavegrain](https://wavegrain.com/?utm_source=awesome-indie-hacker-tools): 用你的照片和品牌自己的语气，自动制作精选的 TikTok 图文轮播和 Instagram 轮播帖，并排期发布。提供托管 MCP 服务器，AI 智能体也能调用。付费服务。
 
 
 
