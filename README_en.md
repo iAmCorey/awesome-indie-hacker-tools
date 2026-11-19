@@ -295,3 +295,4 @@ Website address [Awesome Indie Hacker Tools](https://awesomeindiehacker.tools) (
 - [SEMrush Writing Assistant](https://www.semrush.com/swa/): An SEO writing assistant tool integrated into Google Docs and WordPress, helping optimize content. Requires SEMrush subscription.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): An SEO tool developed by Neil Patel, providing keyword suggestions and content ideas. Limited free version and paid plans starting at $29/month.
 - [ogimg.xyz](https://ogimg.xyz): API for generating Open Graph images. 10 templates, custom branding, URL auto-fetch. Free plan: 50 images/month, paid from $4.90/mo.
+- [Keyword Race](https://keywordrace.com): App Store keyword research for indie iOS developers: see which apps compete for a keyword, where your app ranks, and which keywords you can realistically win. Popularity is estimated from Apple's own search suggestions. Free check without an account; paid is a one-time lifetime payment.
