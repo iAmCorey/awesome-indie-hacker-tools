@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [Zelobiz Stripe & PayPal Fee Calculator](https://zelobiz.com/stripe-fee-calculator/): 专为独立开发者与出海团队设计的免费在线支付手续费与反向加价计算器，支持Stripe/PayPal国内外卡费率与净到账实时模拟。
 
 
 ## 国际化
