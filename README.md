@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [PixelArtHive](https://pixelarthive.com/): 免费浏览器像素艺术工具，可将图片转为像素画并放大像素画，图片在浏览器本地处理。
 
 ## 前端开发框架
 ### Web
