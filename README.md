@@ -217,6 +217,7 @@
 - [Paypal](https://www.paypal.com/): 广泛使用的在线支付系统，支持个人和商业账户。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/): 面向数字产品的一站式支付和销售平台。
 - [Paddle](https://www.paddle.com/): 为SaaS和软件公司提供全球支付和税务合规解决方案。
+- [Monemee SDK](https://github.com/monemee/monemee-sdk): 开源 SDK 和 CLI，一条命令为 Web 应用加入付费墙，或为桌面软件加入许可证密钥（支持离线验证），按销售额收费，无月费。
 
 
 ## 国际化
