@@ -135,6 +135,7 @@
 - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue):一个开源AI代码助手插件，可以在VSCode和JetBrains使用，支持多种LLM,其中包括本地的Ollama。
 - [Codeium](https://codeium.com/): AI驱动的代码补全工具，个人使用免费，Pro版本$12/月
 - [Taskade](https://www.taskade.com/): AI原生工作空间平台，内置AI代理、任务管理、思维导图和实时团队协作功能。提供浏览器扩展（Chrome、Firefox、Edge）。有免费计划。
+- [LS Exit Audit](https://twappleon.github.io/ls-exit-audit/?utm_source=awesome_indie_hacker_tools&utm_medium=github_pr&utm_campaign=ls_exit_audit_v030): 本地命令行工具，用于在 Lemon Squeezy 迁移前扫描代码库、URL 列表与集成配置，生成 Markdown、HTML、JSON 和 SARIF 证据报告。付费产品，$29。
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
