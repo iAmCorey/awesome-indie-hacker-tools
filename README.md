@@ -245,6 +245,7 @@
 - [Plunk](https://plunk.dev/): 专注于交易性和营销电子邮件的API服务。
 - [Postmark](https://postmarkapp.com/): 快速可靠的交易性电子邮件发送服务。
 - [Mailgun](https://www.mailgun.com/): 强大的电子邮件API服务，支持大规模邮件发送和追踪。
+- [Transmitly](https://transmitly.io/): 面向开发者的交易性邮件 API 与 SMTP 中继，提供自有发送基础设施、逐收件人投递事件和收件箱。
 
 
 
