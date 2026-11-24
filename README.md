@@ -278,6 +278,7 @@
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [Revenue Bear](https://apps.apple.com/us/app/revenue-bear-sales-dashboard/id6788975042): iPhone 收入看板，把 App Store Connect、Stripe、Paddle、Gumroad、Lemon Squeezy、Polar 等平台的销售汇总到一个动态里，显示 MRR、目标和成交提醒。API 密钥只存在设备钥匙串中。免费下载，Pro 一次性 $5.99。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
