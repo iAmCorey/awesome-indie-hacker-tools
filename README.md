@@ -311,5 +311,10 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [Google 广告透明度 MCP：竞品广告](https://apify.com/publicrecords/google-ads-transparency-scraper) — 从 Google 广告透明度中心获取竞品新投放、投放中和已停止的 Google 广告，含首次和最后展示日期 (Apify).
+- [公司社交账号 MCP：从官网找到 LinkedIn 与社交链接](https://apify.com/publicrecords/company-social-profile-finder) — 根据公司名称或官网，找到其 LinkedIn、X、YouTube、Instagram 和 Facebook 账号，并附证据 (Apify).
+- [Etsy 搜索 MCP：商品、价格与畅销品](https://apify.com/publicrecords/etsy-search-scraper) — 按关键词或类目获取 Etsy 搜索结果：价格、评分、评论数、Bestseller 徽章、广告标记和搜索排名 (Apify).
+- [Etsy 店铺每日销量 MCP](https://apify.com/publicrecords/etsy-shop-velocity) — 37 万多家 Etsy 店铺的每日、7 天和 28 天销量，依据各店铺公开的销量计数器测得 (Apify).
+- [Spotify 播放量与月度听众 MCP](https://apify.com/publicrecords/spotify-play-count-scraper) — 输入单曲、专辑、歌单或艺人链接，获取每首歌的 Spotify 播放量，以及艺人的月度听众数和粉丝数 (Apify).
 
 
