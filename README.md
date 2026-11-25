@@ -54,6 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/): 职业社交网络，适合B2B产品的推广和建立专业形象。
 - [ProductHunt Upcoming](https://www.producthunt.com/upcoming/): Product Hunt的预发布板块，可以在正式发布前积累兴趣。
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
+- [MoneyPeel](https://moneypeel.com/): 收录 700+ 个真实盈利的 SaaS 与 AI 产品拆解，看定价、营收信号、流量来源与 SEO 关键词，判断哪些方向真的有人付费；支持 MCP 接入，让 Claude Code / Cursor 直接查询。
 
 ## 原型设计
 - [v0](https://v0.dev/): 一个基于Web的UI设计工具，支持多种框架，提供实时预览和协作。目前处于测试阶段，免费使用。
