@@ -273,11 +273,13 @@
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
+- [LaunchPulse](https://pulse.statementflow.win): 面向独立开发者与 SaaS 团队的冷启动分发与边缘归因工作台，内置免费 12 项 AEO/llms.txt 诊断器、100+ 海外软件目录 3 波次节奏化分发追踪与亚 10ms 收入归因短链。
 
 
 
 ## 财务税务
 - [ReceiptClaimer](https://receiptclaimer.com.au): 专为澳洲独立开发者、自由职业者和房东设计的AI税务抵扣追踪与审计核对平台，提供免费的报税计算器和收据管理工具。
+- [StatementFlow AI](https://statementflow.win): 100% 浏览器本地运行的 PDF 银行流水转 QuickBooks / Xero CSV 与 0.00 自动复式平账工具，敏感账单零云端上传，提供免费额度与开源仓库。
 
 ## 统计分析
 - [Posthog](https://posthog.com/): 开源的产品分析平台，提供用户行为跟踪、漏斗分析和特性标记等功能。有免费和付费计划。
