@@ -311,5 +311,4 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
-
-
+- [MRR Bench](https://mrrbench.com/): 收录四千多个 SaaS 的定价页，每天重读一次，记录每一档价格和改价日期。查竞品最便宜那档多少钱、改过几次价、是涨还是降，都免费看。
