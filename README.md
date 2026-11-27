@@ -311,5 +311,6 @@
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev): 开源DNS传播检查工具，全球多节点查询DNS记录传播状态。完全免费。
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
+- [CiteReady](https://cite.shipbastion.com/generator): 免费免注册的 AI 搜索可见度审计与 /llms.txt 实时生成器，1 秒检测站点 sitemap 缺口、AI 爬虫 robots.txt 放行与 Schema.org 结构化数据，附开源 CLI。
 
 
