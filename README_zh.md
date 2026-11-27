@@ -264,6 +264,7 @@
 - [BetaList](https://betalist.com/): 专注于展示早期创业项目和产品的平台。
 - [v2ex](https://www.v2ex.com/): 中文技术社区，有专门的创造板块用于分享个人项目。
 - [少数派](https://sspai.com/): 面向中文用户的科技媒体，可以投稿介绍新产品。
+- [SaaSCity](https://saascity.io/): 交互式 3D SaaS 产品发布目录，内置 1,600+ 创业目录数据库、免密钥远程 [MCP 服务器](https://saascity.io/mcp)以及 30+ 免费免注册[开发者与创始人工具](https://saascity.io/free-tools)。
 
 
 
