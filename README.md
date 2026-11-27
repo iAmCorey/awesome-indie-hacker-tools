@@ -272,6 +272,7 @@
 - [AI产品全球发布指南](https://github.com/Gingiris/gingiris-launch): 基于 AFFiNE (60k+ stars) 实战经验的发布指南，包含 Product Hunt 打榜 SOP、KOL 合作、Reddit 运营策略。
 - [B2B SaaS 增长手册](https://github.com/Gingiris/gingiris-b2b-growth): 从 PMF 验证到生态化增长的完整操作手册，包含 HeyGen、Deel、Vercel 等标杆案例。
 - [开源项目发布营销](https://github.com/Gingiris/gingiris-opensource): GitHub Star 增长策略、开发者社区运营、开源项目营销的完整指南。
+- [SaaSCity](https://saascity.io/): 交互式 3D SaaS 产品发布目录，内置 1,600+ 创业目录数据库、免密钥远程 [MCP 服务器](https://saascity.io/mcp)以及 30+ 免费免注册[开发者与创始人工具](https://saascity.io/free-tools)。
 - [ASO 与 App 冷启动](https://github.com/Gingiris/gingiris-aso-growth): 应用商店优化、UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
 
 
