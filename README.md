@@ -138,6 +138,7 @@
 
 ## 文件工具
 - [OmniConvert](https://tools.sagasu.art): 免费在线文件格式和单位转换工具，100%浏览器端处理，支持94种文件转换，基于 Astro + React + FFmpeg.wasm，部署在 Cloudflare Pages。
+- [GridForArt](https://gridforart.com): 免费在线绘画与壁画比例网格工具，100% 浏览器本地画布处理（零图片上传），支持厘米/英寸/米/英尺实物画布比例、对角线、A1/B2 坐标、灰度色值与 18 种手工艺术预设。
 
 ## 前端开发框架
 ### Web
